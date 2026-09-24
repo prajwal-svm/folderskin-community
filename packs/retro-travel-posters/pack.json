@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "name": "Retro Travel Posters",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "travel",
+    "posters",
+    "vintage",
+    "cities"
+  ],
+  "skins": [
+    {
+      "file": "lisboa.webp",
+      "name": "Lisboa"
+    },
+    {
+      "file": "kyoto.webp",
+      "name": "Kyoto"
+    },
+    {
+      "file": "marrakech.webp",
+      "name": "Marrakech"
+    },
+    {
+      "file": "havana.webp",
+      "name": "Havana"
+    },
+    {
+      "file": "iceland.webp",
+      "name": "Iceland"
+    },
+    {
+      "file": "amalfi.webp",
+      "name": "Amalfi"
+    },
+    {
+      "file": "kerala.webp",
+      "name": "Kerala"
+    },
+    {
+      "file": "zermatt.webp",
+      "name": "Zermatt"
+    },
+    {
+      "file": "new-york.webp",
+      "name": "New York"
+    },
+    {
+      "file": "rio.webp",
+      "name": "Rio"
+    }
+  ]
+}
