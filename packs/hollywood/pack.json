@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "name": "Hollywood",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "hollywood",
+    "movies",
+    "film",
+    "vintage"
+  ],
+  "skins": [
+    {
+      "file": "hollywood-sign.webp",
+      "name": "Hollywood Sign"
+    },
+    {
+      "file": "oscars.webp",
+      "name": "Oscars"
+    },
+    {
+      "file": "marilyn.webp",
+      "name": "Marilyn"
+    },
+    {
+      "file": "audrey.webp",
+      "name": "Audrey"
+    },
+    {
+      "file": "chaplin.webp",
+      "name": "Chaplin"
+    },
+    {
+      "file": "casablanca.webp",
+      "name": "Casablanca"
+    },
+    {
+      "file": "rebel.webp",
+      "name": "Rebel"
+    },
+    {
+      "file": "chinese-theatre.webp",
+      "name": "Chinese Theatre"
+    },
+    {
+      "file": "oz.webp",
+      "name": "Oz"
+    },
+    {
+      "file": "king-kong.webp",
+      "name": "King Kong"
+    }
+  ]
+}
