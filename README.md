@@ -1,4 +1,4 @@
-# FolderSkin skins
+# FolderSkin community
 
 Community skin packs for [FolderSkin](https://github.com/prajwal-svm/folderskin), the free folder
 icon changer for macOS, Windows and Linux. Every pack here appears on the app's **Community**
