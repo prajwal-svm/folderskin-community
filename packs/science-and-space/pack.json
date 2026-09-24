@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "name": "Science & Space",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "science",
+    "space",
+    "history"
+  ],
+  "skins": [
+    {
+      "file": "apollo.webp",
+      "name": "Apollo"
+    },
+    {
+      "file": "seed-vault.webp",
+      "name": "Seed Vault"
+    },
+    {
+      "file": "neural.webp",
+      "name": "Neural"
+    },
+    {
+      "file": "cosmos.webp",
+      "name": "Cosmos"
+    },
+    {
+      "file": "botany.webp",
+      "name": "Botany"
+    },
+    {
+      "file": "space.webp",
+      "name": "Space"
+    },
+    {
+      "file": "atomic-age.webp",
+      "name": "Atomic Age"
+    },
+    {
+      "file": "level-up.webp",
+      "name": "Level Up"
+    },
+    {
+      "file": "electric.webp",
+      "name": "Electric"
+    },
+    {
+      "file": "observatory.webp",
+      "name": "Observatory"
+    }
+  ]
+}
