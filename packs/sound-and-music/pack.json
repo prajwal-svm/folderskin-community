@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "name": "Sound & Music",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "music",
+    "records",
+    "vintage"
+  ],
+  "skins": [
+    {
+      "file": "mixtape.webp",
+      "name": "Mixtape"
+    },
+    {
+      "file": "jazz.webp",
+      "name": "Jazz"
+    },
+    {
+      "file": "vinyl.webp",
+      "name": "Vinyl"
+    },
+    {
+      "file": "radio.webp",
+      "name": "Radio"
+    },
+    {
+      "file": "drums.webp",
+      "name": "Drums"
+    },
+    {
+      "file": "opera.webp",
+      "name": "Opera"
+    },
+    {
+      "file": "piano.webp",
+      "name": "Piano"
+    },
+    {
+      "file": "synth.webp",
+      "name": "Synth"
+    },
+    {
+      "file": "songs.webp",
+      "name": "Songs"
+    },
+    {
+      "file": "swing.webp",
+      "name": "Swing"
+    }
+  ]
+}
