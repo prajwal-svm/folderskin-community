@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "name": "Everyday Folders",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "everyday",
+    "work",
+    "home",
+    "photos"
+  ],
+  "skins": [
+    {
+      "file": "desktop.webp",
+      "name": "Desktop"
+    },
+    {
+      "file": "documents.webp",
+      "name": "Documents"
+    },
+    {
+      "file": "downloads.webp",
+      "name": "Downloads"
+    },
+    {
+      "file": "pictures.webp",
+      "name": "Pictures"
+    },
+    {
+      "file": "music.webp",
+      "name": "Music"
+    },
+    {
+      "file": "movies.webp",
+      "name": "Movies"
+    },
+    {
+      "file": "screenshots.webp",
+      "name": "Screenshots"
+    },
+    {
+      "file": "projects.webp",
+      "name": "Projects"
+    },
+    {
+      "file": "work.webp",
+      "name": "Work"
+    },
+    {
+      "file": "personal.webp",
+      "name": "Personal"
+    },
+    {
+      "file": "school.webp",
+      "name": "School"
+    },
+    {
+      "file": "archive.webp",
+      "name": "Archive"
+    },
+    {
+      "file": "backups.webp",
+      "name": "Backups"
+    },
+    {
+      "file": "code.webp",
+      "name": "Code"
+    },
+    {
+      "file": "design.webp",
+      "name": "Design"
+    },
+    {
+      "file": "clients.webp",
+      "name": "Clients"
+    },
+    {
+      "file": "meetings.webp",
+      "name": "Meetings"
+    },
+    {
+      "file": "notes.webp",
+      "name": "Notes"
+    },
+    {
+      "file": "ideas.webp",
+      "name": "Ideas"
+    },
+    {
+      "file": "invoices.webp",
+      "name": "Invoices"
+    },
+    {
+      "file": "reports.webp",
+      "name": "Reports"
+    },
+    {
+      "file": "presentations.webp",
+      "name": "Presentations"
+    },
+    {
+      "file": "spreadsheets.webp",
+      "name": "Spreadsheets"
+    },
+    {
+      "file": "receipts.webp",
+      "name": "Receipts"
+    },
+    {
+      "file": "travel.webp",
+      "name": "Travel"
+    },
+    {
+      "file": "health.webp",
+      "name": "Health"
+    },
+    {
+      "file": "family.webp",
+      "name": "Family"
+    },
+    {
+      "file": "pets.webp",
+      "name": "Pets"
+    },
+    {
+      "file": "car.webp",
+      "name": "Car"
+    },
+    {
+      "file": "home.webp",
+      "name": "Home"
+    },
+    {
+      "file": "games.webp",
+      "name": "Games"
+    },
+    {
+      "file": "podcasts.webp",
+      "name": "Podcasts"
+    },
+    {
+      "file": "videos.webp",
+      "name": "Videos"
+    },
+    {
+      "file": "camera-roll.webp",
+      "name": "Camera Roll"
+    },
+    {
+      "file": "wallpapers.webp",
+      "name": "Wallpapers"
+    },
+    {
+      "file": "inspiration.webp",
+      "name": "Inspiration"
+    },
+    {
+      "file": "shared.webp",
+      "name": "Shared"
+    },
+    {
+      "file": "inbox.webp",
+      "name": "Inbox"
+    },
+    {
+      "file": "favourites.webp",
+      "name": "Favourites"
+    },
+    {
+      "file": "old-stuff.webp",
+      "name": "Old Stuff"
+    }
+  ]
+}
