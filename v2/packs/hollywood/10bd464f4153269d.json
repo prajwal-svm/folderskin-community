@@ -1,0 +1,96 @@
+{
+  "version": 2,
+  "id": "hollywood",
+  "hash": "10bd464f4153269d",
+  "name": "Hollywood",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "hollywood",
+    "movies",
+    "film",
+    "vintage"
+  ],
+  "skins": [
+    {
+      "file": "hollywood-sign.webp",
+      "name": "Hollywood Sign",
+      "sha256": "cb37665ddf600b8509ae45c88a42840c5d75257a390328aaa6494c0cd9cb427f",
+      "bytes": 137498,
+      "w": 784,
+      "h": 671
+    },
+    {
+      "file": "oscars.webp",
+      "name": "Oscars",
+      "sha256": "c7b140df34c6af3b4aaf056614c69be83c45b341477f9278e3567d325f5c95d3",
+      "bytes": 59254,
+      "w": 743,
+      "h": 660
+    },
+    {
+      "file": "marilyn.webp",
+      "name": "Marilyn",
+      "sha256": "b2d90567825f64bd84c2283de851d3233383f24debf11596c3056f9d12653ea9",
+      "bytes": 121146,
+      "w": 810,
+      "h": 676
+    },
+    {
+      "file": "audrey.webp",
+      "name": "Audrey",
+      "sha256": "698f1f376a796ce67618b5f7a03143741e34f31325e3a7715e322b9533211fc0",
+      "bytes": 88910,
+      "w": 796,
+      "h": 665
+    },
+    {
+      "file": "chaplin.webp",
+      "name": "Chaplin",
+      "sha256": "6c8e5256534ea4e0d7a61d06178218c1daab857f4a6ebb0c6d6afdfa1b2e678d",
+      "bytes": 122022,
+      "w": 776,
+      "h": 678
+    },
+    {
+      "file": "casablanca.webp",
+      "name": "Casablanca",
+      "sha256": "0eace8c886141177569a74ed5853465390e554341abf96839f4cfcd19beae8ba",
+      "bytes": 63448,
+      "w": 770,
+      "h": 662
+    },
+    {
+      "file": "rebel.webp",
+      "name": "Rebel",
+      "sha256": "a5fb2416812ddad19aed6e42e9f9fd1134618f409a5c2034085928bde874bd75",
+      "bytes": 113986,
+      "w": 748,
+      "h": 644
+    },
+    {
+      "file": "chinese-theatre.webp",
+      "name": "Chinese Theatre",
+      "sha256": "2df4dcdc3ead26b89317cb0aa9134ae939218ca462ddde7d4ad2cf4d54b9c5dd",
+      "bytes": 137050,
+      "w": 804,
+      "h": 659
+    },
+    {
+      "file": "oz.webp",
+      "name": "Oz",
+      "sha256": "247e085007fc1958c42fc9c632facfb79415c0cd2eba0fdb04d415c9b31ec927",
+      "bytes": 136544,
+      "w": 808,
+      "h": 668
+    },
+    {
+      "file": "king-kong.webp",
+      "name": "King Kong",
+      "sha256": "c2d123f197955297d0d69ec78c6a81ac351e566efe93a5846414538c1b587d8f",
+      "bytes": 147264,
+      "w": 800,
+      "h": 670
+    }
+  ]
+}

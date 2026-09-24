@@ -1,0 +1,95 @@
+{
+  "version": 2,
+  "id": "science-and-space",
+  "hash": "33f56b7b82a63615",
+  "name": "Science & Space",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "science",
+    "space",
+    "history"
+  ],
+  "skins": [
+    {
+      "file": "apollo.webp",
+      "name": "Apollo",
+      "sha256": "e8595bc902ec66bcbc3ec0afc71b3efe7babfc06943fc3358a03a85d9f901fa3",
+      "bytes": 144926,
+      "w": 812,
+      "h": 672
+    },
+    {
+      "file": "seed-vault.webp",
+      "name": "Seed Vault",
+      "sha256": "3fb314149eb8f7bcdd95a6c6acc425262d3d4ea74fcd61f6ec59c8f186a6cd87",
+      "bytes": 90100,
+      "w": 784,
+      "h": 668
+    },
+    {
+      "file": "neural.webp",
+      "name": "Neural",
+      "sha256": "f9f54340dd258f35875ae68d9434be2a97ef6ffaf58e67c21333b560d17b9ff0",
+      "bytes": 151464,
+      "w": 752,
+      "h": 673
+    },
+    {
+      "file": "cosmos.webp",
+      "name": "Cosmos",
+      "sha256": "d4ae8452eb4fb2d1956e0a6abb5ec3348ca6da768976a6cc546242f0ba32cc32",
+      "bytes": 120880,
+      "w": 740,
+      "h": 668
+    },
+    {
+      "file": "botany.webp",
+      "name": "Botany",
+      "sha256": "6d205a1a97b0fa2c4c3477a959d038f1330ebb215e2128a9c459befb5176173b",
+      "bytes": 179718,
+      "w": 788,
+      "h": 652
+    },
+    {
+      "file": "space.webp",
+      "name": "Space",
+      "sha256": "af79d031cd17afc49d919bfd79125dac0943e0cd3586a30497ea5264cadda829",
+      "bytes": 96002,
+      "w": 792,
+      "h": 690
+    },
+    {
+      "file": "atomic-age.webp",
+      "name": "Atomic Age",
+      "sha256": "da6f3a50b98dcc5fdb3af5493d965ede98c3eed68fbbde401d792215eff27fbe",
+      "bytes": 105036,
+      "w": 819,
+      "h": 677
+    },
+    {
+      "file": "level-up.webp",
+      "name": "Level Up",
+      "sha256": "c02782860fd9233fc850ee95b9f5f0ced1360c9f41da4217f34fde554484e5af",
+      "bytes": 115078,
+      "w": 810,
+      "h": 664
+    },
+    {
+      "file": "electric.webp",
+      "name": "Electric",
+      "sha256": "93812104987fb452c2a855ce45d177eb1e3d1bc9900878163c6e58d71fa5f59f",
+      "bytes": 167314,
+      "w": 796,
+      "h": 684
+    },
+    {
+      "file": "observatory.webp",
+      "name": "Observatory",
+      "sha256": "59a4875ed53b5ef224be709d1e6ad472994a9137ca8e2c2b67b1966ebeb13440",
+      "bytes": 128968,
+      "w": 804,
+      "h": 662
+    }
+  ]
+}

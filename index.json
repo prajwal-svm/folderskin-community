@@ -2,6 +2,33 @@
   "version": 1,
   "packs": [
     {
+      "id": "ai-providers",
+      "name": "AI Providers",
+      "author": "prajwal-svm",
+      "license": "CC0-1.0",
+      "tags": [
+        "ai",
+        "brands",
+        "tech"
+      ],
+      "count": 20,
+      "hash": "af902fc2c701853d"
+    },
+    {
+      "id": "cinema-and-photography",
+      "name": "Cinema & Photography",
+      "author": "prajwal-svm",
+      "license": "CC0-1.0",
+      "tags": [
+        "cinema",
+        "photography",
+        "film",
+        "vintage"
+      ],
+      "count": 10,
+      "hash": "75201b0b69536771"
+    },
+    {
       "id": "classic-art",
       "name": "Classic Art",
       "author": "prajwal-svm",
@@ -24,6 +51,20 @@
       "hash": "8c46dc19991a23f9"
     },
     {
+      "id": "everyday-folders",
+      "name": "Everyday Folders",
+      "author": "prajwal-svm",
+      "license": "CC0-1.0",
+      "tags": [
+        "everyday",
+        "work",
+        "home",
+        "photos"
+      ],
+      "count": 40,
+      "hash": "e93cebaa36735a35"
+    },
+    {
       "id": "greek-art",
       "name": "Greek Art",
       "author": "prajwal-svm",
@@ -35,6 +76,60 @@
       ],
       "count": 15,
       "hash": "06b4ad6f053c21f1"
+    },
+    {
+      "id": "hollywood",
+      "name": "Hollywood",
+      "author": "prajwal-svm",
+      "license": "CC0-1.0",
+      "tags": [
+        "hollywood",
+        "movies",
+        "film",
+        "vintage"
+      ],
+      "count": 10,
+      "hash": "10bd464f4153269d"
+    },
+    {
+      "id": "money-and-work",
+      "name": "Money & Work",
+      "author": "prajwal-svm",
+      "license": "CC0-1.0",
+      "tags": [
+        "money",
+        "work",
+        "finance"
+      ],
+      "count": 8,
+      "hash": "d4a25f19e1827431"
+    },
+    {
+      "id": "retro-travel-posters",
+      "name": "Retro Travel Posters",
+      "author": "prajwal-svm",
+      "license": "CC0-1.0",
+      "tags": [
+        "travel",
+        "posters",
+        "vintage",
+        "cities"
+      ],
+      "count": 10,
+      "hash": "4b9dd732bdaf1b4e"
+    },
+    {
+      "id": "science-and-space",
+      "name": "Science & Space",
+      "author": "prajwal-svm",
+      "license": "CC0-1.0",
+      "tags": [
+        "science",
+        "space",
+        "history"
+      ],
+      "count": 10,
+      "hash": "33f56b7b82a63615"
     },
     {
       "id": "scientists-pop-art",
@@ -59,6 +154,33 @@
       ],
       "count": 10,
       "hash": "058617929b4f8f82"
+    },
+    {
+      "id": "sound-and-music",
+      "name": "Sound & Music",
+      "author": "prajwal-svm",
+      "license": "CC0-1.0",
+      "tags": [
+        "music",
+        "records",
+        "vintage"
+      ],
+      "count": 10,
+      "hash": "db0df0dca06f0c09"
+    },
+    {
+      "id": "subjects",
+      "name": "Subjects",
+      "author": "prajwal-svm",
+      "license": "CC0-1.0",
+      "tags": [
+        "subjects",
+        "school",
+        "science",
+        "vintage"
+      ],
+      "count": 20,
+      "hash": "d849f4075fa9f73f"
     }
   ]
 }

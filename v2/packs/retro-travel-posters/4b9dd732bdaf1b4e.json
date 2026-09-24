@@ -1,0 +1,96 @@
+{
+  "version": 2,
+  "id": "retro-travel-posters",
+  "hash": "4b9dd732bdaf1b4e",
+  "name": "Retro Travel Posters",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "travel",
+    "posters",
+    "vintage",
+    "cities"
+  ],
+  "skins": [
+    {
+      "file": "lisboa.webp",
+      "name": "Lisboa",
+      "sha256": "5ea6bffaf44ad8964edd7598ce894aae066ff967e61d7c09781d4eb0ebdd1a27",
+      "bytes": 196404,
+      "w": 784,
+      "h": 664
+    },
+    {
+      "file": "kyoto.webp",
+      "name": "Kyoto",
+      "sha256": "ffccf075b81dd60a835aaab0098cb6e82190f4752e929adfafeb5fe07fff56e8",
+      "bytes": 209294,
+      "w": 784,
+      "h": 666
+    },
+    {
+      "file": "marrakech.webp",
+      "name": "Marrakech",
+      "sha256": "e6dc80eb46b520564c9b338e97a557f01efa10666cf2216a3d81d4ccde910bf8",
+      "bytes": 172966,
+      "w": 784,
+      "h": 669
+    },
+    {
+      "file": "havana.webp",
+      "name": "Havana",
+      "sha256": "8d7d1dedcbb4f4f4d29cd7d5f21ff79f060377f67631d2a1da279615ff3ab244",
+      "bytes": 160552,
+      "w": 762,
+      "h": 646
+    },
+    {
+      "file": "iceland.webp",
+      "name": "Iceland",
+      "sha256": "8eb6806030ad4ab2447e8c8fb61a20bf9f1a8eea524156b018ebb486ed381330",
+      "bytes": 56178,
+      "w": 818,
+      "h": 672
+    },
+    {
+      "file": "amalfi.webp",
+      "name": "Amalfi",
+      "sha256": "192d63654105e77b96257d45a8a1d89a058bdef7546b82a98e50433889487e6b",
+      "bytes": 155222,
+      "w": 802,
+      "h": 676
+    },
+    {
+      "file": "kerala.webp",
+      "name": "Kerala",
+      "sha256": "05cff2b75e7358535c369348df16b496c6f1d12c07c01e84792b89c57583db56",
+      "bytes": 162930,
+      "w": 799,
+      "h": 660
+    },
+    {
+      "file": "zermatt.webp",
+      "name": "Zermatt",
+      "sha256": "9653de13c3da568f2f076f7fb8f9ff089fd13881ddaf5f0fa4b9bf48dfca7408",
+      "bytes": 158788,
+      "w": 752,
+      "h": 676
+    },
+    {
+      "file": "new-york.webp",
+      "name": "New York",
+      "sha256": "674aa5d45a4e256c69e4b1938b9bd773f68c0937559918dce515cdd04c00d794",
+      "bytes": 109076,
+      "w": 728,
+      "h": 663
+    },
+    {
+      "file": "rio.webp",
+      "name": "Rio",
+      "sha256": "081654066d18a8098362f4f0340032f06077abf75bb5a6eeba77e9d6955ea0b3",
+      "bytes": 111976,
+      "w": 748,
+      "h": 648
+    }
+  ]
+}
