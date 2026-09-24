@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "name": "Money & Work",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "money",
+    "work",
+    "finance"
+  ],
+  "skins": [
+    {
+      "file": "investments.webp",
+      "name": "Investments"
+    },
+    {
+      "file": "work.webp",
+      "name": "Work"
+    },
+    {
+      "file": "savings.webp",
+      "name": "Savings"
+    },
+    {
+      "file": "deadline.webp",
+      "name": "Deadline"
+    },
+    {
+      "file": "plans.webp",
+      "name": "Plans"
+    },
+    {
+      "file": "nest-egg.webp",
+      "name": "Nest Egg"
+    },
+    {
+      "file": "out-of-office.webp",
+      "name": "Out of Office"
+    },
+    {
+      "file": "vault.webp",
+      "name": "Vault"
+    }
+  ]
+}
