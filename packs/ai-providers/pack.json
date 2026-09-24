@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "name": "AI Providers",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "ai",
+    "brands",
+    "tech"
+  ],
+  "skins": [
+    {
+      "file": "claude.webp",
+      "name": "Claude"
+    },
+    {
+      "file": "chatgpt.webp",
+      "name": "ChatGPT"
+    },
+    {
+      "file": "gemini.webp",
+      "name": "Gemini"
+    },
+    {
+      "file": "grok.webp",
+      "name": "Grok"
+    },
+    {
+      "file": "xai.webp",
+      "name": "xAI"
+    },
+    {
+      "file": "hugging-face.webp",
+      "name": "Hugging Face"
+    },
+    {
+      "file": "llama.webp",
+      "name": "Llama"
+    },
+    {
+      "file": "mistral.webp",
+      "name": "Mistral"
+    },
+    {
+      "file": "deepseek.webp",
+      "name": "DeepSeek"
+    },
+    {
+      "file": "perplexity.webp",
+      "name": "Perplexity"
+    },
+    {
+      "file": "copilot.webp",
+      "name": "Copilot"
+    },
+    {
+      "file": "github-copilot.webp",
+      "name": "GitHub Copilot"
+    },
+    {
+      "file": "midjourney.webp",
+      "name": "Midjourney"
+    },
+    {
+      "file": "stable-diffusion.webp",
+      "name": "Stable Diffusion"
+    },
+    {
+      "file": "nvidia.webp",
+      "name": "NVIDIA"
+    },
+    {
+      "file": "apple-intelligence.webp",
+      "name": "Apple Intelligence"
+    },
+    {
+      "file": "alexa.webp",
+      "name": "Alexa"
+    },
+    {
+      "file": "qwen.webp",
+      "name": "Qwen"
+    },
+    {
+      "file": "elevenlabs.webp",
+      "name": "ElevenLabs"
+    },
+    {
+      "file": "runway.webp",
+      "name": "Runway"
+    }
+  ]
+}
