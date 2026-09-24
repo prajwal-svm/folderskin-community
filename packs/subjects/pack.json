@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "name": "Subjects",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "subjects",
+    "school",
+    "science",
+    "vintage"
+  ],
+  "skins": [
+    {
+      "file": "mathematics.webp",
+      "name": "Mathematics"
+    },
+    {
+      "file": "physics.webp",
+      "name": "Physics"
+    },
+    {
+      "file": "chemistry.webp",
+      "name": "Chemistry"
+    },
+    {
+      "file": "biology.webp",
+      "name": "Biology"
+    },
+    {
+      "file": "astronomy.webp",
+      "name": "Astronomy"
+    },
+    {
+      "file": "economics.webp",
+      "name": "Economics"
+    },
+    {
+      "file": "computer-science.webp",
+      "name": "Computer Science"
+    },
+    {
+      "file": "artificial-intelligence.webp",
+      "name": "Artificial Intelligence"
+    },
+    {
+      "file": "machine-learning.webp",
+      "name": "Machine Learning"
+    },
+    {
+      "file": "electronics.webp",
+      "name": "Electronics"
+    },
+    {
+      "file": "engineering.webp",
+      "name": "Engineering"
+    },
+    {
+      "file": "literature.webp",
+      "name": "Literature"
+    },
+    {
+      "file": "history.webp",
+      "name": "History"
+    },
+    {
+      "file": "geography.webp",
+      "name": "Geography"
+    },
+    {
+      "file": "languages.webp",
+      "name": "Languages"
+    },
+    {
+      "file": "art.webp",
+      "name": "Art"
+    },
+    {
+      "file": "music.webp",
+      "name": "Music"
+    },
+    {
+      "file": "psychology.webp",
+      "name": "Psychology"
+    },
+    {
+      "file": "philosophy.webp",
+      "name": "Philosophy"
+    },
+    {
+      "file": "medicine.webp",
+      "name": "Medicine"
+    }
+  ]
+}
