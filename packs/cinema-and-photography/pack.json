@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "name": "Cinema & Photography",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "cinema",
+    "photography",
+    "film",
+    "vintage"
+  ],
+  "skins": [
+    {
+      "file": "drive-in.webp",
+      "name": "Drive-In"
+    },
+    {
+      "file": "films.webp",
+      "name": "Films"
+    },
+    {
+      "file": "noir.webp",
+      "name": "Noir"
+    },
+    {
+      "file": "photos.webp",
+      "name": "Photos"
+    },
+    {
+      "file": "memories.webp",
+      "name": "Memories"
+    },
+    {
+      "file": "cinema.webp",
+      "name": "Cinema"
+    },
+    {
+      "file": "matinee.webp",
+      "name": "Matinee"
+    },
+    {
+      "file": "movie-night.webp",
+      "name": "Movie Night"
+    },
+    {
+      "file": "picture-palace.webp",
+      "name": "Picture Palace"
+    },
+    {
+      "file": "outtakes.webp",
+      "name": "Outtakes"
+    }
+  ]
+}
