@@ -12,15 +12,6 @@
   ],
   "skins": [
     {
-      "file": "grand-canyon.webp",
-      "name": "Grand Canyon",
-      "tags": [
-        "arizona",
-        "canyon",
-        "river"
-      ]
-    },
-    {
       "file": "yosemite.webp",
       "name": "Yosemite",
       "tags": [
@@ -261,15 +252,6 @@
         "colorado",
         "dunes",
         "mountains"
-      ]
-    },
-    {
-      "file": "mesa-verde.webp",
-      "name": "Mesa Verde",
-      "tags": [
-        "colorado",
-        "cliff dwellings",
-        "ancient"
       ]
     },
     {
