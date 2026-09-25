@@ -1,0 +1,277 @@
+{
+  "version": 2,
+  "id": "data-structures-in-bricks-phibx3",
+  "hash": "6f47b0b00c0b3253",
+  "name": "Data Structures in Bricks",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "programming",
+    "algorithms",
+    "data structures",
+    "computer science",
+    "bricks"
+  ],
+  "skins": [
+    {
+      "file": "array.webp",
+      "name": "Array",
+      "tags": [
+        "array",
+        "index",
+        "blocks"
+      ],
+      "sha256": "ad54f9ce916c7a7dd6119f0e48b02ba5a5b1b593a6087e716ceef0fc0c30632f",
+      "bytes": 413656,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "linked-list.webp",
+      "name": "Linked List",
+      "tags": [
+        "linked list",
+        "chain",
+        "nodes"
+      ],
+      "sha256": "6a7cbd398ea972ebbfae1c91075a2ccca60324faf6d91a89c05346b0cac250f9",
+      "bytes": 302244,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "stack.webp",
+      "name": "Stack",
+      "tags": [
+        "stack",
+        "lifo",
+        "plates"
+      ],
+      "sha256": "114bed28b7070bbd9899cceb9c696a7bd28fa0f5818b66fbfbe50dcbb0995158",
+      "bytes": 496900,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "queue.webp",
+      "name": "Queue",
+      "tags": [
+        "queue",
+        "fifo",
+        "cars"
+      ],
+      "sha256": "72250595ed0047de930533df9e5dd781fb9325cb177cebe50d3a8cf1c8f32e45",
+      "bytes": 798862,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "priority-queue.webp",
+      "name": "Priority Queue",
+      "tags": [
+        "priority queue",
+        "ambulance",
+        "queue"
+      ],
+      "sha256": "b2b1ca8e7204dd3b2672ccab98186ef164f54ba93cda49b04a56d4572921f4e2",
+      "bytes": 712586,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "hash-map.webp",
+      "name": "Hash Map",
+      "tags": [
+        "hash map",
+        "keys",
+        "lookup"
+      ],
+      "sha256": "f827d9027843a5dc15ae2d542c7e8852ee977909f1f14a969b19002625c89a9a",
+      "bytes": 576090,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "binary-tree.webp",
+      "name": "Binary Tree",
+      "tags": [
+        "tree",
+        "binary",
+        "nodes"
+      ],
+      "sha256": "3bfb32b0b5c0cb777ece348843e7c8a07932dd6443421cc7b9bd1ba6671cda47",
+      "bytes": 425742,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "heap.webp",
+      "name": "Heap",
+      "tags": [
+        "heap",
+        "priority",
+        "pyramid"
+      ],
+      "sha256": "0459606fc107938ec214e089eba14316b97f64776fceb29ebf0dab96b5585d1e",
+      "bytes": 467334,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "trie.webp",
+      "name": "Trie",
+      "tags": [
+        "trie",
+        "prefix",
+        "tree"
+      ],
+      "sha256": "0e9054af5802a8286fee96a6d91a43d629b7a3fe7269b325f24e6cb55d449ed3",
+      "bytes": 427294,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "graph.webp",
+      "name": "Graph",
+      "tags": [
+        "graph",
+        "nodes",
+        "city"
+      ],
+      "sha256": "a6e56e7f1b7b2f276ae3460c930bbbef6439ef4b64f3f4cc926589ce82b50635",
+      "bytes": 1040486,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "union-find.webp",
+      "name": "Union-Find",
+      "tags": [
+        "union find",
+        "sets",
+        "connected"
+      ],
+      "sha256": "bf797abe286e065c4c2c7475e51d7ff070184ad884a2fc20be31a9d1d4447b00",
+      "bytes": 379190,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "sorting.webp",
+      "name": "Sorting",
+      "tags": [
+        "sorting",
+        "order",
+        "bars"
+      ],
+      "sha256": "444f24de3b5141644c98e54a84c6a903ef9cb3e77e50e2b96981beaa073e4e37",
+      "bytes": 347298,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "binary-search.webp",
+      "name": "Binary Search",
+      "tags": [
+        "binary search",
+        "book",
+        "halving"
+      ],
+      "sha256": "e3efea86723a539e1163297761f5e1c57bf22947da06bf9946481ea885ac81bb",
+      "bytes": 701672,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "breadth-first-search.webp",
+      "name": "Breadth-First Search",
+      "tags": [
+        "bfs",
+        "search",
+        "ripples"
+      ],
+      "sha256": "614847106cb3ff3703fb235fdd1a308d20d7a6051de5223dc0a5d4a1265ff7b9",
+      "bytes": 603830,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "depth-first-search.webp",
+      "name": "Depth-First Search",
+      "tags": [
+        "dfs",
+        "search",
+        "maze"
+      ],
+      "sha256": "b45d693604ca9b6208ffa7dfc2c8994061aa02ee0abb9fca37b0e5c9dd801441",
+      "bytes": 794074,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "backtracking.webp",
+      "name": "Backtracking",
+      "tags": [
+        "backtracking",
+        "maze",
+        "paths"
+      ],
+      "sha256": "7be86096a5503382842d099275e93aad516f034c9bcaf6991977643106b5ad43",
+      "bytes": 708492,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "greedy.webp",
+      "name": "Greedy",
+      "tags": [
+        "greedy",
+        "coins",
+        "claw"
+      ],
+      "sha256": "50248a6b1a8f4d65892051e7e8b294768d7f353f4101caf6fa2d7493dc585587",
+      "bytes": 663868,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "dynamic-programming.webp",
+      "name": "Dynamic Programming",
+      "tags": [
+        "dynamic programming",
+        "subproblems",
+        "pyramid"
+      ],
+      "sha256": "baae4603a41de6ff5e3cca0fd47901c2a8e5000f837bb6187f02d50626d36c01",
+      "bytes": 534654,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "recursion.webp",
+      "name": "Recursion",
+      "tags": [
+        "recursion",
+        "nested",
+        "self similar"
+      ],
+      "sha256": "c137fc4ca7e06869bb0bff9f34288e3930d07dde9220614db1c8ae03a2d91583",
+      "bytes": 432666,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "big-o.webp",
+      "name": "Big O",
+      "tags": [
+        "big o",
+        "complexity",
+        "growth"
+      ],
+      "sha256": "ae1d5ab2cb3e6dc6e1f8c804e86618f29506aa248878c3f5bb04470b1f81267f",
+      "bytes": 319520,
+      "w": 1024,
+      "h": 1024
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "version": 2,
+  "id": "cinema-photography-5vzdx4",
+  "hash": "a0c49bd7c5e7609e",
+  "name": "Cinema & Photography",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "cinema",
+    "photography",
+    "film",
+    "vintage",
+    "movies"
+  ],
+  "skins": [
+    {
+      "file": "drive-in.webp",
+      "name": "Drive-In",
+      "tags": [
+        "drive-in",
+        "cars",
+        "retro"
+      ],
+      "sha256": "207a05550bece094347d37e4230aff86e976a098061106f178f45ca5611f4ddc",
+      "bytes": 548630,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "films.webp",
+      "name": "Films",
+      "tags": [
+        "film reels",
+        "projector"
+      ],
+      "sha256": "173242a8c17738b08bdd781df50806ddd6b47eb993f98d6b231bf1ac360abeee",
+      "bytes": 919030,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "noir.webp",
+      "name": "Noir",
+      "tags": [
+        "film noir",
+        "detective",
+        "black and white"
+      ],
+      "sha256": "70a14b6a4f23bba7550367801cac769532e386569c094e440040a26ee7419701",
+      "bytes": 492800,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "photos.webp",
+      "name": "Photos",
+      "tags": [
+        "camera",
+        "photos",
+        "lens"
+      ],
+      "sha256": "55d69b5f607e944d4222296f9b1579cebcc8952e49afcd76c4e481096c9c554a",
+      "bytes": 430980,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "memories.webp",
+      "name": "Memories",
+      "tags": [
+        "polaroids",
+        "memories",
+        "family"
+      ],
+      "sha256": "c1ddedc2cfadb3a6f55ba35babf5ca5a7268f1f4c1dd858f21d68ecd58d09524",
+      "bytes": 825980,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "cinema.webp",
+      "name": "Cinema",
+      "tags": [
+        "theatre",
+        "screen"
+      ],
+      "sha256": "28d259b283a6eea2c485851d759ded937526e2b4e1bd6f4d9fb95c6faccc59ab",
+      "bytes": 897632,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "matinee.webp",
+      "name": "Matinee",
+      "tags": [
+        "matinee",
+        "tickets",
+        "retro"
+      ],
+      "sha256": "963deddadec36f387b1ed54929bcb11a8d0aca25de05ab05dc399cd5e219a0df",
+      "bytes": 550418,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "movie-night.webp",
+      "name": "Movie Night",
+      "tags": [
+        "movie night",
+        "popcorn",
+        "home"
+      ],
+      "sha256": "49484b9594bbf450bd4af47f274abba9ed88eaa50bf0db9186a94d1576ab1439",
+      "bytes": 878996,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "picture-palace.webp",
+      "name": "Picture Palace",
+      "tags": [
+        "theatre",
+        "marquee"
+      ],
+      "sha256": "9ee965e8215ea204fd3e6b7d1c8a140044544c659c50cabcc24ba8237feb6842",
+      "bytes": 802010,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "outtakes.webp",
+      "name": "Outtakes",
+      "tags": [
+        "outtakes",
+        "clapperboard",
+        "bloopers"
+      ],
+      "sha256": "b0968cc6c53b3028c545c60c88f63f6139972e97b99701a7e9b396f2eb47966a",
+      "bytes": 646026,
+      "w": 1024,
+      "h": 1024
+    }
+  ]
+}

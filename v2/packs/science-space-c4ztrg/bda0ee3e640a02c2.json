@@ -1,0 +1,146 @@
+{
+  "version": 2,
+  "id": "science-space-c4ztrg",
+  "hash": "bda0ee3e640a02c2",
+  "name": "Science & Space",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "science",
+    "space",
+    "history",
+    "discovery",
+    "retro"
+  ],
+  "skins": [
+    {
+      "file": "apollo.webp",
+      "name": "Apollo",
+      "tags": [
+        "apollo",
+        "moon landing",
+        "astronaut"
+      ],
+      "sha256": "fc8d5266423c7ff05617ef97f131fa01155b94029ef5d410c6119ae4b4be7289",
+      "bytes": 648568,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "seed-vault.webp",
+      "name": "Seed Vault",
+      "tags": [
+        "seed vault",
+        "plants",
+        "future"
+      ],
+      "sha256": "7cad59bd163fd0ab7100ee9359d9efb0f29e4cc02b1301bffcafb6b4c4a833f4",
+      "bytes": 629206,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "neural.webp",
+      "name": "Neural",
+      "tags": [
+        "neurons",
+        "brain",
+        "network"
+      ],
+      "sha256": "7f0329321726cf91837bd0812c577aa4ef5d7a81a59e3a83d111759ef4438c4c",
+      "bytes": 863112,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "cosmos.webp",
+      "name": "Cosmos",
+      "tags": [
+        "cosmos",
+        "galaxy",
+        "universe"
+      ],
+      "sha256": "7133e09c2e051fa9fd5f6d966b51ae0e80c79a10d9906871f8ea73a36a711d87",
+      "bytes": 755986,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "botany.webp",
+      "name": "Botany",
+      "tags": [
+        "botany",
+        "plants",
+        "greenhouse"
+      ],
+      "sha256": "8e17ceb7e94e09160b337ff610fa34b9c4a5cc249236706898f5739123c696d5",
+      "bytes": 941002,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "space.webp",
+      "name": "Space",
+      "tags": [
+        "rocket",
+        "stars",
+        "exploration"
+      ],
+      "sha256": "b4c7bc72c3ad1460ae40c4e0953816f0b0c1a0a2a2775ea24b13c64656aecfe6",
+      "bytes": 609926,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "atomic-age.webp",
+      "name": "Atomic Age",
+      "tags": [
+        "atomic",
+        "1950s"
+      ],
+      "sha256": "ca6f514e63baba175192ac0e026b519e115c6649dccacf47d0f3eb502e7cab4d",
+      "bytes": 567498,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "level-up.webp",
+      "name": "Level Up",
+      "tags": [
+        "games",
+        "arcade",
+        "level up"
+      ],
+      "sha256": "2260905977b8bfc254d7119429dd3b4e65711644966ca39a2bdb4aed2bc636ec",
+      "bytes": 673206,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "electric.webp",
+      "name": "Electric",
+      "tags": [
+        "electricity",
+        "lightning",
+        "power"
+      ],
+      "sha256": "e7112ffd40d9831883b6e6c0b18c79d496276d2792a580140d301b072f814752",
+      "bytes": 893772,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "observatory.webp",
+      "name": "Observatory",
+      "tags": [
+        "observatory",
+        "telescope",
+        "stars"
+      ],
+      "sha256": "c9a4386067ea8d5e4ccd37127f85cecc7214fb020de81a176b4f840ed2173ecc",
+      "bytes": 732986,
+      "w": 1024,
+      "h": 1024
+    }
+  ]
+}

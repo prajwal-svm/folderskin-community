@@ -1,0 +1,407 @@
+{
+  "version": 2,
+  "id": "watercolour-world-rt2klu",
+  "hash": "a5930f1858534e47",
+  "name": "Watercolour World",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "travel",
+    "landmarks",
+    "watercolour",
+    "world",
+    "places"
+  ],
+  "skins": [
+    {
+      "file": "kyoto.webp",
+      "name": "Kyoto",
+      "tags": [
+        "japan",
+        "temple",
+        "autumn"
+      ],
+      "sha256": "d77f836548c0ce1c85b4759256b5f30402470fced5dcb8e7f1d9ba45542688d8",
+      "bytes": 1067494,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "santorini.webp",
+      "name": "Santorini",
+      "tags": [
+        "greece",
+        "island",
+        "sea"
+      ],
+      "sha256": "2829a7f18a27a877233caf5e1cde32e8b173f267f82c41338ed496e680d1d27d",
+      "bytes": 971564,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "machu-picchu.webp",
+      "name": "Machu Picchu",
+      "tags": [
+        "peru",
+        "ruins",
+        "mountains"
+      ],
+      "sha256": "612d770d0dfe2cc4f22131e6564ab8511bf19938237a1127a18938a856fbb977",
+      "bytes": 973104,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "petra.webp",
+      "name": "Petra",
+      "tags": [
+        "jordan",
+        "ancient",
+        "desert"
+      ],
+      "sha256": "f13ff0a40a58858153bef30772ae6bd817b22adad728d55fc76a0f09b46ead7e",
+      "bytes": 1105770,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "great-wall.webp",
+      "name": "Great Wall",
+      "tags": [
+        "china",
+        "wall",
+        "mountains"
+      ],
+      "sha256": "ca67a5d5d85e191f8f76b039f2d2bb761b316cc1f64f05019eab703b0ecddf51",
+      "bytes": 833950,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "marrakech.webp",
+      "name": "Marrakech",
+      "tags": [
+        "morocco",
+        "market",
+        "spices"
+      ],
+      "sha256": "6e3f302081a6f346c0627bf48962cf41c3313a741cecc5a7511dc171235a232d",
+      "bytes": 1194686,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "venice.webp",
+      "name": "Venice",
+      "tags": [
+        "italy",
+        "canal",
+        "gondola"
+      ],
+      "sha256": "9973f76cc1be245258e640e0dc4f79ced79cc9e522beb4b938fab792aa6893d2",
+      "bytes": 966936,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "iceland.webp",
+      "name": "Iceland",
+      "tags": [
+        "iceland",
+        "waterfall",
+        "nature"
+      ],
+      "sha256": "8c0457ca502669cd883c6ba8c392078705eca77a78f6497094dbdeea743d09e7",
+      "bytes": 991712,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "cape-town.webp",
+      "name": "Cape Town",
+      "tags": [
+        "south africa",
+        "table mountain",
+        "harbour"
+      ],
+      "sha256": "2546628a59e51bd5267d3478093dc67f127d63e08c7590221d62afd0e052ad53",
+      "bytes": 966044,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "seoul.webp",
+      "name": "Seoul",
+      "tags": [
+        "korea",
+        "palace",
+        "lanterns"
+      ],
+      "sha256": "74393135d3b7a43733abbd4f02c1272fd581aa0107b81e44ffe0d1faf44a48e2",
+      "bytes": 1035852,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "amalfi-coast.webp",
+      "name": "Amalfi Coast",
+      "tags": [
+        "italy",
+        "coast",
+        "village"
+      ],
+      "sha256": "c3bc9cad99e03aa0b43f9e12bc2b87449ae096675c1a1feeef2cede9c4f6cb3a",
+      "bytes": 1150904,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "bali.webp",
+      "name": "Bali",
+      "tags": [
+        "indonesia",
+        "rice terraces",
+        "tropical"
+      ],
+      "sha256": "7a63159c72297ab35cf659414921b63a94685ee37f48e6d05a5b7a2d9f13cde7",
+      "bytes": 1175400,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "istanbul.webp",
+      "name": "Istanbul",
+      "tags": [
+        "turkey",
+        "mosque",
+        "bosphorus"
+      ],
+      "sha256": "06c957f8b06087a47250a3c9cfcf13ce8817fab948262a15617a51b137990a3d",
+      "bytes": 1029522,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "angkor-wat.webp",
+      "name": "Angkor Wat",
+      "tags": [
+        "cambodia",
+        "temple",
+        "ruins"
+      ],
+      "sha256": "e54ca0b437e77da81fc5dee3f538e0e9dfd909833492f07b78746ffff549ed8f",
+      "bytes": 1108384,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "prague.webp",
+      "name": "Prague",
+      "tags": [
+        "czechia",
+        "bridge",
+        "old town"
+      ],
+      "sha256": "59c139b95b40cb37ed5d9717ff55096ac535294faf9f69fbbb46af63c118332b",
+      "bytes": 933798,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "havana.webp",
+      "name": "Havana",
+      "tags": [
+        "cuba",
+        "classic cars",
+        "colonial"
+      ],
+      "sha256": "a6a8fd3c08370b8c30b246eb5f992f7dd8910efccb88108d768f17132ad33b00",
+      "bytes": 1022380,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "banff.webp",
+      "name": "Banff",
+      "tags": [
+        "canada",
+        "lake",
+        "mountains"
+      ],
+      "sha256": "a0aed9abce48133718d4843dabafac8612c1d8037aa5455f250ae560ff6ce1c1",
+      "bytes": 1175352,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "cappadocia.webp",
+      "name": "Cappadocia",
+      "tags": [
+        "turkey",
+        "balloons",
+        "valley"
+      ],
+      "sha256": "f6e3a48f20a806474ee5bcfd243b5ef5c97a4e931c10a93c20beee6acd619a03",
+      "bytes": 970684,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "lisbon.webp",
+      "name": "Lisbon",
+      "tags": [
+        "portugal",
+        "tram",
+        "tiles"
+      ],
+      "sha256": "c3d56d2d505b6141f9ce8496db7b508c34f01fc2408e941d08c466f6ff720c5d",
+      "bytes": 1076326,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "ha-long-bay.webp",
+      "name": "Ha Long Bay",
+      "tags": [
+        "vietnam",
+        "bay",
+        "junk boats"
+      ],
+      "sha256": "ea86c7feb387afa39ef80baaac6000f5c95bae4247570763151b4044ea55a1c9",
+      "bytes": 1013074,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "maasai-mara.webp",
+      "name": "Maasai Mara",
+      "tags": [
+        "kenya",
+        "zebras",
+        "savanna"
+      ],
+      "sha256": "24071b49a4ab20e741d9ab22296db1c3042d652fdb5e5209abe7df6c984499d3",
+      "bytes": 1137016,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "milford-sound.webp",
+      "name": "Milford Sound",
+      "tags": [
+        "new zealand",
+        "fjord",
+        "mountains"
+      ],
+      "sha256": "a196b1f12f5087c1ab7f4e596fe593812f3dcb1ebb30644a99d5b53354c06ae9",
+      "bytes": 1077268,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "lofoten.webp",
+      "name": "Lofoten",
+      "tags": [
+        "norway",
+        "fishing village",
+        "fjord"
+      ],
+      "sha256": "d00094a4a1826c7c81a5efff1646feb4123cda68be129f06fe651e67a1bb6cee",
+      "bytes": 1035706,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "nile.webp",
+      "name": "Nile",
+      "tags": [
+        "egypt",
+        "river",
+        "sailboats"
+      ],
+      "sha256": "60d4c7eeb942f7c6b32cc3513204a5a90fe84956b58b34394a85dae06e1df3b0",
+      "bytes": 1057358,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "kerala.webp",
+      "name": "Kerala",
+      "tags": [
+        "india",
+        "backwaters",
+        "houseboat"
+      ],
+      "sha256": "645fbc3477bb4a8642227c98e2f9273aa386dff439dedf0034b32b39ee38f04b",
+      "bytes": 1102154,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "chichen-itza.webp",
+      "name": "Chichen Itza",
+      "tags": [
+        "mexico",
+        "pyramid",
+        "maya"
+      ],
+      "sha256": "6f4873c023be2f788534c78dbbc2335fdaa9459fb9647e756a9f1b9a1ccd3824",
+      "bytes": 1106126,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "scotland.webp",
+      "name": "Scotland",
+      "tags": [
+        "scotland",
+        "castle",
+        "loch"
+      ],
+      "sha256": "304df58df3122937fd5d8ddbc9b7f0fb6657388d330cab3d9726fe2d9f4b3599",
+      "bytes": 976850,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "lauterbrunnen.webp",
+      "name": "Lauterbrunnen",
+      "tags": [
+        "switzerland",
+        "valley",
+        "waterfall"
+      ],
+      "sha256": "7354e640e1ce45180a674e44571a000bc1e19db2a8fa498ac5adf38556c1bd51",
+      "bytes": 1092320,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "iguazu-falls.webp",
+      "name": "Iguazu Falls",
+      "tags": [
+        "argentina",
+        "waterfalls",
+        "jungle"
+      ],
+      "sha256": "ffd69ef4b654db9add8b7735007d4a497c3b16447427e1661fd1d681ada766b7",
+      "bytes": 1120752,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "zhangjiajie.webp",
+      "name": "Zhangjiajie",
+      "tags": [
+        "china",
+        "pillars",
+        "mountains"
+      ],
+      "sha256": "f9403732ba96d310e5f1987ed45baa58bd52bc899ee81d206e41172f71d423da",
+      "bytes": 1142770,
+      "w": 1024,
+      "h": 1024
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "version": 2,
+  "id": "us-national-parks-c6setq",
+  "hash": "8576c8cd713ed891",
+  "name": "US National Parks",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "national parks",
+    "usa",
+    "nature",
+    "hiking",
+    "posters"
+  ],
+  "skins": [
+    {
+      "file": "yosemite.webp",
+      "name": "Yosemite",
+      "tags": [
+        "california",
+        "half dome",
+        "granite"
+      ],
+      "sha256": "ecffc0f9290a47d25889cb8ef1335c3a878ba67b8695193f5eafe00ac181d0f7",
+      "bytes": 370448,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "zion.webp",
+      "name": "Zion",
+      "tags": [
+        "utah",
+        "canyon",
+        "river"
+      ],
+      "sha256": "2edfe9698babd1e25891590d0c824c328a983902bbecf0394669639b9b6efac9",
+      "bytes": 730838,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "glacier.webp",
+      "name": "Glacier",
+      "tags": [
+        "montana",
+        "lake",
+        "mountains"
+      ],
+      "sha256": "ad30521c87b75ecf648d85d1c7b34a53081266c308da41b41e93c0b19f6daca0",
+      "bytes": 922508,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "acadia.webp",
+      "name": "Acadia",
+      "tags": [
+        "maine",
+        "lighthouse",
+        "coast"
+      ],
+      "sha256": "be35353067c8881f6583f0984728ad5844803f1c9a4b6b2ded61ed4e54bc37f3",
+      "bytes": 462482,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "everglades.webp",
+      "name": "Everglades",
+      "tags": [
+        "florida",
+        "wetlands",
+        "egret"
+      ],
+      "sha256": "d3b7ac2441c3894968b19f7e45ba91a4cde775d3ea262c54aa77471c237578da",
+      "bytes": 335266,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "grand-teton.webp",
+      "name": "Grand Teton",
+      "tags": [
+        "wyoming",
+        "mountains",
+        "river"
+      ],
+      "sha256": "33e7d92d5a4199c3b97ce59ff17d9eb56b999980d3ff70c5770d7488c5bbdbf3",
+      "bytes": 592094,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "rocky-mountain.webp",
+      "name": "Rocky Mountain",
+      "tags": [
+        "colorado",
+        "mountains",
+        "trail"
+      ],
+      "sha256": "bedbf1a08981dc62944d3d85e96451d0173159300bd836b6c01bcdfb99b497c5",
+      "bytes": 893080,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "olympic.webp",
+      "name": "Olympic",
+      "tags": [
+        "washington",
+        "rainforest",
+        "moss"
+      ],
+      "sha256": "ce1e91ca3b030be5b997aae52a4bb8d5813e2370430949085a784a8411472c1b",
+      "bytes": 1238348,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "mount-rainier.webp",
+      "name": "Mount Rainier",
+      "tags": [
+        "washington",
+        "volcano",
+        "wildflowers"
+      ],
+      "sha256": "556b76817db9080b835a8485ce303d94aff30695f7a27f22c59fa48b827357dc",
+      "bytes": 857256,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "sequoia.webp",
+      "name": "Sequoia",
+      "tags": [
+        "california",
+        "giant trees",
+        "forest"
+      ],
+      "sha256": "f2a4b134956722436c36c1b6f370f7b62d44fafecc8ea32600d47f3057eb0b15",
+      "bytes": 703746,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "kings-canyon.webp",
+      "name": "Kings Canyon",
+      "tags": [
+        "california",
+        "canyon",
+        "river"
+      ],
+      "sha256": "e5d947a63def42a3fc782800ae40bc6bdb79e5ad535499eee631f1dc5e2cd3cc",
+      "bytes": 751790,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "joshua-tree.webp",
+      "name": "Joshua Tree",
+      "tags": [
+        "california",
+        "desert",
+        "boulders"
+      ],
+      "sha256": "a7312a35c06bc63d934127d154bbb82e649c0d621240a5525b52057f062ccc6f",
+      "bytes": 853090,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "bryce-canyon.webp",
+      "name": "Bryce Canyon",
+      "tags": [
+        "utah",
+        "hoodoos",
+        "canyon"
+      ],
+      "sha256": "6414b1542f69b8b3ac7bc078734f9b25191d7c1084f06bcf1fc23d38ba3ce46c",
+      "bytes": 1106766,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "capitol-reef.webp",
+      "name": "Capitol Reef",
+      "tags": [
+        "utah",
+        "cliffs",
+        "orchards"
+      ],
+      "sha256": "2f9204d3ac8ec17d7c905414d53ed80f5d0ca0fae90516e656b7dc9631cefe92",
+      "bytes": 925892,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "canyonlands.webp",
+      "name": "Canyonlands",
+      "tags": [
+        "utah",
+        "canyon",
+        "desert"
+      ],
+      "sha256": "aeb10553bb02be9ceeabc719052e2cf830e6dbf205280f21756db99e52a24ce0",
+      "bytes": 835480,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "hawaii-volcanoes.webp",
+      "name": "Hawaii Volcanoes",
+      "tags": [
+        "hawaii",
+        "lava",
+        "volcano"
+      ],
+      "sha256": "53a52afab293daf3601356a0e851e5bd73e6f29492b98c9a9cbed26ff26178e6",
+      "bytes": 636338,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "haleakala.webp",
+      "name": "Haleakala",
+      "tags": [
+        "hawaii",
+        "crater",
+        "clouds"
+      ],
+      "sha256": "0978d2cc87f732bbce89e29d11836300d79420bb50bccbb08cce50d4e876e640",
+      "bytes": 823092,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "great-smoky-mountains.webp",
+      "name": "Great Smoky Mountains",
+      "tags": [
+        "tennessee",
+        "mountains",
+        "cabin"
+      ],
+      "sha256": "a8b738dee17b59b9b4c32fa66721ef1ae80fda3158eeb0098c1a79c563d7862c",
+      "bytes": 402304,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "wind-cave.webp",
+      "name": "Wind Cave",
+      "tags": [
+        "south dakota",
+        "bison",
+        "prairie"
+      ],
+      "sha256": "64d0edb066b5699bfa93cd9a28c39f6ac9c2376bbb05e11a1e04b999ec76bbff",
+      "bytes": 641368,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "theodore-roosevelt.webp",
+      "name": "Theodore Roosevelt",
+      "tags": [
+        "north dakota",
+        "badlands",
+        "horses"
+      ],
+      "sha256": "d9200612ba6438563c06369daafd5a0c0babf76ec4cbc91128317a9f894cfcaf",
+      "bytes": 886586,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "voyageurs.webp",
+      "name": "Voyageurs",
+      "tags": [
+        "minnesota",
+        "lakes",
+        "canoe"
+      ],
+      "sha256": "304d53e3e47358bafa27fb3953ea1bc28cd4c5f8d801b3a1735967eb1d22e0d0",
+      "bytes": 422996,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "isle-royale.webp",
+      "name": "Isle Royale",
+      "tags": [
+        "michigan",
+        "moose",
+        "island"
+      ],
+      "sha256": "305523710f6db0048c4a9d5eac2e46760f7a3413046c83e54c42d179fbceac88",
+      "bytes": 714878,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "indiana-dunes.webp",
+      "name": "Indiana Dunes",
+      "tags": [
+        "indiana",
+        "dunes",
+        "lake"
+      ],
+      "sha256": "c750c0ece940a88a9c37729e505b3948f36d2f20ae7920cebf91eee5e215a155",
+      "bytes": 722620,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "cuyahoga-valley.webp",
+      "name": "Cuyahoga Valley",
+      "tags": [
+        "ohio",
+        "waterfall",
+        "train"
+      ],
+      "sha256": "4ec7fb7e84016dca7b03c1e416444573f7fee62ba790aeb7ba79e6197abf0a5e",
+      "bytes": 893942,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "hot-springs.webp",
+      "name": "Hot Springs",
+      "tags": [
+        "arkansas",
+        "bathhouse",
+        "springs"
+      ],
+      "sha256": "71847571bb919ce2b10c24916c83599c6fd5992a3e11e91be02cb87aa71b536e",
+      "bytes": 779128,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "petrified-forest.webp",
+      "name": "Petrified Forest",
+      "tags": [
+        "arizona",
+        "petrified wood",
+        "desert"
+      ],
+      "sha256": "b6705aab67c2e2109d506fdd13e0334ad2a36d8cf727c3f62a6dd955398787eb",
+      "bytes": 719162,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "great-sand-dunes.webp",
+      "name": "Great Sand Dunes",
+      "tags": [
+        "colorado",
+        "dunes",
+        "mountains"
+      ],
+      "sha256": "a5147b0743cc203c09baaa2a0db0599f1ca764dbd1e8ecc9d61087b38654cc8d",
+      "bytes": 418346,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "black-canyon.webp",
+      "name": "Black Canyon",
+      "tags": [
+        "colorado",
+        "canyon",
+        "cliffs"
+      ],
+      "sha256": "88aad4a31f672bcd575d089f040536c6c39bd25ada9a9f837c58bad739d61c1b",
+      "bytes": 765014,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "lassen-volcanic.webp",
+      "name": "Lassen Volcanic",
+      "tags": [
+        "california",
+        "volcano",
+        "hot springs"
+      ],
+      "sha256": "dd295f1479bf23406b76047e8c8f7301cb1c5cda8f700609b257513a4bbfe185",
+      "bytes": 948662,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "katmai.webp",
+      "name": "Katmai",
+      "tags": [
+        "alaska",
+        "bears",
+        "salmon"
+      ],
+      "sha256": "b071185255667d487105f36ae0acb44938e5a5678d35d7dd55d2023046615f9c",
+      "bytes": 548672,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "channel-islands.webp",
+      "name": "Channel Islands",
+      "tags": [
+        "california",
+        "island",
+        "fox"
+      ],
+      "sha256": "28455a7e8defe92e1ea5328fbe8cc2bb8a7130871eff90abbab7756c3d15995c",
+      "bytes": 373342,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "north-cascades.webp",
+      "name": "North Cascades",
+      "tags": [
+        "washington",
+        "mountains",
+        "lake"
+      ],
+      "sha256": "4c79b178adb20539a9de72bd1d0a641e5199b5a6b3ab576fd79790858e28130a",
+      "bytes": 986334,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "glacier-bay.webp",
+      "name": "Glacier Bay",
+      "tags": [
+        "alaska",
+        "glacier",
+        "ice"
+      ],
+      "sha256": "cb44fa5cf01fab54a577b4d98b120417d971182ece6573dc05747ba24c712d06",
+      "bytes": 724152,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "kenai-fjords.webp",
+      "name": "Kenai Fjords",
+      "tags": [
+        "alaska",
+        "whale",
+        "fjord"
+      ],
+      "sha256": "a210ddd690215e5b7ac560d31b420e57e4f31fabca77d45a8126e93dd1a4e776",
+      "bytes": 408992,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "arches.webp",
+      "name": "Arches",
+      "tags": [
+        "utah",
+        "arch",
+        "desert"
+      ],
+      "sha256": "5309a412207a4d985fb7bf0edcc5896cde0edf9d604775f257a68b8fb71a4a71",
+      "bytes": 430704,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "denali.webp",
+      "name": "Denali",
+      "tags": [
+        "alaska",
+        "mountain",
+        "snow"
+      ],
+      "sha256": "e709c6badfc50aca1f9b5b205470b6f0ea2f1e8cd52a65ddb8b211c3d7aab501",
+      "bytes": 694864,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "mammoth-cave.webp",
+      "name": "Mammoth Cave",
+      "tags": [
+        "kentucky",
+        "cave",
+        "lantern"
+      ],
+      "sha256": "584f2eebde56fd6738d224a29672d4b918cf1f6bf077843573df204bfd143501",
+      "bytes": 602906,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "carlsbad-caverns.webp",
+      "name": "Carlsbad Caverns",
+      "tags": [
+        "new mexico",
+        "cave",
+        "stalactites"
+      ],
+      "sha256": "4a53a95e940df764f4ac7aed0fb0bfd8e87fe83d572944d2416bc95bf1c4f813",
+      "bytes": 737766,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "big-bend.webp",
+      "name": "Big Bend",
+      "tags": [
+        "texas",
+        "canyon",
+        "river"
+      ],
+      "sha256": "8d2aea5ed1b4533610262f590eae3f303ea9834d15288cff54e45c7315e327e7",
+      "bytes": 998116,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "badlands.webp",
+      "name": "Badlands",
+      "tags": [
+        "south dakota",
+        "bison",
+        "buttes"
+      ],
+      "sha256": "81f31b38ff76812d3ff2c93515437c66c718bee8a67cc78fa11ad5c845ada78c",
+      "bytes": 686878,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "redwood.webp",
+      "name": "Redwood",
+      "tags": [
+        "california",
+        "redwoods",
+        "forest"
+      ],
+      "sha256": "07219d14df7578498dea5abb8cdd17719ef6d4f3e1a694355cc5d7b5ce92b5c3",
+      "bytes": 933218,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "shenandoah.webp",
+      "name": "Shenandoah",
+      "tags": [
+        "virginia",
+        "autumn",
+        "scenic drive"
+      ],
+      "sha256": "44714052527844441fc1ff9307c541d3c64c3bc4a4f5f736fc1537abf7793d05",
+      "bytes": 759614,
+      "w": 1024,
+      "h": 1024
+    }
+  ]
+}

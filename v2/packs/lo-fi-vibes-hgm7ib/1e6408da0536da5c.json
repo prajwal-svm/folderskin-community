@@ -1,0 +1,82 @@
+{
+  "version": 2,
+  "id": "lo-fi-vibes-hgm7ib",
+  "hash": "1e6408da0536da5c",
+  "name": "Lo-fi Vibes",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "lofi",
+    "cozy",
+    "chill",
+    "mood",
+    "aesthetic"
+  ],
+  "skins": [
+    {
+      "file": "rainy-window.webp",
+      "name": "Rainy Window",
+      "tags": [
+        "rain",
+        "city",
+        "night"
+      ],
+      "sha256": "38a2102b99b81f1f220c51695c18814b531749d655467726370df6be3a6743bc",
+      "bytes": 970470,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "late-study.webp",
+      "name": "Late Study",
+      "tags": [
+        "study",
+        "cat",
+        "lamp"
+      ],
+      "sha256": "ce974409ad09bce8221fb64b4022dd0af174b646e6930a19148ea8a9009aef16",
+      "bytes": 738660,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "arcade.webp",
+      "name": "Arcade",
+      "tags": [
+        "arcade",
+        "games",
+        "neon"
+      ],
+      "sha256": "465eff59d73e25ceb8439ae8ce42be6daececb7a9e532db52622c3eb3dd81582",
+      "bytes": 601556,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "record-shop.webp",
+      "name": "Record Shop",
+      "tags": [
+        "vinyl",
+        "records",
+        "music"
+      ],
+      "sha256": "429eea70e3770972db85f21571c61a6b24358fdeb56f54efe5482229e90717ac",
+      "bytes": 816094,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "picnic.webp",
+      "name": "Picnic",
+      "tags": [
+        "picnic",
+        "meadow",
+        "summer"
+      ],
+      "sha256": "b0ee683805a1f35f1f3c7dbcfdbf67e2f1abaa4c1d441b5432eb94248e45f906",
+      "bytes": 905164,
+      "w": 1024,
+      "h": 1024
+    }
+  ]
+}

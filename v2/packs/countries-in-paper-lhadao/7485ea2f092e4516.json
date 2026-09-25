@@ -1,0 +1,641 @@
+{
+  "version": 2,
+  "id": "countries-in-paper-lhadao",
+  "hash": "7485ea2f092e4516",
+  "name": "Countries in Paper",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "countries",
+    "travel",
+    "landmarks",
+    "paper craft",
+    "world"
+  ],
+  "skins": [
+    {
+      "file": "united-kingdom.webp",
+      "name": "United Kingdom",
+      "tags": [
+        "london",
+        "big ben",
+        "europe"
+      ],
+      "sha256": "c9d1ca7d02df82caa9244e96e42b5f7baee9e8c9902db773c192e45bcfca50ff",
+      "bytes": 769412,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "france.webp",
+      "name": "France",
+      "tags": [
+        "paris",
+        "eiffel tower",
+        "europe"
+      ],
+      "sha256": "79708e139a395069c134f3c03f6799c81cd17313e75b1bdeb326cb559acd24eb",
+      "bytes": 899364,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "germany.webp",
+      "name": "Germany",
+      "tags": [
+        "berlin",
+        "brandenburg gate",
+        "europe"
+      ],
+      "sha256": "25f82933fb1b0a6f6406549491d7bb1a5431cf53505729a566bc3c078657dd72",
+      "bytes": 795272,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "italy.webp",
+      "name": "Italy",
+      "tags": [
+        "rome",
+        "colosseum",
+        "europe"
+      ],
+      "sha256": "c81419910f07dfe3379b92093b1ea95c5a837d37b716abcc80a542762ceb7c55",
+      "bytes": 895454,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "spain.webp",
+      "name": "Spain",
+      "tags": [
+        "barcelona",
+        "sagrada familia",
+        "europe"
+      ],
+      "sha256": "26881ffb637ee10f536a88b2aa6764790119a7effd7fdfb1cd470116246df276",
+      "bytes": 826692,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "portugal.webp",
+      "name": "Portugal",
+      "tags": [
+        "lisbon",
+        "tram",
+        "europe"
+      ],
+      "sha256": "2b0069c77274da67b0f44e7111717abee98e43b2476dbac2d00be088f99b755a",
+      "bytes": 946486,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "greece.webp",
+      "name": "Greece",
+      "tags": [
+        "santorini",
+        "islands",
+        "europe"
+      ],
+      "sha256": "0a2a1cf897dd8d75b3aecac39a6d51ae319e48fa4c12a6617cacfce3e4699882",
+      "bytes": 730516,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "netherlands.webp",
+      "name": "Netherlands",
+      "tags": [
+        "windmill",
+        "tulips",
+        "europe"
+      ],
+      "sha256": "c3f068d9dfb19b04d117cb64f0b6cead1200c7cb7d68acb3cef67ae688c2b3c9",
+      "bytes": 931238,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "switzerland.webp",
+      "name": "Switzerland",
+      "tags": [
+        "alps",
+        "chalet",
+        "europe"
+      ],
+      "sha256": "57d40ea284bfe926e1fd9061ee094d7ff3d2c7ec0e50b51498ec9ee3e8609ea3",
+      "bytes": 916632,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "austria.webp",
+      "name": "Austria",
+      "tags": [
+        "alps",
+        "hallstatt",
+        "europe"
+      ],
+      "sha256": "56ee00ee8a0c80025dec2816bf13fd65403ba75016d435606d2d9ea9ff777cb9",
+      "bytes": 979146,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "czechia.webp",
+      "name": "Czechia",
+      "tags": [
+        "prague",
+        "castle",
+        "europe"
+      ],
+      "sha256": "43beb16b33d2e273abf21e33657bba8405694d7ae26c1695bd40cd1844db72f7",
+      "bytes": 923536,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "poland.webp",
+      "name": "Poland",
+      "tags": [
+        "krakow",
+        "old town",
+        "europe"
+      ],
+      "sha256": "97604958740005d57df322502e5d2c2b4ff429c3f7a98422803a23cced0b0aba",
+      "bytes": 970768,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "ireland.webp",
+      "name": "Ireland",
+      "tags": [
+        "cliffs of moher",
+        "coast",
+        "europe"
+      ],
+      "sha256": "5e3be8c9c426df04b43469e33571d63b89c837577308545bbcde3da1bffe6ca2",
+      "bytes": 881686,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "iceland.webp",
+      "name": "Iceland",
+      "tags": [
+        "waterfall",
+        "nordic",
+        "europe"
+      ],
+      "sha256": "1072ebe47fec28918c650e1893b6122156e9c33ad0e8052e69224b8b08e4e1f3",
+      "bytes": 860630,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "norway.webp",
+      "name": "Norway",
+      "tags": [
+        "fjords",
+        "nordic",
+        "europe"
+      ],
+      "sha256": "9adde0b1e3710cb1b0e57486c63434d1ed9d251262ae383bdb4580c6b0969620",
+      "bytes": 841474,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "sweden.webp",
+      "name": "Sweden",
+      "tags": [
+        "stockholm",
+        "nordic",
+        "europe"
+      ],
+      "sha256": "8853433c5dab9865d8f635887cd9f2a1f0d092a5f573d23b41a3c85a363e0bba",
+      "bytes": 847288,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "finland.webp",
+      "name": "Finland",
+      "tags": [
+        "lakes",
+        "birch",
+        "nordic"
+      ],
+      "sha256": "35726647bfc579cfb3c02241ba2b87264db313127ff023b518b272d44829b7f5",
+      "bytes": 1018980,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "russia.webp",
+      "name": "Russia",
+      "tags": [
+        "moscow",
+        "st basils",
+        "europe"
+      ],
+      "sha256": "30aa10a73d7b404d79578297d645090a3d32edccf18a5e8efe0ca4b92002d3c8",
+      "bytes": 875460,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "turkey.webp",
+      "name": "Turkey",
+      "tags": [
+        "istanbul",
+        "hagia sophia",
+        "asia"
+      ],
+      "sha256": "e3290c56c0c1523ed7a991686a848ef983f6a0881afa9040925e9c846e83a508",
+      "bytes": 898960,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "egypt.webp",
+      "name": "Egypt",
+      "tags": [
+        "pyramids",
+        "sphinx",
+        "africa"
+      ],
+      "sha256": "6037585c051f06c5f2ce14b53ce81f42c4566f55ceef8bd2a205be59d3e421ba",
+      "bytes": 785566,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "morocco.webp",
+      "name": "Morocco",
+      "tags": [
+        "chefchaouen",
+        "blue city",
+        "africa"
+      ],
+      "sha256": "4f3c7415e0656fde65d85827627a2bbfaf8eab21f9a728684150529b4b060254",
+      "bytes": 880182,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "kenya.webp",
+      "name": "Kenya",
+      "tags": [
+        "safari",
+        "giraffe",
+        "africa"
+      ],
+      "sha256": "788966a25f07e870e7a8ec38424b4c762a870b74dc14a0bf010fe73eb2668a36",
+      "bytes": 850986,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "tanzania.webp",
+      "name": "Tanzania",
+      "tags": [
+        "kilimanjaro",
+        "savanna",
+        "africa"
+      ],
+      "sha256": "d0a8239d2e7ce7710bf0566a86f5143cad5bad3fb3894ab84c83640f5d35af29",
+      "bytes": 925474,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "ethiopia.webp",
+      "name": "Ethiopia",
+      "tags": [
+        "lalibela",
+        "highlands",
+        "africa"
+      ],
+      "sha256": "6fad50137a8994fb05083eb051b46f043977e1c03575b404699ec8a2c63ab326",
+      "bytes": 930148,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "nigeria.webp",
+      "name": "Nigeria",
+      "tags": [
+        "zuma rock",
+        "savanna",
+        "africa"
+      ],
+      "sha256": "8e394ed0c152e4725512445f7ac3ca31098d6f85eacbfa2744de0b9ae611794d",
+      "bytes": 873460,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "south-africa.webp",
+      "name": "South Africa",
+      "tags": [
+        "cape town",
+        "table mountain",
+        "africa"
+      ],
+      "sha256": "679def7de913fc42ac2293c4e4ddfb4b61b3e659f16eaf8a190ee0ebb2f5b65e",
+      "bytes": 848782,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "united-arab-emirates.webp",
+      "name": "United Arab Emirates",
+      "tags": [
+        "dubai",
+        "skyscrapers",
+        "middle east"
+      ],
+      "sha256": "9d8db1f527f32cc8cb60fb2f2ff564f2f3d6998c89de7d15e24acdcbab6fa986",
+      "bytes": 708320,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "india.webp",
+      "name": "India",
+      "tags": [
+        "taj mahal",
+        "agra",
+        "asia"
+      ],
+      "sha256": "ab786d5093fc6a6a09f45f71dfd6d8577f3453d058b8625cbc9a4e73d8aa01d3",
+      "bytes": 984848,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "nepal.webp",
+      "name": "Nepal",
+      "tags": [
+        "himalaya",
+        "prayer flags",
+        "asia"
+      ],
+      "sha256": "9d82648ec7c13330f6bc5576bc4aafefc566956a2e076b77b86c1053054cd5c3",
+      "bytes": 933386,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "sri-lanka.webp",
+      "name": "Sri Lanka",
+      "tags": [
+        "sigiriya",
+        "jungle",
+        "asia"
+      ],
+      "sha256": "ec7628602525991f75bcbfba09d43106948bc81f167739950e054253aa0ec951",
+      "bytes": 1028226,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "china.webp",
+      "name": "China",
+      "tags": [
+        "great wall",
+        "pagoda",
+        "asia"
+      ],
+      "sha256": "0e171ce59b9360d4ec794a628c64c552cef96d67cc73bd833389bf1f65ba747d",
+      "bytes": 889844,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "japan.webp",
+      "name": "Japan",
+      "tags": [
+        "mount fuji",
+        "torii",
+        "asia"
+      ],
+      "sha256": "ddb92d702f2bb2c7dcaae518e9d76744cc4ccdbd7af43f4db45f43df4c583ccf",
+      "bytes": 864664,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "south-korea.webp",
+      "name": "South Korea",
+      "tags": [
+        "seoul",
+        "palace",
+        "asia"
+      ],
+      "sha256": "7bddc55540882a1efabbfb5d84a64b5b3beb19388b06730ec1fb6589d98edb1f",
+      "bytes": 931130,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "thailand.webp",
+      "name": "Thailand",
+      "tags": [
+        "bangkok",
+        "temple",
+        "asia"
+      ],
+      "sha256": "4b7a5fe230f4bb9b8742d12af0f9628c2dc1ce625b43cad4aee47dc3fd064e21",
+      "bytes": 909184,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "vietnam.webp",
+      "name": "Vietnam",
+      "tags": [
+        "ha long bay",
+        "junk boat",
+        "asia"
+      ],
+      "sha256": "407b6c5139e4a8fbc43c784d549649d43e78b97618dbc10ca7b93391d813683c",
+      "bytes": 917080,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "philippines.webp",
+      "name": "Philippines",
+      "tags": [
+        "beach",
+        "islands",
+        "asia"
+      ],
+      "sha256": "1167305d1d495dcfbda496353cbcfc31c16d0912a1c5648f5d4d65d1eb88009b",
+      "bytes": 887984,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "australia.webp",
+      "name": "Australia",
+      "tags": [
+        "sydney",
+        "opera house",
+        "oceania"
+      ],
+      "sha256": "8fe6e00d20e7d2c396242207f55eda69c7ee82b179087c3614edde35abdea579",
+      "bytes": 939682,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "new-zealand.webp",
+      "name": "New Zealand",
+      "tags": [
+        "fjords",
+        "mountains",
+        "oceania"
+      ],
+      "sha256": "f81967e3921ab9956e2b335c6628c2ac0a95de3ee366a8677ab90d336333b2b4",
+      "bytes": 921664,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "united-states.webp",
+      "name": "United States",
+      "tags": [
+        "grand canyon",
+        "usa",
+        "north america"
+      ],
+      "sha256": "c02a6b05bff6a64a6f1b87edb95d89afb26acdbb6d9202d24001b858c3f19569",
+      "bytes": 939782,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "canada.webp",
+      "name": "Canada",
+      "tags": [
+        "maple leaf",
+        "lakes",
+        "north america"
+      ],
+      "sha256": "7d90f536972f1f3716dab74f22b4fc8af6e36ae5fbf55d539a38d8ed105d25c8",
+      "bytes": 893880,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "mexico.webp",
+      "name": "Mexico",
+      "tags": [
+        "pyramid",
+        "maya",
+        "north america"
+      ],
+      "sha256": "03d7c5f0abf83ecdcbbe96068ca315c8b605d36ee8a6a12095fd453be55c9ed2",
+      "bytes": 874726,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "cuba.webp",
+      "name": "Cuba",
+      "tags": [
+        "havana",
+        "classic car",
+        "caribbean"
+      ],
+      "sha256": "4e6d64b8d435693848e4f1cb086981839cb172dacf7c07d7c7c6f3a674fc72c2",
+      "bytes": 953794,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "jamaica.webp",
+      "name": "Jamaica",
+      "tags": [
+        "beach",
+        "tropical",
+        "caribbean"
+      ],
+      "sha256": "a2e0dcfcc68d163420fe2a6c4323e88988a54c9bc284e131fc44ee8252e9f3e7",
+      "bytes": 881210,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "colombia.webp",
+      "name": "Colombia",
+      "tags": [
+        "cartagena",
+        "colonial",
+        "south america"
+      ],
+      "sha256": "792805eb0dac9fe07d12c55818653a480a80025d376f9bd7ba56369bab3cefe9",
+      "bytes": 1006290,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "brazil.webp",
+      "name": "Brazil",
+      "tags": [
+        "rio",
+        "christ the redeemer",
+        "south america"
+      ],
+      "sha256": "2bc6aa2b7d812bd3d11189812ffdc43108bc62306aa951b4a9a78dd0dea2cd5b",
+      "bytes": 879714,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "peru.webp",
+      "name": "Peru",
+      "tags": [
+        "machu picchu",
+        "andes",
+        "south america"
+      ],
+      "sha256": "7773936bb0028ceefb5cd8fa82ee06cef5e64ddf2a60bfc9dba0cc0f44b7099b",
+      "bytes": 971410,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "chile.webp",
+      "name": "Chile",
+      "tags": [
+        "easter island",
+        "moai",
+        "south america"
+      ],
+      "sha256": "c739e5af2c9c01dd11a7f0445796e5c121f46eceb03a071108aadc416ab31013",
+      "bytes": 818844,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "argentina.webp",
+      "name": "Argentina",
+      "tags": [
+        "buenos aires",
+        "la boca",
+        "south america"
+      ],
+      "sha256": "c6711e1019e0cb174dc113ec420935fbfb1f3dc516bdca08786df8b28be3ac56",
+      "bytes": 851992,
+      "w": 1024,
+      "h": 1024
+    }
+  ]
+}

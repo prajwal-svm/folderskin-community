@@ -1,0 +1,225 @@
+{
+  "version": 2,
+  "id": "classic-art-5rxas2",
+  "hash": "ecfcc6015c286fba",
+  "name": "Classic Art",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "classic art",
+    "paintings",
+    "museum",
+    "masterpieces",
+    "art history"
+  ],
+  "skins": [
+    {
+      "file": "mona-lisa.webp",
+      "name": "Mona Lisa",
+      "tags": [
+        "da vinci",
+        "portrait",
+        "renaissance"
+      ],
+      "sha256": "4357c4c3c68d4dca8cf1a1aec58a35d85bbf9322b52211e1700b8bc534fe835f",
+      "bytes": 874910,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "view-of-toledo.webp",
+      "name": "View of Toledo",
+      "tags": [
+        "el greco",
+        "landscape",
+        "spain"
+      ],
+      "sha256": "ebf2414e6b02a8f49471ca7399c5c8b62449c6673d0025c6842d03ad9a44644f",
+      "bytes": 773286,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "girl-with-a-pearl-earring.webp",
+      "name": "Girl with a Pearl Earring",
+      "tags": [
+        "vermeer",
+        "portrait",
+        "dutch"
+      ],
+      "sha256": "25fd5db6138b79269dce6192e8bb3cbd404a0b851641fbf3b4011258105e9bdc",
+      "bytes": 760420,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "the-astronomer.webp",
+      "name": "The Astronomer",
+      "tags": [
+        "vermeer",
+        "science",
+        "dutch"
+      ],
+      "sha256": "c54b8535c063a0612c6dad248728c5bbb7fb372f3d76acb89a4777f95696e20f",
+      "bytes": 849842,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "oath-of-the-horatii.webp",
+      "name": "Oath of the Horatii",
+      "tags": [
+        "jacques-louis david",
+        "neoclassical",
+        "history"
+      ],
+      "sha256": "526ab5a526828e63a0fe358467bf768b5f23fe54219c29297b8e1b3cc41dc7e6",
+      "bytes": 683698,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "napoleon-crossing-the-alps.webp",
+      "name": "Napoleon Crossing the Alps",
+      "tags": [
+        "jacques-louis david",
+        "napoleon",
+        "horse"
+      ],
+      "sha256": "4571a171c82726a47c7babd152ca83f60e66d8a8964fb039d0d07771671fb722",
+      "bytes": 922528,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "wanderer-above-the-sea-of-fog.webp",
+      "name": "Wanderer above the Sea of Fog",
+      "tags": [
+        "caspar david friedrich",
+        "romanticism",
+        "mountains"
+      ],
+      "sha256": "533ba527c7f69745c461b388c7eb88ba07adf035fda6ef01bcfbd3daced5f085",
+      "bytes": 706896,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "the-ninth-wave.webp",
+      "name": "The Ninth Wave",
+      "tags": [
+        "aivazovsky",
+        "sea",
+        "storm"
+      ],
+      "sha256": "d12b2b381d40788fc8c13f48418d2e0a2eb846c292a16261d71f760fe8bdaf36",
+      "bytes": 647934,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "boulevard-des-capucines.webp",
+      "name": "Boulevard des Capucines",
+      "tags": [
+        "monet",
+        "impressionism",
+        "paris"
+      ],
+      "sha256": "0e0f4ce33e12291d4f80d6e93f8525434ab7f99949dddca8210c7f17074b25d1",
+      "bytes": 968746,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "breezing-up.webp",
+      "name": "Breezing Up",
+      "tags": [
+        "winslow homer",
+        "sailing",
+        "sea"
+      ],
+      "sha256": "870385b3a9e1634ddbe8ad735c3d39053857774d82b52ce59bb8e8266a25d2a2",
+      "bytes": 896146,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "paris-street-rainy-day.webp",
+      "name": "Paris Street; Rainy Day",
+      "tags": [
+        "caillebotte",
+        "paris",
+        "rain"
+      ],
+      "sha256": "ff2895b12dd7f08812e234bc105ee46e2722cf700f73e4f8f483f800429daebc",
+      "bytes": 774856,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "luncheon-of-the-boating-party.webp",
+      "name": "Luncheon of the Boating Party",
+      "tags": [
+        "renoir",
+        "impressionism",
+        "party"
+      ],
+      "sha256": "e62e43b6abe4af04ac70db2bec33155e4f35a2e9b30fd3e68ec0c0539cdbeaa5",
+      "bytes": 1013040,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "the-lady-of-shalott.webp",
+      "name": "The Lady of Shalott",
+      "tags": [
+        "waterhouse",
+        "pre-raphaelite",
+        "poetry"
+      ],
+      "sha256": "b5000578e8e8b4c667be71de93a8fc913e3cccd45733febba9140cb018dcfd0d",
+      "bytes": 991098,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "the-starry-night.webp",
+      "name": "The Starry Night",
+      "tags": [
+        "van gogh",
+        "night sky",
+        "post-impressionism"
+      ],
+      "sha256": "4280a6043347491d24019dcaf9497a12d37b55c0b348268d8342b68f1df53044",
+      "bytes": 1251326,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "mont-sainte-victoire.webp",
+      "name": "Mont Sainte-Victoire",
+      "tags": [
+        "cezanne",
+        "mountain",
+        "landscape"
+      ],
+      "sha256": "14b5a83486c65b6189cb709234294656cf3965bb2e6e821c34237282fc15cb40",
+      "bytes": 1035570,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "composition-viii.webp",
+      "name": "Composition VIII",
+      "tags": [
+        "kandinsky",
+        "abstract",
+        "geometric"
+      ],
+      "sha256": "b4704a8e30578b1558f61c00e306cb8dd0fb87517800b8a575ba184a535a40f8",
+      "bytes": 876386,
+      "w": 1024,
+      "h": 1024
+    }
+  ]
+}
