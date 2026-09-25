@@ -2,12 +2,18 @@ name: Packs
 
 # A pull request that adds or changes a pack gets the same checks the app runs before it saves
 # one. On main, the index, the preview strips and the published tree the app searches (v2/) are
-# rebuilt and committed if they differ. `packs index` and `packs catalog` are deterministic, so
-# unchanged packs commit nothing.
+# rebuilt, copied to the mirror at packs.folderskin.app, and committed if they differ.
+# `packs index` and `packs catalog` are deterministic, so unchanged packs commit nothing.
+#
+# Approving a pack at the community service publishes it. This workflow pulls every approved pack
+# into packs/, checks it, commits it and pushes it, and only then tells the service it is
+# published, so a pack that fails a check or a push waits there for the next run. The service
+# starts the workflow at once with a `pack-approved` dispatch when it has a token for that;
+# otherwise the poll every 15 minutes finds the pack, and the daily run is there if both miss it.
 #
 # The checks and the builders are FolderSkin's own (folderskin-tools, from the app repository),
 # so a pack here is held to exactly the rules the app holds it to. When those rules or the
-# catalog layout change in the app, run this by hand, or let the weekly run pick it up.
+# catalog layout change in the app, run this by hand, or let the daily run pick it up.
 on:
   push:
     branches: [main]
@@ -15,11 +21,19 @@ on:
       - "packs/**"
       - "featured.json"
       - "official.json"
+      - "moved.json"
       - ".github/workflows/packs.yml"
   pull_request:
     branches: [main]
+  repository_dispatch:
+    types: [pack-approved]
   workflow_dispatch:
   schedule:
+    # The poll. It asks the service whether a pack is waiting and stops there unless one is; the
+    # gate job below knows it by this exact string.
+    - cron: "*/15 * * * *"
+    # Daily and weekly, whatever is waiting.
+    - cron: "43 5 * * *"
     - cron: "17 4 * * 1"
 
 permissions:
@@ -29,10 +43,65 @@ env:
   # Where folderskin-tools comes from.
   APP_REPOSITORY: prajwal-svm/folderskin
   APP_REF: main
+  # The community service, which approved packs come from and the mirror is written through.
+  FOLDERSKIN_COMMUNITY_API: https://community.folderskin.app
 
 jobs:
+  # A few seconds with no Rust build: whether this run pulls, and whether it builds at all.
+  gate:
+    name: Decide what to do
+    if: github.event_name != 'push' && github.event_name != 'pull_request'
+    runs-on: ubuntu-22.04
+    timeout-minutes: 3
+    permissions: {}
+    outputs:
+      # Whether the check and index jobs run: always, but for a poll that found nothing waiting.
+      build: ${{ steps.decide.outputs.build }}
+      # Whether approved packs are pulled: on main, with the maintainer's key, when one may wait.
+      pull: ${{ steps.decide.outputs.pull }}
+    steps:
+      - name: Look for approved packs
+        id: decide
+        env:
+          EVENT: ${{ github.event_name }}
+          SCHEDULE: ${{ github.event.schedule }}
+          PACK: ${{ github.event.client_payload.pack }}
+          ON_MAIN: ${{ github.ref == 'refs/heads/main' }}
+          # Whether the secret is set, never what it holds.
+          HAVE_KEY: ${{ secrets.FOLDERSKIN_ADMIN_KEY != '' }}
+        run: |
+          build=true
+          if [ "$EVENT" = repository_dispatch ]; then
+            echo "Started by the approval of ${PACK:-a pack}"
+          fi
+          if [ "$EVENT" = schedule ] && [ "$SCHEDULE" = "*/15 * * * *" ]; then
+            # A service that doesn't answer is a warning, not a failure: the next poll or the
+            # daily run asks again.
+            answer=$(curl -fsS --max-time 20 --retry 2 "$FOLDERSKIN_COMMUNITY_API/v1/exports/pending" || true)
+            pending=$(printf '%s' "$answer" | jq -r '.pending // 0' 2>/dev/null || echo 0)
+            case "$pending" in '' | *[!0-9]*) pending=0 ;; esac
+            if [ -z "$answer" ]; then
+              echo "::warning title=The service didn't answer::Couldn't ask $FOLDERSKIN_COMMUNITY_API how many approved packs are waiting."
+            fi
+            echo "Approved packs waiting: $pending"
+            if [ "$pending" -eq 0 ]; then build=false; fi
+          fi
+          pull=false
+          if [ "$build" = true ] && [ "$ON_MAIN" = true ]; then
+            if [ "$HAVE_KEY" = true ]; then
+              pull=true
+            else
+              echo "::notice title=No packs pulled::The FOLDERSKIN_ADMIN_KEY secret isn't set, so approved packs wait at the community service until it is."
+            fi
+          fi
+          echo "build=$build" >> "$GITHUB_OUTPUT"
+          echo "pull=$pull" >> "$GITHUB_OUTPUT"
+
   check:
     name: Check the packs
+    needs: gate
+    # A push or a pull request has no gate; a poll that found nothing stops at it.
+    if: ${{ !cancelled() && (needs.gate.result == 'skipped' || needs.gate.outputs.build == 'true') }}
     runs-on: ubuntu-22.04
     timeout-minutes: 30
     steps:
@@ -59,9 +128,16 @@ jobs:
         with:
           workspaces: app -> target
 
+      # Generated ids are required once every pack has one: set the repository variable
+      # REQUIRE_GENERATED_IDS to true after the rename.
       - name: Check every pack
         working-directory: app
-        run: cargo run -p folderskin-tools --quiet -- packs check --dir "$GITHUB_WORKSPACE"
+        env:
+          REQUIRE_GENERATED_IDS: ${{ vars.REQUIRE_GENERATED_IDS }}
+        run: |
+          args=()
+          if [ "$REQUIRE_GENERATED_IDS" = true ]; then args+=(--require-generated-ids); fi
+          cargo run -p folderskin-tools --quiet -- packs check --dir "$GITHUB_WORKSPACE" "${args[@]}"
 
       # Also catches a featured.json naming a pack that isn't there. It starts from the tree on
       # main, so only what the pull request changes is drawn.
@@ -71,10 +147,110 @@ jobs:
           cp -r "$GITHUB_WORKSPACE/v2" "$RUNNER_TEMP/v2" 2>/dev/null || true
           cargo run -p folderskin-tools --quiet -- packs catalog --dir "$GITHUB_WORKSPACE" --out "$RUNNER_TEMP/v2"
 
+  pull:
+    name: Publish approved packs
+    needs: gate
+    if: needs.gate.outputs.pull == 'true'
+    runs-on: ubuntu-22.04
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    # One pull at a time, so two runs never write the same pack.
+    concurrency:
+      group: packs-pull
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - name: Check out FolderSkin, for its pack tools
+        uses: actions/checkout@v7
+        with:
+          repository: ${{ env.APP_REPOSITORY }}
+          ref: ${{ env.APP_REF }}
+          path: app
+
+      - name: Read FolderSkin's pinned Rust version
+        id: rust
+        run: echo "channel=$(awk -F'"' '/^[ \t]*channel[ \t]*=/ { print $2; exit }' app/rust-toolchain.toml)" >> "$GITHUB_OUTPUT"
+
+      - name: Install Rust ${{ steps.rust.outputs.channel }}
+        uses: dtolnay/rust-toolchain@6c977a6ca4077a0ceb28ffbe03f59d46e9ac8772
+        with:
+          toolchain: ${{ steps.rust.outputs.channel }}
+
+      - name: Cache Rust builds
+        uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: app -> target
+
+      # Built before the key is anywhere near, so no build script ever runs beside it.
+      - name: Build the pack tools
+        working-directory: app
+        run: cargo build --release -p folderskin-tools
+
+      # Checks every file's size and SHA-256 against what the service recorded, and writes the
+      # packs it pulled to a list, without telling the service yet.
+      - name: Pull the approved packs
+        env:
+          ADMIN_KEY: ${{ secrets.FOLDERSKIN_ADMIN_KEY }}
+        run: |
+          key="$RUNNER_TEMP/folderskin-admin.key"
+          trap 'rm -f "$key"' EXIT
+          (umask 077 && printf '%s\n' "$ADMIN_KEY" > "$key")
+          app/target/release/folderskin-tools community pull --out packs --key "$key" \
+            --no-done --pulled "$RUNNER_TEMP/pulled.json"
+
+      - name: Check every pack
+        env:
+          REQUIRE_GENERATED_IDS: ${{ vars.REQUIRE_GENERATED_IDS }}
+        run: |
+          args=()
+          if [ "$REQUIRE_GENERATED_IDS" = true ]; then args+=(--require-generated-ids); fi
+          app/target/release/folderskin-tools packs check --dir . "${args[@]}"
+
+      # One commit for each pack. A pack an earlier run pushed but couldn't report is there
+      # already, and has nothing to commit.
+      - name: Commit them and push
+        run: |
+          list="$RUNNER_TEMP/pulled.json"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          count=$(jq length "$list")
+          for ((i = 0; i < count; i++)); do
+            folder=$(jq -r ".[$i].folder" "$list")
+            name=$(jq -r ".[$i].name" "$list")
+            git add -- "packs/$folder"
+            if git diff --cached --quiet; then
+              continue
+            fi
+            git commit -q -m "Add the $name pack"
+          done
+          if [ "$(git rev-list --count origin/main..HEAD)" -eq 0 ]; then
+            echo "Nothing new to push."
+            exit 0
+          fi
+          # The rebase covers commits that landed while this ran, such as a merged pull request.
+          git pull --rebase -q origin main
+          git push origin HEAD:main
+
+      # Only after the push: a pack the service hears about is on main.
+      - name: Tell the service they're published
+        env:
+          ADMIN_KEY: ${{ secrets.FOLDERSKIN_ADMIN_KEY }}
+        run: |
+          key="$RUNNER_TEMP/folderskin-admin.key"
+          trap 'rm -f "$key"' EXIT
+          (umask 077 && printf '%s\n' "$ADMIN_KEY" > "$key")
+          app/target/release/folderskin-tools community done --from "$RUNNER_TEMP/pulled.json" --key "$key"
+
   index:
     name: Update the index
-    needs: check
-    if: github.event_name != 'pull_request'
+    needs: [check, pull]
+    # In the same run as the pull, since a push made with the workflow's own token starts no
+    # other workflow; and still when there was nothing to pull, or the pull failed after its push.
+    if: ${{ !cancelled() && github.event_name != 'pull_request' && needs.check.result == 'success' }}
     runs-on: ubuntu-22.04
     timeout-minutes: 30
     permissions:
@@ -84,11 +260,16 @@ jobs:
       group: packs-index
       cancel-in-progress: false
     env:
-      # Set only when the repository has an R2 mirror; see "Publish the tree to the R2 mirror".
-      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      # A public https:// folder serving the same tree, the R2 bucket's own domain
+      # (https://packs.folderskin.app). head.json lists it for the app to try first, and this job
+      # copies the tree to it. Unset while GitHub alone serves it.
+      MIRROR_URL: ${{ vars.COMMUNITY_MIRROR_URL }}
+      # Whether the secret is set, never what it holds. The mirror is written with it.
+      HAVE_KEY: ${{ secrets.FOLDERSKIN_ADMIN_KEY != '' }}
     steps:
-      # The branch rather than the commit that started the run, so a queued run indexes the
-      # newest packs. The whole history, because a pack is dated by the commit that added it.
+      # The branch rather than the commit that started the run, so a queued run, or one that just
+      # pulled packs, indexes the newest packs. The whole history, because a pack is dated by the
+      # commit that added it.
       - uses: actions/checkout@v7
         with:
           ref: ${{ github.ref }}
@@ -123,46 +304,35 @@ jobs:
         working-directory: app
         run: cargo run -p folderskin-tools --release -- packs index --dir "$GITHUB_WORKSPACE"
 
+      # head.json lists the mirror only while this job keeps it up to date.
       - name: Build the published tree
         working-directory: app
-        env:
-          # A public https:// folder serving the same tree, such as the R2 bucket's own domain;
-          # head.json lists it for the app to try first. Unset while GitHub alone serves it.
-          MIRROR_URL: ${{ vars.COMMUNITY_MIRROR_URL }}
         run: |
           args=()
-          if [ -n "$MIRROR_URL" ]; then args+=(--mirror "$MIRROR_URL"); fi
+          if [ -n "$MIRROR_URL" ] && [ "$HAVE_KEY" = true ]; then args+=(--mirror "$MIRROR_URL"); fi
           cargo run -p folderskin-tools --release -- packs catalog --dir "$GITHUB_WORKSPACE" "${args[@]}"
 
       # ---------------------------------------------------------------------------------------
-      # Optional: a copy of the tree on Cloudflare R2, over its S3 API. Runs only when the
-      # repository has the R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY, R2_ACCOUNT_ID and R2_BUCKET
-      # secrets; without them GitHub alone serves the packs and this step is skipped.
-      # Every file but head.json is named after its contents, so each is uploaded once and
-      # cached for a year; head.json goes last, so the bucket never names a catalog it doesn't
-      # have yet. This runs before the commit below, so GitHub's head.json, the one the app
-      # reads, only moves once the mirror holds everything it names.
+      # The mirror: the R2 bucket behind COMMUNITY_MIRROR_URL, written through the community
+      # service, which holds the bucket, so no Cloudflare token lives here. `community mirror`
+      # uploads every file the mirror doesn't serve yet (all but head.json are named after their
+      # contents), then head.json, only once every other file is there. This runs before the
+      # commit below, so GitHub's head.json, the one older apps read, only moves once the mirror
+      # holds everything it names.
       # ---------------------------------------------------------------------------------------
-      - name: Publish the tree to the R2 mirror
-        if: env.R2_ACCESS_KEY_ID != ''
+      - name: Say why the mirror is left as it is
+        if: env.MIRROR_URL == '' || env.HAVE_KEY != 'true'
+        run: echo "::notice title=Mirror not updated::Copying v2/ to the mirror needs the COMMUNITY_MIRROR_URL variable and the FOLDERSKIN_ADMIN_KEY secret."
+
+      - name: Copy the tree to the mirror
+        if: env.MIRROR_URL != '' && env.HAVE_KEY == 'true'
         env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          AWS_DEFAULT_REGION: auto
-          # R2 checks what it needs; the CLI's newer default checksums it doesn't take.
-          AWS_REQUEST_CHECKSUM_CALCULATION: when_required
-          AWS_RESPONSE_CHECKSUM_VALIDATION: when_required
-          R2_ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
-          R2_BUCKET: ${{ secrets.R2_BUCKET }}
+          ADMIN_KEY: ${{ secrets.FOLDERSKIN_ADMIN_KEY }}
         run: |
-          # packs catalog never changes what a published name holds, so a file already there
-          # under its name is the same file, whatever its date says.
-          aws s3 sync v2 "s3://$R2_BUCKET/v2" --endpoint-url "$R2_ENDPOINT" \
-            --exclude head.json --size-only --no-progress \
-            --cache-control "public, max-age=31536000, immutable"
-          aws s3 cp v2/head.json "s3://$R2_BUCKET/v2/head.json" \
-            --endpoint-url "$R2_ENDPOINT" --no-progress \
-            --cache-control "public, max-age=60" --content-type application/json
+          key="$RUNNER_TEMP/folderskin-admin.key"
+          trap 'rm -f "$key"' EXIT
+          (umask 077 && printf '%s\n' "$ADMIN_KEY" > "$key")
+          app/target/release/folderskin-tools community mirror --tree . --public "$MIRROR_URL" --key "$key"
 
       # A push made with the workflow's own token starts no other workflow, so this commit
       # cannot start another run. The rebase covers commits that landed while it was building.
