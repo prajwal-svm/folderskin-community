@@ -1203,6 +1203,21 @@
       "official": true
     },
     {
+      "id": "iron-man-avenger-comic",
+      "name": "Iron Man - Avenger Comic",
+      "author": "prajwal-svm",
+      "license": "CC0-1.0",
+      "tags": [
+        "iron man",
+        "avengers",
+        "comic",
+        "pop art"
+      ],
+      "count": 1,
+      "hash": "486f2e84a335af33",
+      "added": 1790305671
+    },
+    {
       "id": "lo-fi-vibes",
       "name": "Lo-fi Vibes",
       "author": "prajwal-svm",
