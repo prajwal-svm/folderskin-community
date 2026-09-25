@@ -9,20 +9,20 @@ first launch. No account, no server: the app reads this repository straight from
 
 | Pack | Skins | Licence |
 |---|---:|---|
-| [Everyday Folders](packs/everyday-folders) | 40 | CC0-1.0 |
-| [Subjects](packs/subjects) | 20 | CC0-1.0 |
-| [AI Providers](packs/ai-providers) | 20 | CC0-1.0 |
-| [Hollywood](packs/hollywood) | 10 | CC0-1.0 |
-| [Sound & Music](packs/sound-and-music) | 10 | CC0-1.0 |
-| [Cinema & Photography](packs/cinema-and-photography) | 10 | CC0-1.0 |
-| [Retro Travel Posters](packs/retro-travel-posters) | 10 | CC0-1.0 |
-| [Science & Space](packs/science-and-space) | 10 | CC0-1.0 |
-| [Money & Work](packs/money-and-work) | 8 | CC0-1.0 |
-| [Scientists - Pop Art](packs/scientists-pop-art) | 42 | CC0-1.0 |
-| [Classic Art](packs/classic-art) | 16 | CC0-1.0 |
-| [Greek Art](packs/greek-art) | 15 | CC0-1.0 |
-| [Soft Rainbow](packs/soft-rainbow) | 10 | CC0-1.0 |
-| [Colours](packs/colours) | 8 | CC0-1.0 |
+| [Everyday Folders](packs/everyday-folders-eobehs) | 40 | CC0-1.0 |
+| [Subjects](packs/subjects-polmmo) | 20 | CC0-1.0 |
+| [AI Providers](packs/ai-providers-stjsqv) | 20 | CC0-1.0 |
+| [Hollywood](packs/hollywood-fbvsih) | 10 | CC0-1.0 |
+| [Sound & Music](packs/sound-music-5cqbd5) | 10 | CC0-1.0 |
+| [Cinema & Photography](packs/cinema-photography-5vzdx4) | 10 | CC0-1.0 |
+| [Retro Travel Posters](packs/retro-travel-posters-qklhfd) | 10 | CC0-1.0 |
+| [Science & Space](packs/science-space-c4ztrg) | 10 | CC0-1.0 |
+| [Money & Work](packs/money-work-k2umqg) | 8 | CC0-1.0 |
+| [Scientists - Pop Art](packs/scientists-pop-art-nb3dfx) | 42 | CC0-1.0 |
+| [Classic Art](packs/classic-art-5rxas2) | 16 | CC0-1.0 |
+| [Greek Art](packs/greek-art-djsofb) | 15 | CC0-1.0 |
+| [Soft Rainbow](packs/soft-rainbow-7towm2) | 10 | CC0-1.0 |
+| [Colours](packs/colours-67qg7j) | 8 | CC0-1.0 |
 
 ## What's in this repository
 
