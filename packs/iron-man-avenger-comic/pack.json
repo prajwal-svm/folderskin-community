@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "name": "Iron Man - Avenger Comic",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "iron man",
+    "avengers",
+    "comic",
+    "pop art"
+  ],
+  "skins": [
+    {
+      "file": "iron-man-comic.png",
+      "name": "Iron Man - Comic"
+    }
+  ]
+}
