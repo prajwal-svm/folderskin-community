@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "generation": "c3a3e774e30b0b4c",
-  "packs": 35,
-  "skins": 567,
+  "generation": "c0a4917ca46df4ce",
+  "packs": 32,
+  "skins": 536,
   "catalog": {
-    "url": "catalog/c3a3e774e30b0b4c.sqlite.gz",
-    "sha256": "d4e961ccba7b8d5ee20a891834f89b261b00732e8dfb8b4ef8bda1ce247d79f9",
-    "bytes": 102877
+    "url": "catalog/c0a4917ca46df4ce.sqlite.gz",
+    "sha256": "5846f160f6678ffed0a007924309ae2dffd0a5110dd0605b1914ee93b86ce7ee",
+    "bytes": 93696
   },
   "featured": [
     "scientists-pop-art-nb3dfx",
@@ -28,7 +28,6 @@
     "https://packs.folderskin.app"
   ],
   "moved": {
-    "ai-providers": "ai-providers-stjsqv",
     "bauhaus-research": "bauhaus-research-nhjazl",
     "biology-field-journal": "biology-field-journal-g344y7",
     "celestial-atlas": "celestial-atlas-ydkrpn",
@@ -45,8 +44,6 @@
     "electronics-workbench": "electronics-workbench-xwrxam",
     "engineering-blueprints": "engineering-blueprints-qbrhpk",
     "greek-art": "greek-art-djsofb",
-    "hollywood": "hollywood-fbvsih",
-    "iron-man-avenger-comic": "iron-man-avenger-comic-7uafm5",
     "lo-fi-vibes": "lo-fi-vibes-hgm7ib",
     "money-and-work": "money-work-k2umqg",
     "motivation-posters": "motivation-posters-4jccig",
