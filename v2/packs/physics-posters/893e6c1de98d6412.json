@@ -1,0 +1,251 @@
+{
+  "version": 2,
+  "id": "physics-posters",
+  "hash": "893e6c1de98d6412",
+  "name": "Physics Posters",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "physics",
+    "science",
+    "posters",
+    "mid-century",
+    "school"
+  ],
+  "skins": [
+    {
+      "file": "gravity.webp",
+      "name": "Gravity",
+      "tags": [
+        "gravity",
+        "newton",
+        "apple"
+      ],
+      "sha256": "4f087a53bca30b1f4abaf3a753c8be41812db12281670e39e83e27d0b50f8e39",
+      "bytes": 29856,
+      "w": 724,
+      "h": 662
+    },
+    {
+      "file": "momentum.webp",
+      "name": "Momentum",
+      "tags": [
+        "momentum",
+        "newtons cradle",
+        "motion"
+      ],
+      "sha256": "4ee408d8ab3e5258b82c39cd2beb9b4f8122cbe76107427e3f20d1428b5f4cd7",
+      "bytes": 23156,
+      "w": 692,
+      "h": 670
+    },
+    {
+      "file": "thermodynamics.webp",
+      "name": "Thermodynamics",
+      "tags": [
+        "heat",
+        "engine",
+        "energy"
+      ],
+      "sha256": "de50ce42c0817748f95f8337e42468d6826bfebc2654f949c898c1b97ea73643",
+      "bytes": 67012,
+      "w": 698,
+      "h": 646
+    },
+    {
+      "file": "entropy.webp",
+      "name": "Entropy",
+      "tags": [
+        "entropy",
+        "ice",
+        "heat"
+      ],
+      "sha256": "792a7b22737bfb6f847ec78ad02d98b7fa6633ca24d251d329ec0e7c9ac5106c",
+      "bytes": 55658,
+      "w": 740,
+      "h": 648
+    },
+    {
+      "file": "electromagnetism.webp",
+      "name": "Electromagnetism",
+      "tags": [
+        "magnet",
+        "fields",
+        "electricity"
+      ],
+      "sha256": "65d02faf6d2aa18311714b2e4e7905ef2799b56523e7476d4b2819073ca0b3df",
+      "bytes": 62514,
+      "w": 744,
+      "h": 658
+    },
+    {
+      "file": "optics.webp",
+      "name": "Optics",
+      "tags": [
+        "optics",
+        "prism",
+        "light"
+      ],
+      "sha256": "9e6aeed60021feac4ee14c588fcd8409b1d60d0695bd855bd76a9484b67f9ce5",
+      "bytes": 30470,
+      "w": 788,
+      "h": 674
+    },
+    {
+      "file": "rainbow.webp",
+      "name": "Rainbow",
+      "tags": [
+        "light",
+        "rainbow",
+        "spectrum"
+      ],
+      "sha256": "906684d308edb71cc8523581192c211a6e786ab7fb54f36df2c2197a707014d7",
+      "bytes": 46740,
+      "w": 744,
+      "h": 644
+    },
+    {
+      "file": "lasers.webp",
+      "name": "Lasers",
+      "tags": [
+        "lasers",
+        "light",
+        "mirrors"
+      ],
+      "sha256": "775d8bbede790761ae8b2124f91f9d9f3ca559cf063f132e26412562c4dfee3a",
+      "bytes": 47572,
+      "w": 696,
+      "h": 606
+    },
+    {
+      "file": "waves.webp",
+      "name": "Waves",
+      "tags": [
+        "waves",
+        "ripples",
+        "frequency"
+      ],
+      "sha256": "2be4cf8d5a788a72ca135fce854ec9bda8ee7372d5ace73d04be20e5532f408b",
+      "bytes": 88070,
+      "w": 740,
+      "h": 656
+    },
+    {
+      "file": "sound.webp",
+      "name": "Sound",
+      "tags": [
+        "sound",
+        "tuning fork",
+        "waves"
+      ],
+      "sha256": "812f55145c7da3b0dbd61448d25535c63ff0dc570610eee68d70373c85d76273",
+      "bytes": 43558,
+      "w": 784,
+      "h": 676
+    },
+    {
+      "file": "fluid-dynamics.webp",
+      "name": "Fluid Dynamics",
+      "tags": [
+        "fluids",
+        "flow",
+        "vortex"
+      ],
+      "sha256": "ea699d6e06437ce86629d733ba845e8ff3cc7530e92a23bf1ab5287f3a3b95a9",
+      "bytes": 82466,
+      "w": 776,
+      "h": 658
+    },
+    {
+      "file": "buoyancy.webp",
+      "name": "Buoyancy",
+      "tags": [
+        "buoyancy",
+        "ship",
+        "water"
+      ],
+      "sha256": "3810e6ca8d41030350d5acbf3d44ac24faf496bdc15ca58ecd304ac8051e8e70",
+      "bytes": 28436,
+      "w": 662,
+      "h": 616
+    },
+    {
+      "file": "quantum.webp",
+      "name": "Quantum",
+      "tags": [
+        "quantum",
+        "atoms",
+        "particles"
+      ],
+      "sha256": "c7481c602153ead765f6ce754ba429246095fe16b13027e91ee6989bce0033b7",
+      "bytes": 45020,
+      "w": 728,
+      "h": 654
+    },
+    {
+      "file": "nuclear.webp",
+      "name": "Nuclear",
+      "tags": [
+        "nuclear",
+        "fission",
+        "energy"
+      ],
+      "sha256": "f1e279eacd116c6bc6d21188cdff67e215a05c0e7e1f0c4aef8db97e77e33b69",
+      "bytes": 65048,
+      "w": 752,
+      "h": 664
+    },
+    {
+      "file": "particle-tracks.webp",
+      "name": "Particle Tracks",
+      "tags": [
+        "particles",
+        "collider",
+        "tracks"
+      ],
+      "sha256": "1b84eed06df460b9c71a0f12ca074f8bbfd5733f09abb770978bfddf8642342e",
+      "bytes": 87884,
+      "w": 792,
+      "h": 668
+    },
+    {
+      "file": "crystals.webp",
+      "name": "Crystals",
+      "tags": [
+        "crystals",
+        "lattice",
+        "solids"
+      ],
+      "sha256": "fa5f68615c303a0fcc89b69e9659d03f3a7691ae83db2d2ca7316645b5ef11e6",
+      "bytes": 46530,
+      "w": 696,
+      "h": 652
+    },
+    {
+      "file": "relativity.webp",
+      "name": "Relativity",
+      "tags": [
+        "relativity",
+        "spacetime",
+        "einstein"
+      ],
+      "sha256": "6cbb0a624607ced30a1cbe12ddb0baf6f1b1ca7cb91629ea6071363f704e7367",
+      "bytes": 142746,
+      "w": 750,
+      "h": 660
+    },
+    {
+      "file": "black-hole.webp",
+      "name": "Black Hole",
+      "tags": [
+        "black hole",
+        "space",
+        "gravity"
+      ],
+      "sha256": "7b83d08eb82c8c582348eac21f69ce23d37e02115224aef35ef7899f8c9d77cc",
+      "bytes": 98952,
+      "w": 752,
+      "h": 660
+    }
+  ]
+}

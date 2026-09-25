@@ -1,0 +1,120 @@
+{
+  "version": 2,
+  "id": "motivation-posters",
+  "hash": "9fd8951058f6f8c4",
+  "name": "Motivation Posters",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "motivation",
+    "posters",
+    "goals",
+    "retro",
+    "bold"
+  ],
+  "skins": [
+    {
+      "file": "summit.webp",
+      "name": "Summit",
+      "tags": [
+        "mountain",
+        "peak"
+      ],
+      "sha256": "03f24bc7306ce0238151adcc1b12e6d6fe6638bb731ce21832d7a81fe8e1b62b",
+      "bytes": 66992,
+      "w": 784,
+      "h": 674
+    },
+    {
+      "file": "launch.webp",
+      "name": "Launch",
+      "tags": [
+        "rocket",
+        "start",
+        "launch"
+      ],
+      "sha256": "6ddf7faad0c14c79f7bc0b91b69f859cfd16e7b2077ba140123d7e3b79c3ce2d",
+      "bytes": 42370,
+      "w": 748,
+      "h": 650
+    },
+    {
+      "file": "finish-line.webp",
+      "name": "Finish Line",
+      "tags": [
+        "running",
+        "race",
+        "win"
+      ],
+      "sha256": "4deaf9a3c9ab02899942c0d811f83fb18e752411feef6a7c1e32a84bb5a7335a",
+      "bytes": 68480,
+      "w": 796,
+      "h": 658
+    },
+    {
+      "file": "reach.webp",
+      "name": "Reach",
+      "tags": [
+        "climbing",
+        "ambition",
+        "reach"
+      ],
+      "sha256": "9f4d6feaa7d881c1b685589ed4a2fc9900f1e808d156caa75266ad085364d1d3",
+      "bytes": 40870,
+      "w": 794,
+      "h": 674
+    },
+    {
+      "file": "grit.webp",
+      "name": "Grit",
+      "tags": [
+        "growth",
+        "sprout",
+        "resilience"
+      ],
+      "sha256": "a6236d6ea6a32c78665d07439ebd9ede5dfd1734204c39b05d28f5f156b1019c",
+      "bytes": 59534,
+      "w": 752,
+      "h": 660
+    },
+    {
+      "file": "guide.webp",
+      "name": "Guide",
+      "tags": [
+        "lighthouse",
+        "direction",
+        "guidance"
+      ],
+      "sha256": "16c53a206c9f0b66126764924904ba2094de7a6b4b7b70293a656d5e4ede123c",
+      "bytes": 87972,
+      "w": 780,
+      "h": 664
+    },
+    {
+      "file": "journey.webp",
+      "name": "Journey",
+      "tags": [
+        "road",
+        "path",
+        "journey"
+      ],
+      "sha256": "f6d7a3ab8ae487291a00773902e1976c6842c98a00f48ce6249a5a40a2f609b6",
+      "bytes": 44064,
+      "w": 802,
+      "h": 670
+    },
+    {
+      "file": "rise.webp",
+      "name": "Rise",
+      "tags": [
+        "phoenix",
+        "comeback",
+        "rise"
+      ],
+      "sha256": "7c6585b934366a5381adeebb1505feaea9117585c8e3adad4d6ae04f6ebfd44a",
+      "bytes": 95058,
+      "w": 738,
+      "h": 664
+    }
+  ]
+}

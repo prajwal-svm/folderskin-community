@@ -1,0 +1,272 @@
+{
+  "version": 2,
+  "id": "ai-providers",
+  "hash": "f07d0f153d7be684",
+  "name": "AI Providers",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "ai",
+    "brands",
+    "tech",
+    "logos",
+    "chatbots"
+  ],
+  "skins": [
+    {
+      "file": "claude.webp",
+      "name": "Claude",
+      "tags": [
+        "anthropic",
+        "assistant"
+      ],
+      "sha256": "24c19dac9a62568af3fc7351feba476f0b3e0f5dff94c516ce08d6f053a4ad52",
+      "bytes": 48684,
+      "w": 732,
+      "h": 663
+    },
+    {
+      "file": "chatgpt.webp",
+      "name": "ChatGPT",
+      "tags": [
+        "openai",
+        "assistant"
+      ],
+      "sha256": "57b30f1aa88cb8884eeb85e8efb979fedfa621562b1159f5b391f4a4614bd4ae",
+      "bytes": 37646,
+      "w": 788,
+      "h": 662
+    },
+    {
+      "file": "gemini.webp",
+      "name": "Gemini",
+      "tags": [
+        "google",
+        "assistant"
+      ],
+      "sha256": "074b98e1fee1d01a87c0fdba04fbb3907b162b50b9ef2b4ccd2df50769d9d9c5",
+      "bytes": 103558,
+      "w": 772,
+      "h": 668
+    },
+    {
+      "file": "grok.webp",
+      "name": "Grok",
+      "tags": [
+        "xai",
+        "assistant"
+      ],
+      "sha256": "3f859895491b8eaa9a3f18387d7b9904d8a6dabc6424495abf177272e9d1fb90",
+      "bytes": 58072,
+      "w": 768,
+      "h": 684
+    },
+    {
+      "file": "xai.webp",
+      "name": "xAI",
+      "tags": [
+        "xai",
+        "research"
+      ],
+      "sha256": "8a0b32a34212f12f740e821481e14e72925c4d1a5aa101044a998daa8954094a",
+      "bytes": 91240,
+      "w": 760,
+      "h": 652
+    },
+    {
+      "file": "hugging-face.webp",
+      "name": "Hugging Face",
+      "tags": [
+        "open source",
+        "models",
+        "community"
+      ],
+      "sha256": "dd69b9dcca416573af1c01ff68d77c75379e5df7e12cbd6ac7290d77f55d399b",
+      "bytes": 123500,
+      "w": 752,
+      "h": 628
+    },
+    {
+      "file": "llama.webp",
+      "name": "Llama",
+      "tags": [
+        "meta",
+        "open source",
+        "models"
+      ],
+      "sha256": "e97011b175e61a0ee0039eed8828e6313aee707c4471d047311b0b5016ffdd86",
+      "bytes": 119100,
+      "w": 736,
+      "h": 666
+    },
+    {
+      "file": "mistral.webp",
+      "name": "Mistral",
+      "tags": [
+        "mistral ai",
+        "open source",
+        "models"
+      ],
+      "sha256": "2e972302148e1643bb5cff3594de972cd824a36acad8878c1937b24420d37cc7",
+      "bytes": 113598,
+      "w": 747,
+      "h": 672
+    },
+    {
+      "file": "deepseek.webp",
+      "name": "DeepSeek",
+      "tags": [
+        "deepseek",
+        "models",
+        "reasoning"
+      ],
+      "sha256": "673b7a820837d61553c56cdefd956a54bff0ad4159a3f45e77d4875804ceb6b1",
+      "bytes": 91050,
+      "w": 760,
+      "h": 660
+    },
+    {
+      "file": "perplexity.webp",
+      "name": "Perplexity",
+      "tags": [
+        "search",
+        "answers",
+        "assistant"
+      ],
+      "sha256": "12a2c4caea429b70b91ccec592a88c3cb8a77db59c4c627448ba3b9e8c4fb018",
+      "bytes": 136548,
+      "w": 777,
+      "h": 654
+    },
+    {
+      "file": "copilot.webp",
+      "name": "Copilot",
+      "tags": [
+        "microsoft",
+        "assistant",
+        "office"
+      ],
+      "sha256": "43ab0030a59915355eb8b842187680037b8914b44b79ab4869921971dadb7741",
+      "bytes": 91102,
+      "w": 752,
+      "h": 665
+    },
+    {
+      "file": "github-copilot.webp",
+      "name": "GitHub Copilot",
+      "tags": [
+        "github",
+        "coding",
+        "assistant"
+      ],
+      "sha256": "6a1240dc2aa5031f39d1876fc6aaac1b017255a2744ec394ad645607f44d39ca",
+      "bytes": 75280,
+      "w": 800,
+      "h": 687
+    },
+    {
+      "file": "midjourney.webp",
+      "name": "Midjourney",
+      "tags": [
+        "image generation",
+        "art",
+        "creative"
+      ],
+      "sha256": "97caeea547e1ea52ced095ad6e06ef47c5e570de13f14906c4691cab5f3b360f",
+      "bytes": 114914,
+      "w": 765,
+      "h": 656
+    },
+    {
+      "file": "stable-diffusion.webp",
+      "name": "Stable Diffusion",
+      "tags": [
+        "image generation",
+        "open source",
+        "art"
+      ],
+      "sha256": "d904bc3c04e06efcb73bbbcd94693fa0addae9bd356ef7af4de75b13e8799b91",
+      "bytes": 145688,
+      "w": 794,
+      "h": 672
+    },
+    {
+      "file": "nvidia.webp",
+      "name": "NVIDIA",
+      "tags": [
+        "gpus",
+        "chips",
+        "hardware"
+      ],
+      "sha256": "5d67cee689f0b24f5413b7a72a21ca78c3586da1d121034da7572138f78c875c",
+      "bytes": 123720,
+      "w": 780,
+      "h": 654
+    },
+    {
+      "file": "apple-intelligence.webp",
+      "name": "Apple Intelligence",
+      "tags": [
+        "apple",
+        "assistant",
+        "devices"
+      ],
+      "sha256": "b71d3c389e35969c60c9922377668f97b68bfc83b4411e47e89821762f2bfa06",
+      "bytes": 37208,
+      "w": 724,
+      "h": 652
+    },
+    {
+      "file": "alexa.webp",
+      "name": "Alexa",
+      "tags": [
+        "amazon",
+        "voice assistant",
+        "smart home"
+      ],
+      "sha256": "058c83e2e7ecdd71611c6e2b204807b00472985765c7c4207e199ffd81c4c9a4",
+      "bytes": 71716,
+      "w": 728,
+      "h": 644
+    },
+    {
+      "file": "qwen.webp",
+      "name": "Qwen",
+      "tags": [
+        "alibaba",
+        "models",
+        "open source"
+      ],
+      "sha256": "8269c83bddfc343d6170a080f985845610592000a3c78fc380a039666d5695c7",
+      "bytes": 72986,
+      "w": 750,
+      "h": 646
+    },
+    {
+      "file": "elevenlabs.webp",
+      "name": "ElevenLabs",
+      "tags": [
+        "voice",
+        "audio",
+        "speech"
+      ],
+      "sha256": "43e21d02a72d3e77658cc9c3fbe35ecf1e84ecce018800d5990d82d7d0cec0c2",
+      "bytes": 51706,
+      "w": 770,
+      "h": 662
+    },
+    {
+      "file": "runway.webp",
+      "name": "Runway",
+      "tags": [
+        "video generation",
+        "creative",
+        "film"
+      ],
+      "sha256": "f10aa1be0497b023be3939ab3e1c367909a92ed091bfab8e9e9e47e90fa81a22",
+      "bytes": 74478,
+      "w": 744,
+      "h": 660
+    }
+  ]
+}

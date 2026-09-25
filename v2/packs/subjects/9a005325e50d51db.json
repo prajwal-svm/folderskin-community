@@ -1,0 +1,276 @@
+{
+  "version": 2,
+  "id": "subjects",
+  "hash": "9a005325e50d51db",
+  "name": "Subjects",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "subjects",
+    "school",
+    "science",
+    "vintage",
+    "study"
+  ],
+  "skins": [
+    {
+      "file": "mathematics.webp",
+      "name": "Mathematics",
+      "tags": [
+        "maths",
+        "math",
+        "numbers"
+      ],
+      "sha256": "ce3e6c879da4201c61231d12773eda3b6560a7047078d8778880791b4586a40e",
+      "bytes": 82162,
+      "w": 756,
+      "h": 648
+    },
+    {
+      "file": "physics.webp",
+      "name": "Physics",
+      "tags": [
+        "physics",
+        "einstein"
+      ],
+      "sha256": "cddf2297fb6bac6f7a16a36fa635b408fad7eedc2ce018d3ea5e763374ed99ad",
+      "bytes": 116076,
+      "w": 792,
+      "h": 671
+    },
+    {
+      "file": "chemistry.webp",
+      "name": "Chemistry",
+      "tags": [
+        "chemistry",
+        "marie curie",
+        "lab"
+      ],
+      "sha256": "1ce51f448ed334ab10b30b5ee3a9396f753ef7529bbbcb8d88ac89e5612369bb",
+      "bytes": 103918,
+      "w": 776,
+      "h": 656
+    },
+    {
+      "file": "biology.webp",
+      "name": "Biology",
+      "tags": [
+        "biology",
+        "life",
+        "nature"
+      ],
+      "sha256": "ec4e3d48fb0c13310b3d4605e013ee93bcf9e7c08c16ac99268da76e7ec882bf",
+      "bytes": 138780,
+      "w": 804,
+      "h": 678
+    },
+    {
+      "file": "astronomy.webp",
+      "name": "Astronomy",
+      "tags": [
+        "astronomy",
+        "stars",
+        "telescope"
+      ],
+      "sha256": "6268c8dc99dc786e5b0594da6c2409bf06297b9207475b7349b332c876409eb8",
+      "bytes": 120676,
+      "w": 780,
+      "h": 664
+    },
+    {
+      "file": "economics.webp",
+      "name": "Economics",
+      "tags": [
+        "economics",
+        "wall street",
+        "markets"
+      ],
+      "sha256": "605a9ad6d8d2f25cce002dc465f4553e21fc59f10e94dc790b4e9ff3b259a32a",
+      "bytes": 95058,
+      "w": 752,
+      "h": 659
+    },
+    {
+      "file": "computer-science.webp",
+      "name": "Computer Science",
+      "tags": [
+        "computer science",
+        "coding",
+        "computers"
+      ],
+      "sha256": "2d5f13b69ea8c481ad29802b2f9972dd2cee2e36295aba1c56c1445eaa668b57",
+      "bytes": 73766,
+      "w": 814,
+      "h": 664
+    },
+    {
+      "file": "artificial-intelligence.webp",
+      "name": "Artificial Intelligence",
+      "tags": [
+        "ai",
+        "robots",
+        "future"
+      ],
+      "sha256": "f5c112caf61188f1506abfdf389391902d1dca9b3f9b63660a808222f9bf0c05",
+      "bytes": 97300,
+      "w": 796,
+      "h": 666
+    },
+    {
+      "file": "machine-learning.webp",
+      "name": "Machine Learning",
+      "tags": [
+        "machine learning",
+        "data",
+        "models"
+      ],
+      "sha256": "f1c3b364e01e17f2af57955f6af851c5acdc9e8e77a139d7b21b0c49b64b8ada",
+      "bytes": 56880,
+      "w": 811,
+      "h": 662
+    },
+    {
+      "file": "electronics.webp",
+      "name": "Electronics",
+      "tags": [
+        "electronics",
+        "circuits",
+        "hardware"
+      ],
+      "sha256": "08b8a81b80120e57cb6d711009708cc9f4360d0528a1e547484db51d4a5d9254",
+      "bytes": 227326,
+      "w": 787,
+      "h": 670
+    },
+    {
+      "file": "engineering.webp",
+      "name": "Engineering",
+      "tags": [
+        "engineering",
+        "machines",
+        "design"
+      ],
+      "sha256": "f00cdf2a47b0fe2a46ddab13c355c468a0c406cc359943e94c3e4a4b5e2be16d",
+      "bytes": 123490,
+      "w": 792,
+      "h": 654
+    },
+    {
+      "file": "literature.webp",
+      "name": "Literature",
+      "tags": [
+        "literature",
+        "books",
+        "reading"
+      ],
+      "sha256": "603adaaa9cf461f34cf8415c30aebc9535ba0d2adfc1b9b94839b9840274aea3",
+      "bytes": 99848,
+      "w": 816,
+      "h": 674
+    },
+    {
+      "file": "history.webp",
+      "name": "History",
+      "tags": [
+        "history",
+        "past",
+        "archives"
+      ],
+      "sha256": "24ed24b012656f62602cd81da072cfc556e487d0646c2adc0c52fccdc2ffe503",
+      "bytes": 201024,
+      "w": 756,
+      "h": 654
+    },
+    {
+      "file": "geography.webp",
+      "name": "Geography",
+      "tags": [
+        "geography",
+        "maps",
+        "world"
+      ],
+      "sha256": "a417324f780aff347b19e3866ae49c3391efa202c5825e999b87528480a57180",
+      "bytes": 146928,
+      "w": 766,
+      "h": 664
+    },
+    {
+      "file": "languages.webp",
+      "name": "Languages",
+      "tags": [
+        "languages",
+        "words",
+        "travel"
+      ],
+      "sha256": "058bd4ca76da4fbbe50fbf84a7d92f56ace15187d0d96a842be51888e93df2b2",
+      "bytes": 153968,
+      "w": 802,
+      "h": 676
+    },
+    {
+      "file": "art.webp",
+      "name": "Art",
+      "tags": [
+        "art",
+        "painting",
+        "creative"
+      ],
+      "sha256": "f519e61711eb10d141067ab79e96644d1cf361210fd92901b438e72f1ec440a6",
+      "bytes": 243918,
+      "w": 804,
+      "h": 670
+    },
+    {
+      "file": "music.webp",
+      "name": "Music",
+      "tags": [
+        "music",
+        "composers",
+        "classical"
+      ],
+      "sha256": "0655d044218bb6d8ab9450a122ff89fc8159d755256a62d93c635f93de24da43",
+      "bytes": 81054,
+      "w": 776,
+      "h": 664
+    },
+    {
+      "file": "psychology.webp",
+      "name": "Psychology",
+      "tags": [
+        "psychology",
+        "mind",
+        "behaviour"
+      ],
+      "sha256": "6f063937be1fa3c547541f7dd1581df9ad42cb865c1ed053a4eec5c7d7bd57d1",
+      "bytes": 143252,
+      "w": 772,
+      "h": 656
+    },
+    {
+      "file": "philosophy.webp",
+      "name": "Philosophy",
+      "tags": [
+        "philosophy",
+        "thinking",
+        "the thinker"
+      ],
+      "sha256": "59e267f60693fb75859efb1540bf22888568b713fdc9f6d17e77484b1187c937",
+      "bytes": 94646,
+      "w": 750,
+      "h": 672
+    },
+    {
+      "file": "medicine.webp",
+      "name": "Medicine",
+      "tags": [
+        "medicine",
+        "health",
+        "doctors"
+      ],
+      "sha256": "bc3b55d6af37b233603f79dba05eb83dfcb4ea266b243e70ae527a4447a70f6f",
+      "bytes": 118792,
+      "w": 792,
+      "h": 656
+    }
+  ]
+}

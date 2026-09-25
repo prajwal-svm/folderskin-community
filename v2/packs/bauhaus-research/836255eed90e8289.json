@@ -1,0 +1,184 @@
+{
+  "version": 2,
+  "id": "bauhaus-research",
+  "hash": "836255eed90e8289",
+  "name": "Bauhaus Research",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "research",
+    "science",
+    "academia",
+    "bauhaus",
+    "geometric"
+  ],
+  "skins": [
+    {
+      "file": "hypothesis.webp",
+      "name": "Hypothesis",
+      "tags": [
+        "hypothesis",
+        "ideas",
+        "questions"
+      ],
+      "sha256": "4bbccb7e56817a87e7a253e901aab221220512885195e8ee2c56b90272be9c8a",
+      "bytes": 19970,
+      "w": 709,
+      "h": 647
+    },
+    {
+      "file": "experiment.webp",
+      "name": "Experiment",
+      "tags": [
+        "experiment",
+        "beakers",
+        "lab"
+      ],
+      "sha256": "c58e4be3da99e71da6265a03d6af3704b11aef96891374dc89216a0703891adc",
+      "bytes": 28606,
+      "w": 804,
+      "h": 682
+    },
+    {
+      "file": "microscope.webp",
+      "name": "Microscope",
+      "tags": [
+        "microscope",
+        "lab"
+      ],
+      "sha256": "e79ea7a6d11610b3c38ea1a86d59e9d30d3fd583da46ac025ea8b70455828cbc",
+      "bytes": 17090,
+      "w": 748,
+      "h": 662
+    },
+    {
+      "file": "lab-notebook.webp",
+      "name": "Lab Notebook",
+      "tags": [
+        "notebook",
+        "data",
+        "notes"
+      ],
+      "sha256": "7f3ab03e476203b41a23c2b06c5cf7ea78cc7c7a0548757c23e7c28b4869ab3f",
+      "bytes": 41698,
+      "w": 746,
+      "h": 664
+    },
+    {
+      "file": "data-analysis.webp",
+      "name": "Data Analysis",
+      "tags": [
+        "data",
+        "charts",
+        "analysis"
+      ],
+      "sha256": "34aa4cffbb2c8bde090a3c0ef8c4fc95d55ce644410fd6828d35061f9c755322",
+      "bytes": 23136,
+      "w": 800,
+      "h": 668
+    },
+    {
+      "file": "survey.webp",
+      "name": "Survey",
+      "tags": [
+        "survey",
+        "checklist",
+        "questions"
+      ],
+      "sha256": "871f3d88535da7aca886b7219d129150b263bd2b6d5fb3017750d7f74a6f3cfb",
+      "bytes": 20968,
+      "w": 740,
+      "h": 650
+    },
+    {
+      "file": "interviews.webp",
+      "name": "Interviews",
+      "tags": [
+        "interviews",
+        "recorder",
+        "fieldwork"
+      ],
+      "sha256": "864de41ffce21651630862fc72db4ae7eb2d56a55660ddca70b022eab6063d64",
+      "bytes": 32586,
+      "w": 752,
+      "h": 650
+    },
+    {
+      "file": "citations.webp",
+      "name": "Citations",
+      "tags": [
+        "citations",
+        "references",
+        "network"
+      ],
+      "sha256": "441f508de68ebdbf8fbed161817001b8b3ff30a353f401c9bad29cdf2984e91c",
+      "bytes": 119124,
+      "w": 770,
+      "h": 658
+    },
+    {
+      "file": "peer-review.webp",
+      "name": "Peer Review",
+      "tags": [
+        "review",
+        "papers",
+        "critique"
+      ],
+      "sha256": "9345c7026b6a3006daab60a02457f462276a27c85699c3979c6ae092af811cb1",
+      "bytes": 41576,
+      "w": 800,
+      "h": 658
+    },
+    {
+      "file": "reproducibility.webp",
+      "name": "Reproducibility",
+      "tags": [
+        "reproducibility",
+        "experiments"
+      ],
+      "sha256": "a5f5d0098e7696db3cca076b8f52b66866b22133baddf56d69cad31eeb86e108",
+      "bytes": 31604,
+      "w": 794,
+      "h": 666
+    },
+    {
+      "file": "ethics.webp",
+      "name": "Ethics",
+      "tags": [
+        "ethics",
+        "care",
+        "integrity"
+      ],
+      "sha256": "8124cbd57c6ca4840e99f0890af4d25899b88cca0a3da095b84124de3fd905bd",
+      "bytes": 21602,
+      "w": 728,
+      "h": 643
+    },
+    {
+      "file": "eureka.webp",
+      "name": "Eureka",
+      "tags": [
+        "eureka",
+        "discovery",
+        "idea"
+      ],
+      "sha256": "24584c565b7ff4151b967bc2b98cd26a10646568e508a56e3e60806c894e06fb",
+      "bytes": 39828,
+      "w": 756,
+      "h": 652
+    },
+    {
+      "file": "field-station.webp",
+      "name": "Field Station",
+      "tags": [
+        "antarctica",
+        "fieldwork",
+        "station"
+      ],
+      "sha256": "b4bf146f1045d8330c730e62831132ddc799fb9e5bef456702b66b60367c560a",
+      "bytes": 45854,
+      "w": 774,
+      "h": 666
+    }
+  ]
+}

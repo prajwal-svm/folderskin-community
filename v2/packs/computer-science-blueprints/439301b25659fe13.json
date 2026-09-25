@@ -1,0 +1,224 @@
+{
+  "version": 2,
+  "id": "computer-science-blueprints",
+  "hash": "439301b25659fe13",
+  "name": "Computer Science Blueprints",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "computer science",
+    "programming",
+    "code",
+    "tech",
+    "blueprint"
+  ],
+  "skins": [
+    {
+      "file": "algorithms.webp",
+      "name": "Algorithms",
+      "tags": [
+        "algorithms",
+        "flowchart",
+        "logic"
+      ],
+      "sha256": "250258004295c20fc4d85a0e3259253a8b495400252aa57c1ad0a937141f1075",
+      "bytes": 24874,
+      "w": 774,
+      "h": 642
+    },
+    {
+      "file": "compiler.webp",
+      "name": "Compiler",
+      "tags": [
+        "compiler",
+        "gears"
+      ],
+      "sha256": "b89b7566d5821d774716b1669c4230e3f0b6eac33db6e255e70d94729d8c907c",
+      "bytes": 89480,
+      "w": 798,
+      "h": 654
+    },
+    {
+      "file": "operating-system.webp",
+      "name": "Operating System",
+      "tags": [
+        "os",
+        "control room",
+        "system"
+      ],
+      "sha256": "ba7c71a2e0fb6340e622a6ce32b106316a1c090c6f4bfbb24f8d2b0b5ea38556",
+      "bytes": 100368,
+      "w": 808,
+      "h": 647
+    },
+    {
+      "file": "cpu.webp",
+      "name": "CPU",
+      "tags": [
+        "cpu",
+        "processor",
+        "chip"
+      ],
+      "sha256": "613be7b94a6d15e786deb69ee43fef1615828437a2fa742fbe52f6f7ea8fda24",
+      "bytes": 138320,
+      "w": 800,
+      "h": 662
+    },
+    {
+      "file": "memory.webp",
+      "name": "Memory",
+      "tags": [
+        "ram",
+        "memory",
+        "chips"
+      ],
+      "sha256": "ca14e03cebb05259b5a60178ff231232a0261c3e28758c6cb03d7e4667dee0f3",
+      "bytes": 65774,
+      "w": 770,
+      "h": 636
+    },
+    {
+      "file": "databases.webp",
+      "name": "Databases",
+      "tags": [
+        "database",
+        "storage",
+        "data"
+      ],
+      "sha256": "43d825b2588a87af140f8f8bee6b8c5525e625edb2b13d5fb6e27da85be0150c",
+      "bytes": 25988,
+      "w": 764,
+      "h": 644
+    },
+    {
+      "file": "networking.webp",
+      "name": "Networking",
+      "tags": [
+        "network",
+        "packets",
+        "routing"
+      ],
+      "sha256": "a5ff3bb745019561d86fde56def351395c892fc88a8f644b39f5f59a57cf7da6",
+      "bytes": 51336,
+      "w": 774,
+      "h": 652
+    },
+    {
+      "file": "the-internet.webp",
+      "name": "The Internet",
+      "tags": [
+        "internet",
+        "network",
+        "web"
+      ],
+      "sha256": "3e4483cde724acef500655caae3825e5efb0c132f798001040ab01815446c2ba",
+      "bytes": 89022,
+      "w": 762,
+      "h": 632
+    },
+    {
+      "file": "the-cloud.webp",
+      "name": "The Cloud",
+      "tags": [
+        "cloud",
+        "servers",
+        "hosting"
+      ],
+      "sha256": "47cfd1bacc6d1208aa073080344c0fb0f72ece6aad48e961de8b573a98dbc1fb",
+      "bytes": 26626,
+      "w": 780,
+      "h": 658
+    },
+    {
+      "file": "cryptography.webp",
+      "name": "Cryptography",
+      "tags": [
+        "cryptography",
+        "lock",
+        "key"
+      ],
+      "sha256": "d4714a74d8f4f9688c823a5a56f11b5c97109b5ecd34f1a966bccfb1044b3bc1",
+      "bytes": 31234,
+      "w": 692,
+      "h": 606
+    },
+    {
+      "file": "cybersecurity.webp",
+      "name": "Cybersecurity",
+      "tags": [
+        "security",
+        "shield",
+        "protection"
+      ],
+      "sha256": "fc42275c55236183ad5071f2b8f8ea410bac95dc70c611bdddae9dc2772a548b",
+      "bytes": 23828,
+      "w": 704,
+      "h": 632
+    },
+    {
+      "file": "debugging.webp",
+      "name": "Debugging",
+      "tags": [
+        "debugging",
+        "bugs",
+        "testing"
+      ],
+      "sha256": "25c6eecb68fcdefe861d84812cc530ff4e6ecc9ceafbc2ed5c50d9e76f914b63",
+      "bytes": 34068,
+      "w": 756,
+      "h": 632
+    },
+    {
+      "file": "version-control.webp",
+      "name": "Version Control",
+      "tags": [
+        "git",
+        "branches",
+        "versions"
+      ],
+      "sha256": "fe89592aeef204e407e61d4f26558168b8a032c00ddbde5ee68e59c2b80d48d3",
+      "bytes": 33104,
+      "w": 780,
+      "h": 634
+    },
+    {
+      "file": "open-source.webp",
+      "name": "Open Source",
+      "tags": [
+        "open source",
+        "community",
+        "collaboration"
+      ],
+      "sha256": "21ea673c6a4d3d990e402cbf148a54e285366299e064b558eb0fa43d074a77ff",
+      "bytes": 51752,
+      "w": 748,
+      "h": 644
+    },
+    {
+      "file": "recursion.webp",
+      "name": "Recursion",
+      "tags": [
+        "recursion",
+        "folders",
+        "nested"
+      ],
+      "sha256": "0e9fa61e686c9342d198f2816e34158aaba99038b1b840c7cdd8072b1dadc760",
+      "bytes": 26890,
+      "w": 762,
+      "h": 662
+    },
+    {
+      "file": "computer-graphics.webp",
+      "name": "Computer Graphics",
+      "tags": [
+        "graphics",
+        "3d",
+        "teapot"
+      ],
+      "sha256": "bdedfe005b59d8d686127981df470e2d77068da88a03396d5fa366627557f559",
+      "bytes": 97748,
+      "w": 788,
+      "h": 658
+    }
+  ]
+}

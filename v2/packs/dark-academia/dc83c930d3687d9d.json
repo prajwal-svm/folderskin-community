@@ -1,0 +1,260 @@
+{
+  "version": 2,
+  "id": "dark-academia",
+  "hash": "dc83c930d3687d9d",
+  "name": "Dark Academia",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "academia",
+    "university",
+    "books",
+    "vintage",
+    "oil painting"
+  ],
+  "skins": [
+    {
+      "file": "library-stacks.webp",
+      "name": "Library Stacks",
+      "tags": [
+        "library",
+        "shelves"
+      ],
+      "sha256": "b1ce3a90acbe10ddd8cec756655def0af1cf27121b69c2f2b61a4735a7aba81f",
+      "bytes": 153200,
+      "w": 758,
+      "h": 662
+    },
+    {
+      "file": "lecture-hall.webp",
+      "name": "Lecture Hall",
+      "tags": [
+        "lectures",
+        "hall"
+      ],
+      "sha256": "76cd2b723f4d8b49820434941cd9515a6caf613077365c993ad9f611355752e3",
+      "bytes": 157298,
+      "w": 772,
+      "h": 636
+    },
+    {
+      "file": "seminar.webp",
+      "name": "Seminar",
+      "tags": [
+        "seminar",
+        "discussion",
+        "table"
+      ],
+      "sha256": "cecc58012b2afb385cff521fa597a717cd58b4ce9512a42080b2e42a02e5b839",
+      "bytes": 150876,
+      "w": 796,
+      "h": 654
+    },
+    {
+      "file": "chalkboard.webp",
+      "name": "Chalkboard",
+      "tags": [
+        "chalkboard",
+        "ideas",
+        "lectures"
+      ],
+      "sha256": "32b53fc30b4c584ca42b4e92bb93a363152418f036d00adbf2f1db87f034e0f0",
+      "bytes": 152468,
+      "w": 790,
+      "h": 660
+    },
+    {
+      "file": "professors-office.webp",
+      "name": "Professor's Office",
+      "tags": [
+        "office",
+        "professor"
+      ],
+      "sha256": "4467e5e5564333a5752c7e628f16f62a17e40e67499d888fd582a0c2ffe5ab99",
+      "bytes": 165722,
+      "w": 806,
+      "h": 664
+    },
+    {
+      "file": "midnight-study.webp",
+      "name": "Midnight Study",
+      "tags": [
+        "phd",
+        "late night",
+        "desk"
+      ],
+      "sha256": "6c586f0db59a693243c4856dd63b98fb20100b38180c4e730139854f61e3dd7e",
+      "bytes": 99954,
+      "w": 765,
+      "h": 655
+    },
+    {
+      "file": "peer-review.webp",
+      "name": "Peer Review",
+      "tags": [
+        "review",
+        "papers",
+        "desk"
+      ],
+      "sha256": "da2520ae819c78fc4969a1626b365acf41211039e38bf18716259318bb129946",
+      "bytes": 186204,
+      "w": 772,
+      "h": 658
+    },
+    {
+      "file": "research-lab.webp",
+      "name": "Research Lab",
+      "tags": [
+        "lab",
+        "research",
+        "experiments"
+      ],
+      "sha256": "4a4998d91646934b5a9e217b38329c5de89fd243bf68db66f5102b1af648911d",
+      "bytes": 163098,
+      "w": 804,
+      "h": 668
+    },
+    {
+      "file": "poster-session.webp",
+      "name": "Poster Session",
+      "tags": [
+        "conference",
+        "posters",
+        "research"
+      ],
+      "sha256": "c1afb7376a165435f3ce947e99b90f6af3043248a9e4f4eb2c65cc09a77d8381",
+      "bytes": 160480,
+      "w": 816,
+      "h": 648
+    },
+    {
+      "file": "thesis-defence.webp",
+      "name": "Thesis Defence",
+      "tags": [
+        "thesis",
+        "phd",
+        "defence"
+      ],
+      "sha256": "e93121cd6d7baa3c0bcc0fc5256efabaabe107f0009aae943b42cda0bc58d10b",
+      "bytes": 142386,
+      "w": 777,
+      "h": 678
+    },
+    {
+      "file": "rare-books.webp",
+      "name": "Rare Books",
+      "tags": [
+        "archive",
+        "rare books",
+        "library"
+      ],
+      "sha256": "afb608bfd1112e2ae219a1ea7fbe0c70bf7c9374e3017a005a15225cef463305",
+      "bytes": 168462,
+      "w": 796,
+      "h": 666
+    },
+    {
+      "file": "field-dig.webp",
+      "name": "Field Dig",
+      "tags": [
+        "archaeology",
+        "dig",
+        "fieldwork"
+      ],
+      "sha256": "ca4733bc6e92c4d67a3e146f69177239a883349b613ef6be9fa1822afee7c18d",
+      "bytes": 184454,
+      "w": 784,
+      "h": 654
+    },
+    {
+      "file": "study-abroad.webp",
+      "name": "Study Abroad",
+      "tags": [
+        "study abroad",
+        "travel",
+        "luggage"
+      ],
+      "sha256": "b63192de90c9458180d4249a3926913eaf736c7337e3f8027d0b2a2b05b4cdf9",
+      "bytes": 135148,
+      "w": 785,
+      "h": 666
+    },
+    {
+      "file": "scholarship.webp",
+      "name": "Scholarship",
+      "tags": [
+        "scholarship",
+        "letter",
+        "seal"
+      ],
+      "sha256": "a19f516759fb70fc3c84a4cb727e480bd3c1e005d31d81bdbba0cf9423fbfbbe",
+      "bytes": 140022,
+      "w": 714,
+      "h": 633
+    },
+    {
+      "file": "academic-gowns.webp",
+      "name": "Academic Gowns",
+      "tags": [
+        "gowns",
+        "graduation",
+        "ceremony"
+      ],
+      "sha256": "4601a5aa17e5cb8376c81171415fd87284576823cbb4136a64922d7b7aa8aacc",
+      "bytes": 140858,
+      "w": 762,
+      "h": 654
+    },
+    {
+      "file": "graduation.webp",
+      "name": "Graduation",
+      "tags": [
+        "graduation",
+        "gowns",
+        "campus"
+      ],
+      "sha256": "c06e1aa57966a6a6783cce5b221c3b225f33cd294151fff1419ab0e82afae482",
+      "bytes": 210332,
+      "w": 832,
+      "h": 670
+    },
+    {
+      "file": "campus-quad.webp",
+      "name": "Campus Quad",
+      "tags": [
+        "campus",
+        "college",
+        "quad"
+      ],
+      "sha256": "e5aa855d8fde642bd44b6f2b9b5fa903d1d573121fc7065430e1285c07421c19",
+      "bytes": 153812,
+      "w": 783,
+      "h": 662
+    },
+    {
+      "file": "ivory-tower.webp",
+      "name": "Ivory Tower",
+      "tags": [
+        "tower",
+        "gothic"
+      ],
+      "sha256": "d99f428fa5114b6e6662668f382386df3626539f3390dc8f5edcf7dc45627d2a",
+      "bytes": 196142,
+      "w": 794,
+      "h": 672
+    },
+    {
+      "file": "alumni-reunion.webp",
+      "name": "Alumni Reunion",
+      "tags": [
+        "alumni",
+        "reunion",
+        "hall"
+      ],
+      "sha256": "208f3a90a1cfc085dde460c1048c592b964f3ba89d0db34796ba709f6c9e8fba",
+      "bytes": 182094,
+      "w": 782,
+      "h": 662
+    }
+  ]
+}

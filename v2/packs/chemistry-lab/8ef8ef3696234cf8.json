@@ -1,0 +1,262 @@
+{
+  "version": 2,
+  "id": "chemistry-lab",
+  "hash": "8ef8ef3696234cf8",
+  "name": "Chemistry Lab",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "chemistry",
+    "science",
+    "lab",
+    "3d",
+    "school"
+  ],
+  "skins": [
+    {
+      "file": "lab-glassware.webp",
+      "name": "Lab Glassware",
+      "tags": [
+        "glassware",
+        "flasks"
+      ],
+      "sha256": "c0fbe0b5761f3a9cb4ea3ad25bb0d12b4060ab8fe9fdbbeaa0451ed1074c5aa6",
+      "bytes": 118182,
+      "w": 740,
+      "h": 651
+    },
+    {
+      "file": "molecules.webp",
+      "name": "Molecules",
+      "tags": [
+        "molecules",
+        "atoms",
+        "bonds"
+      ],
+      "sha256": "4752576f2c96f81fbdf6d46f60c2eb52a57a9ae9123bfdebc0a96a970fa1a17e",
+      "bytes": 117244,
+      "w": 733,
+      "h": 637
+    },
+    {
+      "file": "water-molecule.webp",
+      "name": "Water Molecule",
+      "tags": [
+        "water",
+        "h2o",
+        "molecule"
+      ],
+      "sha256": "6a4d46eaefd03c27170e281e079e3daa77daaff0ffacac2bdc57f1f66fd365da",
+      "bytes": 43438,
+      "w": 762,
+      "h": 660
+    },
+    {
+      "file": "benzene-ring.webp",
+      "name": "Benzene Ring",
+      "tags": [
+        "benzene",
+        "organic",
+        "molecule"
+      ],
+      "sha256": "53fb8de7d282a156359e6cd522410c9424077111627fa662e4a6b30a6f26a515",
+      "bytes": 86434,
+      "w": 746,
+      "h": 650
+    },
+    {
+      "file": "buckyball.webp",
+      "name": "Buckyball",
+      "tags": [
+        "nanotech",
+        "carbon",
+        "buckyball"
+      ],
+      "sha256": "3caa38a5463e60f6c8b0341a661b64ae511385e758bf944f922d0606fe964304",
+      "bytes": 74576,
+      "w": 760,
+      "h": 652
+    },
+    {
+      "file": "fizzing-reaction.webp",
+      "name": "Fizzing Reaction",
+      "tags": [
+        "reaction",
+        "bubbles",
+        "fizz"
+      ],
+      "sha256": "bf8ab46d6d40a96fb546c1353d5b721904cf80171aa9dcfdf9d46191f4bf1618",
+      "bytes": 113708,
+      "w": 744,
+      "h": 650
+    },
+    {
+      "file": "precipitate.webp",
+      "name": "Precipitate",
+      "tags": [
+        "precipitate",
+        "reaction",
+        "beaker"
+      ],
+      "sha256": "61fcc46119f9147796df0f25d442e9e285d78a0244432af3a9b601fd4cd3f613",
+      "bytes": 110768,
+      "w": 753,
+      "h": 650
+    },
+    {
+      "file": "catalyst.webp",
+      "name": "Catalyst",
+      "tags": [
+        "catalyst",
+        "reaction",
+        "lattice"
+      ],
+      "sha256": "730b8044569b76831e61c2cc17f24742dbc71257482857100b08c4756f34c0e0",
+      "bytes": 136910,
+      "w": 712,
+      "h": 638
+    },
+    {
+      "file": "growing-crystals.webp",
+      "name": "Growing Crystals",
+      "tags": [
+        "crystals",
+        "growth"
+      ],
+      "sha256": "8ea23c65b849cf60cf54c4a6863de74f13ffa1982d3527d2f4599ea665c47a02",
+      "bytes": 136478,
+      "w": 742,
+      "h": 644
+    },
+    {
+      "file": "salt-crystals.webp",
+      "name": "Salt Crystals",
+      "tags": [
+        "salt",
+        "crystals",
+        "magnifier"
+      ],
+      "sha256": "f9f53febe6fae42cebb9697c067186b47a92db0adc3dc2c1af64baf1b5ff95a9",
+      "bytes": 80918,
+      "w": 778,
+      "h": 669
+    },
+    {
+      "file": "flame-tests.webp",
+      "name": "Flame Tests",
+      "tags": [
+        "flames",
+        "bunsen burner",
+        "colours"
+      ],
+      "sha256": "08af00d5b593d841e707f9ec72cd6810283e0af0826786e42a5cfdb8bc4257d1",
+      "bytes": 71162,
+      "w": 757,
+      "h": 653
+    },
+    {
+      "file": "fireworks.webp",
+      "name": "Fireworks",
+      "tags": [
+        "fireworks",
+        "flames",
+        "colours"
+      ],
+      "sha256": "f8958aeac69622cca0c0178c04717c1462a87c5287ff8307ce5be98ef2d63c03",
+      "bytes": 95820,
+      "w": 744,
+      "h": 642
+    },
+    {
+      "file": "distillation.webp",
+      "name": "Distillation",
+      "tags": [
+        "distillation",
+        "condenser",
+        "flask"
+      ],
+      "sha256": "cd7415a7aa9f024e1d57e418902d7beab78b35533ba15320bfbc1e97bb78010e",
+      "bytes": 67880,
+      "w": 696,
+      "h": 662
+    },
+    {
+      "file": "chromatography.webp",
+      "name": "Chromatography",
+      "tags": [
+        "chromatography",
+        "separation",
+        "paper"
+      ],
+      "sha256": "55c74c81d6e39714cd5f1cdcb164e1e4d55de811d5e6b8f12691b4bcee2254f3",
+      "bytes": 57850,
+      "w": 735,
+      "h": 651
+    },
+    {
+      "file": "electrolysis.webp",
+      "name": "Electrolysis",
+      "tags": [
+        "electrolysis",
+        "electrodes",
+        "bubbles"
+      ],
+      "sha256": "1e7be85bdc82f1d6ec615f7769ea9aeb073317b989528acf06d98161c32eb4a9",
+      "bytes": 87270,
+      "w": 741,
+      "h": 648
+    },
+    {
+      "file": "ph-indicators.webp",
+      "name": "pH Indicators",
+      "tags": [
+        "ph",
+        "acids",
+        "test tubes"
+      ],
+      "sha256": "f0db2ac66fded5e368570072a8ddb98172d7cb9d718206dfc84cad4b3ad25407",
+      "bytes": 54750,
+      "w": 752,
+      "h": 646
+    },
+    {
+      "file": "acids-and-bases.webp",
+      "name": "Acids and Bases",
+      "tags": [
+        "acids",
+        "bases",
+        "flasks"
+      ],
+      "sha256": "0bed4d3063fadede213efc0c08b95feb20ce102663a770f1de6146f79cddfce4",
+      "bytes": 45826,
+      "w": 748,
+      "h": 652
+    },
+    {
+      "file": "gas-balloons.webp",
+      "name": "Gas Balloons",
+      "tags": [
+        "gases",
+        "balloons",
+        "helium"
+      ],
+      "sha256": "fb32b72caca82f6d14883c0564bce941cad08772dd867ba90fbedf03c95a14ae",
+      "bytes": 92442,
+      "w": 749,
+      "h": 652
+    },
+    {
+      "file": "alchemists-bench.webp",
+      "name": "Alchemist's Bench",
+      "tags": [
+        "alchemy",
+        "vintage",
+        "potions"
+      ],
+      "sha256": "0e1470d465d69cdaf929fc4164826eba32a0e5ed64741edd1e1a8124b7678775",
+      "bytes": 125808,
+      "w": 744,
+      "h": 646
+    }
+  ]
+}

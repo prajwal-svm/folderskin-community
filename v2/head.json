@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "generation": "494ea44e8eb9d1e7",
-  "packs": 14,
-  "skins": 229,
+  "generation": "e6139138eece23dc",
+  "packs": 34,
+  "skins": 612,
   "catalog": {
-    "url": "catalog/494ea44e8eb9d1e7.sqlite.gz",
-    "sha256": "723db7e8f4b95d646f587685711bbf6f1a50932bdf7f2911773b50d67ab32eca",
-    "bytes": 23141
+    "url": "catalog/e6139138eece23dc.sqlite.gz",
+    "sha256": "f03e94d1c6379b7ee61c5f4d6d16963b7d93e6dd50690d458d49d1fa782f7988",
+    "bytes": 106204
   },
-  "featured": [],
+  "featured": [
+    "scientists-pop-art",
+    "classic-art"
+  ],
   "mirrors": []
 }

@@ -1,0 +1,134 @@
+{
+  "version": 2,
+  "id": "wanderlust",
+  "hash": "74af23bbf3a580bd",
+  "name": "Wanderlust",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "travel",
+    "adventure",
+    "scenic",
+    "nature",
+    "holidays"
+  ],
+  "skins": [
+    {
+      "file": "island.webp",
+      "name": "Island",
+      "tags": [
+        "beach",
+        "island",
+        "sailing"
+      ],
+      "sha256": "a6821b598f6344be040b085d048c8ada6cb6716052354c30a5c72943adc17568",
+      "bytes": 104522,
+      "w": 739,
+      "h": 650
+    },
+    {
+      "file": "alps.webp",
+      "name": "Alps",
+      "tags": [
+        "mountains",
+        "snow",
+        "ski"
+      ],
+      "sha256": "de180368f681e68790d1405e5601b3be2d607fee924687e68b8aaf1a539066ab",
+      "bytes": 130182,
+      "w": 752,
+      "h": 662
+    },
+    {
+      "file": "desert.webp",
+      "name": "Desert",
+      "tags": [
+        "desert",
+        "dunes",
+        "camels"
+      ],
+      "sha256": "f0a4f54611b21710e9652ab819da41d9833c70317d681873b8d4608045f86949",
+      "bytes": 52170,
+      "w": 758,
+      "h": 665
+    },
+    {
+      "file": "jungle.webp",
+      "name": "Jungle",
+      "tags": [
+        "jungle",
+        "waterfall",
+        "rainforest"
+      ],
+      "sha256": "37d390a54f8e59dad3575e34e9993084f768b45ca7e81a7979b9381b3a223034",
+      "bytes": 176182,
+      "w": 820,
+      "h": 684
+    },
+    {
+      "file": "aurora.webp",
+      "name": "Aurora",
+      "tags": [
+        "northern lights",
+        "snow",
+        "night"
+      ],
+      "sha256": "a31990a34f1ba9b7cdd646e340ef709542038d0e82495e193cb76b4611997efe",
+      "bytes": 65434,
+      "w": 784,
+      "h": 662
+    },
+    {
+      "file": "safari.webp",
+      "name": "Safari",
+      "tags": [
+        "safari",
+        "africa",
+        "giraffes"
+      ],
+      "sha256": "78358c47e1553d7d3944c7a9228a066ecf62eb9d44b3135e5c22471086163472",
+      "bytes": 159700,
+      "w": 756,
+      "h": 651
+    },
+    {
+      "file": "voyage.webp",
+      "name": "Voyage",
+      "tags": [
+        "ocean liner",
+        "sea",
+        "cruise"
+      ],
+      "sha256": "d98abb894769f5f55a9df75fef5c52e3e76f73a783b79da5886a76ef5d49af24",
+      "bytes": 67180,
+      "w": 784,
+      "h": 652
+    },
+    {
+      "file": "road-trip.webp",
+      "name": "Road Trip",
+      "tags": [
+        "road trip",
+        "coast",
+        "car"
+      ],
+      "sha256": "ef93901cd170bc4c4828d6691b3b4ae1644752f0893c023955e031cf7e3b5971",
+      "bytes": 117682,
+      "w": 840,
+      "h": 682
+    },
+    {
+      "file": "camping.webp",
+      "name": "Camping",
+      "tags": [
+        "camping",
+        "tent",
+        "stars"
+      ],
+      "sha256": "992a2d68656528023edb27a37e088ed432f7051713682d2b280b9f95905b7fc6",
+      "bytes": 104820,
+      "w": 751,
+      "h": 680
+    }
+  ]
+}

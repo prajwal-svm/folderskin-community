@@ -1,0 +1,237 @@
+{
+  "version": 2,
+  "id": "paper-economics",
+  "hash": "77154c65278a40bb",
+  "name": "Paper Economics",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "economics",
+    "money",
+    "finance",
+    "paper craft",
+    "business"
+  ],
+  "skins": [
+    {
+      "file": "bull-and-bear.webp",
+      "name": "Bull and Bear",
+      "tags": [
+        "markets",
+        "stocks",
+        "investing"
+      ],
+      "sha256": "90e91de4c40996153267ac819e73200e35d7711933ec6cd15c7ab3996f5eafba",
+      "bytes": 78362,
+      "w": 821,
+      "h": 658
+    },
+    {
+      "file": "bank-vault.webp",
+      "name": "Bank Vault",
+      "tags": [
+        "vault",
+        "bank",
+        "savings"
+      ],
+      "sha256": "306149c45cd0c6d6154b9e32c9407543e5824e4cac38ac881405d872082900d9",
+      "bytes": 70114,
+      "w": 766,
+      "h": 654
+    },
+    {
+      "file": "coins.webp",
+      "name": "Coins",
+      "tags": [
+        "coins",
+        "history"
+      ],
+      "sha256": "c4d90fc49789eedb488a104fef64fafcfa452ab5455fee9e7ff89e6611b837f8",
+      "bytes": 97070,
+      "w": 820,
+      "h": 641
+    },
+    {
+      "file": "compound-interest.webp",
+      "name": "Compound Interest",
+      "tags": [
+        "interest",
+        "savings",
+        "growth"
+      ],
+      "sha256": "8aef393e84c08ee2e40adee976e168554e25e91fd896d318c94e141a3828b6de",
+      "bytes": 72518,
+      "w": 757,
+      "h": 648
+    },
+    {
+      "file": "growth.webp",
+      "name": "Growth",
+      "tags": [
+        "growth",
+        "chart",
+        "profit"
+      ],
+      "sha256": "78a42adb6e41c0b4752e3b018ad490689a3326e566475aeb47b34695b7372a0e",
+      "bytes": 46610,
+      "w": 787,
+      "h": 655
+    },
+    {
+      "file": "inflation.webp",
+      "name": "Inflation",
+      "tags": [
+        "inflation",
+        "prices",
+        "balloon"
+      ],
+      "sha256": "0d52a727569ccae4010484cdaae67f18420ae0710015f2715dfcf8f50b5fd117",
+      "bytes": 57276,
+      "w": 727,
+      "h": 653
+    },
+    {
+      "file": "market-stall.webp",
+      "name": "Market Stall",
+      "tags": [
+        "market",
+        "produce",
+        "shopping"
+      ],
+      "sha256": "1817f19a1d1deb1a78d1cf7eb1e263b341bd50bb9158d6c2afbf2dc28173c25b",
+      "bytes": 96492,
+      "w": 779,
+      "h": 652
+    },
+    {
+      "file": "trade.webp",
+      "name": "Trade",
+      "tags": [
+        "shipping",
+        "containers",
+        "trade"
+      ],
+      "sha256": "6714dc2155b3f90901234af22138aa85cc6e1cfed621b865cb08c149537b3612",
+      "bytes": 78420,
+      "w": 784,
+      "h": 651
+    },
+    {
+      "file": "globalisation.webp",
+      "name": "Globalisation",
+      "tags": [
+        "globe",
+        "trade",
+        "connections"
+      ],
+      "sha256": "dfafe6619c31d8e26e6d2dd623784b4f5fe04e174e4adc5f87c8ce2b084185c9",
+      "bytes": 64860,
+      "w": 768,
+      "h": 644
+    },
+    {
+      "file": "scales-of-trade.webp",
+      "name": "Scales of Trade",
+      "tags": [
+        "balance",
+        "trade",
+        "weights"
+      ],
+      "sha256": "2a6da7ae5880a890c93061778973f6b824f9c386b2e541592eddecf8722fe60a",
+      "bytes": 56726,
+      "w": 798,
+      "h": 664
+    },
+    {
+      "file": "auction.webp",
+      "name": "Auction",
+      "tags": [
+        "auction",
+        "gavel",
+        "bidding"
+      ],
+      "sha256": "cce6a8e289abca054b26cb251d69071bfe61b2bb0a217e6310c37296876f23a0",
+      "bytes": 61754,
+      "w": 822,
+      "h": 659
+    },
+    {
+      "file": "factory.webp",
+      "name": "Factory",
+      "tags": [
+        "factory",
+        "industry",
+        "production"
+      ],
+      "sha256": "726e7a66d6b5cb88eec9a2488219c88f36dd056ec71e2728c41a6a6256934a56",
+      "bytes": 76524,
+      "w": 794,
+      "h": 661
+    },
+    {
+      "file": "startup.webp",
+      "name": "Startup",
+      "tags": [
+        "startup",
+        "garage",
+        "ideas"
+      ],
+      "sha256": "3b23baa57c0f0b30805c53140c523e57b36c23940fb567347108d3c3d602af48",
+      "bytes": 59106,
+      "w": 784,
+      "h": 655
+    },
+    {
+      "file": "taxes.webp",
+      "name": "Taxes",
+      "tags": [
+        "taxes",
+        "roads",
+        "public spending"
+      ],
+      "sha256": "f10a8045cb6aa2b8313edce5d7f38b9cc57278df0809cab200b5f273c6f4b289",
+      "bytes": 94510,
+      "w": 761,
+      "h": 638
+    },
+    {
+      "file": "scarcity.webp",
+      "name": "Scarcity",
+      "tags": [
+        "scarcity",
+        "apple",
+        "demand"
+      ],
+      "sha256": "4804b5c581d208e7e7e18077685048711637c6c03678e582924247ca591f9318",
+      "bytes": 66372,
+      "w": 808,
+      "h": 665
+    },
+    {
+      "file": "invisible-hand.webp",
+      "name": "Invisible Hand",
+      "tags": [
+        "markets",
+        "adam smith",
+        "hand"
+      ],
+      "sha256": "b8825cce0bce1ccccdde38d9d5a704d47c1a148a805aee88c86d745df9a68041",
+      "bytes": 84194,
+      "w": 740,
+      "h": 652
+    },
+    {
+      "file": "business-cycles.webp",
+      "name": "Business Cycles",
+      "tags": [
+        "cycles",
+        "waves",
+        "economy"
+      ],
+      "sha256": "d73a4e3ac180727e9b5db2afdca1d0be9fbb9f5c42f778e0356b7b8f7caa44f1",
+      "bytes": 53086,
+      "w": 810,
+      "h": 637
+    }
+  ]
+}

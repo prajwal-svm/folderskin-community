@@ -1,0 +1,264 @@
+{
+  "version": 2,
+  "id": "chalkboard-maths",
+  "hash": "7351e9ff93e3ef33",
+  "name": "Chalkboard Maths",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "maths",
+    "math",
+    "chalkboard",
+    "school",
+    "science"
+  ],
+  "skins": [
+    {
+      "file": "algebra.webp",
+      "name": "Algebra",
+      "tags": [
+        "algebra",
+        "equations",
+        "balance"
+      ],
+      "sha256": "c795f068c8a4cfab73be9f7d48e29005d40cfd31a5a1be6a213c9b68a50b760b",
+      "bytes": 114448,
+      "w": 748,
+      "h": 648
+    },
+    {
+      "file": "geometry.webp",
+      "name": "Geometry",
+      "tags": [
+        "geometry",
+        "compass",
+        "shapes"
+      ],
+      "sha256": "8073b62afdb68af54dfded47749aed9789df0e3433eb0b40348c5b1c95a49fb7",
+      "bytes": 119580,
+      "w": 720,
+      "h": 601
+    },
+    {
+      "file": "calculus.webp",
+      "name": "Calculus",
+      "tags": [
+        "calculus",
+        "integrals",
+        "curves"
+      ],
+      "sha256": "84179c5f2de483c26d4a696ff6b503d8d757d6e9f515a1193d0a0de0c2e59ef2",
+      "bytes": 157414,
+      "w": 730,
+      "h": 620
+    },
+    {
+      "file": "trigonometry.webp",
+      "name": "Trigonometry",
+      "tags": [
+        "trigonometry",
+        "sine",
+        "circle"
+      ],
+      "sha256": "c1a82422cf8b5ec9cfa85afaa6a766c60dadaea74678230cc207f330885455fb",
+      "bytes": 88534,
+      "w": 780,
+      "h": 652
+    },
+    {
+      "file": "statistics.webp",
+      "name": "Statistics",
+      "tags": [
+        "statistics",
+        "charts",
+        "data"
+      ],
+      "sha256": "e617255e4e2009025316c85c15206d07bb06ce661374b469215d2e33fd5a4ed1",
+      "bytes": 153704,
+      "w": 808,
+      "h": 656
+    },
+    {
+      "file": "probability.webp",
+      "name": "Probability",
+      "tags": [
+        "probability",
+        "dice",
+        "bell curve"
+      ],
+      "sha256": "24e76138a16bfefc096cd621d2df82a6fba9dcd0941b76193dfb6a9c14bd3ff0",
+      "bytes": 127566,
+      "w": 784,
+      "h": 662
+    },
+    {
+      "file": "linear-algebra.webp",
+      "name": "Linear Algebra",
+      "tags": [
+        "matrices",
+        "vectors",
+        "algebra"
+      ],
+      "sha256": "73cd11153e7edc5a76e91535501800a948d750f25d53026f2a4a97a1f5bc6fdd",
+      "bytes": 155106,
+      "w": 799,
+      "h": 652
+    },
+    {
+      "file": "differential-equations.webp",
+      "name": "Differential Equations",
+      "tags": [
+        "equations",
+        "flow",
+        "calculus"
+      ],
+      "sha256": "37153f67b4cbdd253dd4d061f8138bbc22e6c609b63199567ac9b101cf4ec766",
+      "bytes": 135912,
+      "w": 780,
+      "h": 658
+    },
+    {
+      "file": "complex-numbers.webp",
+      "name": "Complex Numbers",
+      "tags": [
+        "complex numbers",
+        "vectors",
+        "plane"
+      ],
+      "sha256": "583f669c4e7131be9958e527352138ef79e478907ebcf8e775e01c5cdaed7dac",
+      "bytes": 107746,
+      "w": 760,
+      "h": 634
+    },
+    {
+      "file": "number-theory.webp",
+      "name": "Number Theory",
+      "tags": [
+        "numbers",
+        "primes",
+        "patterns"
+      ],
+      "sha256": "c77e7270592c683acbb6b46b37607238a359428a58c0a500b743a223c4ba1824",
+      "bytes": 126916,
+      "w": 770,
+      "h": 656
+    },
+    {
+      "file": "set-theory.webp",
+      "name": "Set Theory",
+      "tags": [
+        "sets",
+        "venn diagram",
+        "logic"
+      ],
+      "sha256": "c3404e51a774de74ba3fb516c12416b08e5394f39e97cfc34ffbd9cbabc698e2",
+      "bytes": 126658,
+      "w": 762,
+      "h": 656
+    },
+    {
+      "file": "graph-theory.webp",
+      "name": "Graph Theory",
+      "tags": [
+        "graphs",
+        "networks",
+        "nodes"
+      ],
+      "sha256": "a9d76a1489e423fcc0131fc82c0e5196805ab61d3c3208e0c4d4db34044d6c35",
+      "bytes": 151752,
+      "w": 756,
+      "h": 642
+    },
+    {
+      "file": "logic.webp",
+      "name": "Logic",
+      "tags": [
+        "logic",
+        "truth tables",
+        "reasoning"
+      ],
+      "sha256": "d02313aee5b83c427aba551a0753f6b1e360836069e8ce7c24aa6ea3d563a14f",
+      "bytes": 136586,
+      "w": 784,
+      "h": 660
+    },
+    {
+      "file": "topology.webp",
+      "name": "Topology",
+      "tags": [
+        "topology",
+        "mobius strip",
+        "shapes"
+      ],
+      "sha256": "21bb15d1b2ffa0e5da28919d32a1c9eb47de9aad750f91c83a5a456b186036ea",
+      "bytes": 135904,
+      "w": 684,
+      "h": 582
+    },
+    {
+      "file": "fractals.webp",
+      "name": "Fractals",
+      "tags": [
+        "fractals",
+        "patterns",
+        "geometry"
+      ],
+      "sha256": "2444f8bbfe2d50d95bd62af2977673f5f54dc8d30e71739319ad1ae052a6b237",
+      "bytes": 182538,
+      "w": 786,
+      "h": 658
+    },
+    {
+      "file": "tessellations.webp",
+      "name": "Tessellations",
+      "tags": [
+        "tessellation",
+        "patterns",
+        "tiles"
+      ],
+      "sha256": "44593523fa5a39fb4515e8e136763fcfd10d234f84508393632ea6dd0abf40c6",
+      "bytes": 167712,
+      "w": 748,
+      "h": 639
+    },
+    {
+      "file": "golden-spiral.webp",
+      "name": "Golden Spiral",
+      "tags": [
+        "golden ratio",
+        "spiral",
+        "fibonacci"
+      ],
+      "sha256": "cd790139d72f826ea80491f6ac7aec26ca54577d47fa0ea96eaf74c4c062bf6a",
+      "bytes": 112860,
+      "w": 692,
+      "h": 562
+    },
+    {
+      "file": "pi.webp",
+      "name": "Pi",
+      "tags": [
+        "pi",
+        "circle",
+        "constants"
+      ],
+      "sha256": "1d5f78ea474db9b6de6988fc793b93a2da381d82e979380cedd1b45b4bf16209",
+      "bytes": 93726,
+      "w": 784,
+      "h": 640
+    },
+    {
+      "file": "infinity.webp",
+      "name": "Infinity",
+      "tags": [
+        "infinity",
+        "symbol",
+        "limits"
+      ],
+      "sha256": "6621da80f0996ab392cfd7d2e6c4b04fa4175e5bfe7dd29c1bb69838bd14ddf4",
+      "bytes": 140850,
+      "w": 724,
+      "h": 650
+    }
+  ]
+}

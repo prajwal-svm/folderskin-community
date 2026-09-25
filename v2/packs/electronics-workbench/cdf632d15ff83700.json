@@ -1,0 +1,247 @@
+{
+  "version": 2,
+  "id": "electronics-workbench",
+  "hash": "cdf632d15ff83700",
+  "name": "Electronics Workbench",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "electronics",
+    "circuits",
+    "hardware",
+    "engineering",
+    "maker"
+  ],
+  "skins": [
+    {
+      "file": "circuit-board.webp",
+      "name": "Circuit Board",
+      "tags": [
+        "pcb",
+        "circuit board",
+        "traces"
+      ],
+      "sha256": "35aa181cfdfbc0be5b0195e0b74bb7434a08b9f53e66c1be7156c4259fbf4c8d",
+      "bytes": 123724,
+      "w": 808,
+      "h": 670
+    },
+    {
+      "file": "microcontroller.webp",
+      "name": "Microcontroller",
+      "tags": [
+        "microcontroller",
+        "board"
+      ],
+      "sha256": "04073af0ec76b511f83d353a1561f67a6fd80e079abd37452f455d699e25246c",
+      "bytes": 212422,
+      "w": 804,
+      "h": 672
+    },
+    {
+      "file": "soldering.webp",
+      "name": "Soldering",
+      "tags": [
+        "soldering",
+        "pcb",
+        "repair"
+      ],
+      "sha256": "e442066ebf67bd8011db1faabf40ce3a1fabee51b7f282f3d9cbbdc379be622e",
+      "bytes": 209108,
+      "w": 784,
+      "h": 666
+    },
+    {
+      "file": "oscilloscope.webp",
+      "name": "Oscilloscope",
+      "tags": [
+        "oscilloscope",
+        "signals",
+        "testing"
+      ],
+      "sha256": "b176c615e2910e933a35f2f055bc13fe38e3c289961830f79420d40096160f79",
+      "bytes": 58568,
+      "w": 800,
+      "h": 662
+    },
+    {
+      "file": "multimeter.webp",
+      "name": "Multimeter",
+      "tags": [
+        "multimeter",
+        "testing",
+        "measurement"
+      ],
+      "sha256": "41d2e114d0bc85942da2300446aec61267ef582e8e3bd13cef515cc934e17f0a",
+      "bytes": 70284,
+      "w": 802,
+      "h": 656
+    },
+    {
+      "file": "resistors.webp",
+      "name": "Resistors",
+      "tags": [
+        "resistors",
+        "components"
+      ],
+      "sha256": "38469739fa06d3c8d9ff6fc99aaae3a06f0509c225c143450dd7b985ca7b58ff",
+      "bytes": 95842,
+      "w": 816,
+      "h": 674
+    },
+    {
+      "file": "capacitors.webp",
+      "name": "Capacitors",
+      "tags": [
+        "capacitors",
+        "components"
+      ],
+      "sha256": "a931995e012006f38f0bd48044cf2946ce80ac55e7d7cccd745a8cc496fd2e57",
+      "bytes": 114664,
+      "w": 784,
+      "h": 666
+    },
+    {
+      "file": "transistor.webp",
+      "name": "Transistor",
+      "tags": [
+        "transistor",
+        "semiconductor",
+        "switch"
+      ],
+      "sha256": "2b572bfd1d7026fe87f176b21efb8480b5491fc4fca3b8b3ddb734c1258d81c2",
+      "bytes": 103868,
+      "w": 804,
+      "h": 656
+    },
+    {
+      "file": "integrated-circuit.webp",
+      "name": "Integrated Circuit",
+      "tags": [
+        "ic",
+        "chip",
+        "semiconductor"
+      ],
+      "sha256": "4b9c574d71eb25052e4263551a79cb15911372745f67722e5be7bcbec4d027e1",
+      "bytes": 52110,
+      "w": 804,
+      "h": 679
+    },
+    {
+      "file": "leds.webp",
+      "name": "LEDs",
+      "tags": [
+        "leds",
+        "lights"
+      ],
+      "sha256": "daded2f5ea5e3e936a767b9e0dfa6b93821bd6ba5067eb8ec9ae4837d611f381",
+      "bytes": 129778,
+      "w": 780,
+      "h": 670
+    },
+    {
+      "file": "vacuum-tube.webp",
+      "name": "Vacuum Tube",
+      "tags": [
+        "vacuum tube",
+        "vintage",
+        "audio"
+      ],
+      "sha256": "c49660dbdffd374ac5153b8fff27bae0e3f7c5d2c024fd0f803cc31858469adf",
+      "bytes": 51274,
+      "w": 780,
+      "h": 666
+    },
+    {
+      "file": "relay.webp",
+      "name": "Relay",
+      "tags": [
+        "relay",
+        "switch",
+        "coil"
+      ],
+      "sha256": "2c8fcbc30a219111a0c26ce0a75ecf26ec3db90b7580387861c181b2ff653e47",
+      "bytes": 87564,
+      "w": 794,
+      "h": 674
+    },
+    {
+      "file": "transformer.webp",
+      "name": "Transformer",
+      "tags": [
+        "transformer",
+        "coils",
+        "power"
+      ],
+      "sha256": "c97d055e4b38593a04497128680697489ae715ac6f91270b95bdf8e80609bfe8",
+      "bytes": 163126,
+      "w": 800,
+      "h": 656
+    },
+    {
+      "file": "electric-motor.webp",
+      "name": "Electric Motor",
+      "tags": [
+        "motor",
+        "coils",
+        "rotation"
+      ],
+      "sha256": "4de3d38f2f3ecea5344fc596ae18f13a208991b43f66f5557fc7a8d643070f9d",
+      "bytes": 151672,
+      "w": 760,
+      "h": 660
+    },
+    {
+      "file": "battery.webp",
+      "name": "Battery",
+      "tags": [
+        "battery",
+        "power",
+        "energy"
+      ],
+      "sha256": "178b1960aa9e45717fc1025293c8da58c3f9e6e14b3bd7d92d6ba21c3364c089",
+      "bytes": 59834,
+      "w": 802,
+      "h": 652
+    },
+    {
+      "file": "solar-cell.webp",
+      "name": "Solar Cell",
+      "tags": [
+        "solar",
+        "panel",
+        "renewable"
+      ],
+      "sha256": "4b7213bd9c1afe263945fc8c9978c4cf43e6d2d3776c7a2a3b225ab90c651930",
+      "bytes": 229574,
+      "w": 800,
+      "h": 668
+    },
+    {
+      "file": "loudspeaker.webp",
+      "name": "Loudspeaker",
+      "tags": [
+        "speaker",
+        "audio",
+        "sound"
+      ],
+      "sha256": "0355a33582efd95aec722e52b64a3b345592e7e2d3721af178207dee08b99628",
+      "bytes": 73680,
+      "w": 751,
+      "h": 656
+    },
+    {
+      "file": "antenna.webp",
+      "name": "Antenna",
+      "tags": [
+        "antenna",
+        "radio",
+        "signals"
+      ],
+      "sha256": "592c49726c59480c8c8679c3900a59dc3d0d5ebcb07f7bd33022dbc605b3d410",
+      "bytes": 74322,
+      "w": 770,
+      "h": 662
+    }
+  ]
+}
