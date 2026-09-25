@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "id": "iron-man-avenger-comic-7uafm5",
+  "hash": "486f2e84a335af33",
+  "name": "Iron Man - Avenger Comic",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "iron man",
+    "avengers",
+    "comic",
+    "pop art"
+  ],
+  "skins": [
+    {
+      "file": "iron-man-comic.png",
+      "name": "Iron Man - Comic",
+      "sha256": "34d318bb460c3eb3720b0c0574061408f690ca990888a9fa0d4c5344fc1c1b43",
+      "bytes": 1487561,
+      "w": 948,
+      "h": 887
+    }
+  ]
+}

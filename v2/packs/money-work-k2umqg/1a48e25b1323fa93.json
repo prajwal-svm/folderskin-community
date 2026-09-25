@@ -1,0 +1,118 @@
+{
+  "version": 2,
+  "id": "money-work-k2umqg",
+  "hash": "1a48e25b1323fa93",
+  "name": "Money & Work",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "money",
+    "work",
+    "finance",
+    "office",
+    "savings"
+  ],
+  "skins": [
+    {
+      "file": "investments.webp",
+      "name": "Investments",
+      "tags": [
+        "investing",
+        "stocks",
+        "markets"
+      ],
+      "sha256": "1560085e9e23f5c0125121fcbac8d7136bd68bae58e22117ebefa1f7a67fdb64",
+      "bytes": 810282,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "work.webp",
+      "name": "Work",
+      "tags": [
+        "job",
+        "laptop"
+      ],
+      "sha256": "96003b267f73dfeefd4b854e27200c118438ee05bba2768c563fd42092946ab3",
+      "bytes": 722292,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "savings.webp",
+      "name": "Savings",
+      "tags": [
+        "piggy bank",
+        "budget"
+      ],
+      "sha256": "01f1034c2405d8b19b6b1cb082bb1fe2a60b583754d6c4b1eabb9a346ffea347",
+      "bytes": 850864,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "deadline.webp",
+      "name": "Deadline",
+      "tags": [
+        "deadline",
+        "stress",
+        "typewriter"
+      ],
+      "sha256": "215f5d7f4e629d0424e2541f087a328b4d2aca9de0bbd27737c45373137a1c17",
+      "bytes": 683614,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "plans.webp",
+      "name": "Plans",
+      "tags": [
+        "plans",
+        "strategy",
+        "goals"
+      ],
+      "sha256": "9b71c2428ee722087734c660e787b014026e593e518f3167b6f0fef500513d27",
+      "bytes": 782542,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "nest-egg.webp",
+      "name": "Nest Egg",
+      "tags": [
+        "retirement",
+        "nest egg"
+      ],
+      "sha256": "9ffcf637becd0da1bb5b93eaffb79d18d11c22276e0987a76622dd7b89101994",
+      "bytes": 610564,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "out-of-office.webp",
+      "name": "Out of Office",
+      "tags": [
+        "vacation",
+        "out of office",
+        "holiday"
+      ],
+      "sha256": "775ce28706ea247d0b8e5f73c126e41c946d447298d5662e8461d2b51fba533f",
+      "bytes": 793712,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "vault.webp",
+      "name": "Vault",
+      "tags": [
+        "vault",
+        "safe",
+        "secure"
+      ],
+      "sha256": "1633ba43e6eb89c0bdcf12a9a427f993bc41642c81a5fdc28366b1484c2633b5",
+      "bytes": 830972,
+      "w": 1024,
+      "h": 1024
+    }
+  ]
+}

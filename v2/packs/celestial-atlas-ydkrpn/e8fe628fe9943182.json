@@ -1,0 +1,236 @@
+{
+  "version": 2,
+  "id": "celestial-atlas-ydkrpn",
+  "hash": "e8fe628fe9943182",
+  "name": "Celestial Atlas",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "astronomy",
+    "space",
+    "stars",
+    "engraving",
+    "gold"
+  ],
+  "skins": [
+    {
+      "file": "telescope.webp",
+      "name": "Telescope",
+      "tags": [
+        "telescope",
+        "observing"
+      ],
+      "sha256": "245f02a28a0f7f3ce5d0135a7b0db3cc417b143bbd9c2a136c190055fef2e612",
+      "bytes": 1072798,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "observatory.webp",
+      "name": "Observatory",
+      "tags": [
+        "observatory",
+        "dome",
+        "telescope"
+      ],
+      "sha256": "de294ef31367140e96091b46fc1b071bc468b60873508a3745d1da4f243ea355",
+      "bytes": 950826,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "constellations.webp",
+      "name": "Constellations",
+      "tags": [
+        "constellations",
+        "zodiac"
+      ],
+      "sha256": "1fc6ed03305e624984315ff5e25f8a5e90e263ec925c6b4a6f2a48d40d909794",
+      "bytes": 1206400,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "star-map.webp",
+      "name": "Star Map",
+      "tags": [
+        "star map",
+        "sextant",
+        "navigation"
+      ],
+      "sha256": "6042925d316a1ee76cb81b030852783c79470989247f7cf86e7d2d17aea8aa65",
+      "bytes": 941636,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "moon-phases.webp",
+      "name": "Moon Phases",
+      "tags": [
+        "moon",
+        "phases",
+        "lunar"
+      ],
+      "sha256": "98ac963da684027c9683d5a0f29bff6f23d91bed2b62a818a3ea0bb9d111f7cd",
+      "bytes": 874554,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "total-eclipse.webp",
+      "name": "Total Eclipse",
+      "tags": [
+        "eclipse",
+        "sun",
+        "moon"
+      ],
+      "sha256": "280a3108fe3170b7e09108e613b5d12b3ec70043e90da282110a67449a0acfa4",
+      "bytes": 666788,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "sunspots.webp",
+      "name": "Sunspots",
+      "tags": [
+        "sun",
+        "sunspots",
+        "solar"
+      ],
+      "sha256": "df69606cde793e07260cdc28541d6efc66d1d8bb28bf537877edb0fdd3da5acd",
+      "bytes": 741386,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "orrery.webp",
+      "name": "Orrery",
+      "tags": [
+        "orrery",
+        "planets",
+        "solar system"
+      ],
+      "sha256": "d9f13801c7aaf8c89982b6c9abc3701824db7cb178a828cb4b58f8a3da1c5869",
+      "bytes": 1115670,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "exoplanet.webp",
+      "name": "Exoplanet",
+      "tags": [
+        "exoplanet",
+        "planet",
+        "orbit"
+      ],
+      "sha256": "863dca6145112581df9f2b1e9ce17bb9839ec7d28fd66a652ba3eb53eef534a2",
+      "bytes": 1241920,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "comet.webp",
+      "name": "Comet",
+      "tags": [
+        "comet",
+        "tail",
+        "sky"
+      ],
+      "sha256": "b4c91da31bc477ea69d2654a711e0c2e565329e710386c53215820c194fb9ea5",
+      "bytes": 431648,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "meteor-shower.webp",
+      "name": "Meteor Shower",
+      "tags": [
+        "meteors",
+        "shooting stars",
+        "night"
+      ],
+      "sha256": "31fe460e3b95ade426f913bf3efc8c2dffd40387fc64a7189a626fea20e9907c",
+      "bytes": 761980,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "aurora.webp",
+      "name": "Aurora",
+      "tags": [
+        "aurora",
+        "northern lights",
+        "sky"
+      ],
+      "sha256": "35785d84c1a1bd6c6fa7afb37d48749d51c0328a889a4b106e23cd4fbca5171b",
+      "bytes": 1113606,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "milky-way.webp",
+      "name": "Milky Way",
+      "tags": [
+        "milky way",
+        "night sky",
+        "hills"
+      ],
+      "sha256": "9c9c1e2f0d66b3b0327a1cdbd404569bb59b2e56035365be5fd5449fe724705b",
+      "bytes": 1052594,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "spiral-galaxy.webp",
+      "name": "Spiral Galaxy",
+      "tags": [
+        "galaxy",
+        "spiral",
+        "cosmos"
+      ],
+      "sha256": "65abd879929e1548c2f26ee84e4be7fdc68e87ab9b5534493c7f3bc4e87ff07b",
+      "bytes": 1041454,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "supernova.webp",
+      "name": "Supernova",
+      "tags": [
+        "supernova",
+        "star",
+        "explosion"
+      ],
+      "sha256": "62a69dae36fa455a45545135b1a822479ab845dd25b4f699f62fc45d3e667489",
+      "bytes": 856026,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "black-hole.webp",
+      "name": "Black Hole",
+      "tags": [
+        "black hole",
+        "gravity",
+        "cosmos"
+      ],
+      "sha256": "d3f9788ba45de5163a1fb442f619789036c363cc0cd50a97633ae83a96288027",
+      "bytes": 1036540,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "radio-telescopes.webp",
+      "name": "Radio Telescopes",
+      "tags": [
+        "radio",
+        "dishes",
+        "signals"
+      ],
+      "sha256": "88f820b2674c13460390c8a7ffaed8bc599696133d63589ee0aa7eacdf195928",
+      "bytes": 1011842,
+      "w": 1024,
+      "h": 1024
+    }
+  ]
+}

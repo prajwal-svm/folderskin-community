@@ -1,0 +1,251 @@
+{
+  "version": 2,
+  "id": "biology-field-journal-g344y7",
+  "hash": "31cbaae1b273a503",
+  "name": "Biology Field Journal",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "biology",
+    "nature",
+    "science",
+    "watercolour",
+    "life"
+  ],
+  "skins": [
+    {
+      "file": "tree-of-life.webp",
+      "name": "Tree of Life",
+      "tags": [
+        "evolution",
+        "tree",
+        "species"
+      ],
+      "sha256": "89ca64e3c74e373ae0d98d5ecfed8ad6b7e95351c20ecc78d0b070a73fcc4215",
+      "bytes": 1038200,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "animal-cell.webp",
+      "name": "Animal Cell",
+      "tags": [
+        "animal cell",
+        "cells",
+        "nucleus"
+      ],
+      "sha256": "6435fc10b629e2455067d1e145cb009ea4f44b840bb5e652cbfffd418f2cc633",
+      "bytes": 1007116,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "plant-cell.webp",
+      "name": "Plant Cell",
+      "tags": [
+        "plant cell",
+        "cells",
+        "botany"
+      ],
+      "sha256": "d9a95929968cbf73d15bb22e89c3b8e80c66a17e0d0e65def2eab7287428ed42",
+      "bytes": 1120896,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "mitochondria.webp",
+      "name": "Mitochondria",
+      "tags": [
+        "mitochondria",
+        "cells",
+        "energy"
+      ],
+      "sha256": "0c10fe00df3ac0295dfce6da377974217bb4b02cb0174e0260bc23f9828f60eb",
+      "bytes": 1236304,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "microbes.webp",
+      "name": "Microbes",
+      "tags": [
+        "microbes",
+        "bacteria",
+        "microscope"
+      ],
+      "sha256": "981c3c77134e3b828e338f2668f4fb669c4b254358af09e029a950e2f7a11c2d",
+      "bytes": 1125048,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "virus.webp",
+      "name": "Virus",
+      "tags": [
+        "virus",
+        "microbiology",
+        "particle"
+      ],
+      "sha256": "ff1b901ff2ddc4e03de392e34c4b16480f8cee3f8510f2d55af34abacebac0cd",
+      "bytes": 975194,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "photosynthesis.webp",
+      "name": "Photosynthesis",
+      "tags": [
+        "photosynthesis",
+        "leaf",
+        "plants"
+      ],
+      "sha256": "94c081dffe04e2766818212c8ac5a482719626001823ba1e966855a5d40e0722",
+      "bytes": 1028768,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "seedlings.webp",
+      "name": "Seedlings",
+      "tags": [
+        "seeds",
+        "germination",
+        "growth"
+      ],
+      "sha256": "373059cb7d44072865c7ddeb1211213121bd55613d3a5e5242f55425db00ed1a",
+      "bytes": 1023764,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "fungal-network.webp",
+      "name": "Fungal Network",
+      "tags": [
+        "fungi",
+        "mushrooms",
+        "roots"
+      ],
+      "sha256": "8ccf1f86f56ef566c99c8fb7606a3ab66566b8a28b655cb23fee0920d296e6b5",
+      "bytes": 1183728,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "metamorphosis.webp",
+      "name": "Metamorphosis",
+      "tags": [
+        "butterfly",
+        "caterpillar",
+        "life cycle"
+      ],
+      "sha256": "953cbd932a790d4dc17e5ec8bd86871c6add331abd3cd62db9a2a1af30fca63f",
+      "bytes": 892210,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "meadow-insects.webp",
+      "name": "Meadow Insects",
+      "tags": [
+        "insects",
+        "bees",
+        "meadow"
+      ],
+      "sha256": "62139a48deec6bfb857f2417e111df6998e90e6d433a1faa7f7a770d0e048240",
+      "bytes": 1019002,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "bird-migration.webp",
+      "name": "Bird Migration",
+      "tags": [
+        "birds",
+        "migration",
+        "flight"
+      ],
+      "sha256": "36ebb8d05921ea771238cd40e0ed3718cb064d085ae85801f517d3d0fc458b06",
+      "bytes": 815612,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "ecosystem.webp",
+      "name": "Ecosystem",
+      "tags": [
+        "ecosystem",
+        "wetland",
+        "habitat"
+      ],
+      "sha256": "1c4b8bcd37374c63f3398c9e59e274b56cdc1ad0e115ccac021bb94a30be71bc",
+      "bytes": 1100486,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "coral-reef.webp",
+      "name": "Coral Reef",
+      "tags": [
+        "coral",
+        "reef",
+        "ocean"
+      ],
+      "sha256": "aa11e840b944a55dba643fdbb5a4d9dfb438a61f78fce5fcc924ee378ad686b9",
+      "bytes": 1180250,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "tide-pool.webp",
+      "name": "Tide Pool",
+      "tags": [
+        "tide pool",
+        "marine",
+        "starfish"
+      ],
+      "sha256": "53b4ce51fcde7463a9330a183b9e8525876c1d44a865d380a90050b84c83b4f6",
+      "bytes": 1148658,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "fossils.webp",
+      "name": "Fossils",
+      "tags": [
+        "fossils",
+        "ammonite",
+        "trilobite"
+      ],
+      "sha256": "32f085616e29c8cd6c028a1b5462ec111680e66f9ab7ea4a02fd52b55a27f1aa",
+      "bytes": 1062400,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "neurons.webp",
+      "name": "Neurons",
+      "tags": [
+        "neurons",
+        "brain",
+        "nerves"
+      ],
+      "sha256": "52fbff39b44f0bb546cfb0a336d56c5aef03779d8043147bc642fcc1cd2112bc",
+      "bytes": 965318,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "human-heart.webp",
+      "name": "Human Heart",
+      "tags": [
+        "heart",
+        "anatomy",
+        "medicine"
+      ],
+      "sha256": "f4c7c1884cc99c6ac9dc897aac06755a7d72098d57da68fe99746117aaa425eb",
+      "bytes": 836744,
+      "w": 1024,
+      "h": 1024
+    }
+  ]
+}

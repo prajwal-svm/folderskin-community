@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "id": "pop-art-weekdays-da7mt7",
+  "hash": "8810dfc73dca9af9",
+  "name": "Pop Art Weekdays",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "pop art",
+    "weekdays",
+    "comic",
+    "planner",
+    "bold"
+  ],
+  "skins": [
+    {
+      "file": "monday.webp",
+      "name": "Monday",
+      "tags": [
+        "monday",
+        "coffee",
+        "week start"
+      ],
+      "sha256": "99e64e2b99f1b210367f9f0c14fac85df3eb071934e6c925dc089d8c086218a8",
+      "bytes": 800012,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "tuesday.webp",
+      "name": "Tuesday",
+      "tags": [
+        "tuesday",
+        "lightning",
+        "energy"
+      ],
+      "sha256": "f19ed37902d32a318283f3d14153e816739313444e43695b291cea3b1c88729d",
+      "bytes": 1145228,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "wednesday.webp",
+      "name": "Wednesday",
+      "tags": [
+        "wednesday",
+        "camel",
+        "hump day"
+      ],
+      "sha256": "adc1c1a4b0a58c8a9f351fc2ef3e45cc5fb9ff8963743139d3a064e72f8365af",
+      "bytes": 569620,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "thursday.webp",
+      "name": "Thursday",
+      "tags": [
+        "thursday",
+        "storm",
+        "cloud"
+      ],
+      "sha256": "ca39a72d5a09ed3f0154febbd4b6fa2b8c39972aa23e875b3bc51c5ac5e393f7",
+      "bytes": 1049588,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "friday.webp",
+      "name": "Friday",
+      "tags": [
+        "friday",
+        "cocktail",
+        "weekend"
+      ],
+      "sha256": "61ae5e9ae0c2862a4d8cd7f6e907c6f5c6bebdfd2e31147ac597893a27aac242",
+      "bytes": 1130960,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "saturday.webp",
+      "name": "Saturday",
+      "tags": [
+        "saturday",
+        "disco",
+        "party"
+      ],
+      "sha256": "4abbf016e7685c646181f90e73190b29f111585aab1cf7bb74b6500416636dff",
+      "bytes": 1006944,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "sunday.webp",
+      "name": "Sunday",
+      "tags": [
+        "sunday",
+        "sun",
+        "rest"
+      ],
+      "sha256": "3037ad52495a8960452db394502cfb5d2ce4899c37a7e32771659d142127b772",
+      "bytes": 1085016,
+      "w": 1024,
+      "h": 1024
+    }
+  ]
+}

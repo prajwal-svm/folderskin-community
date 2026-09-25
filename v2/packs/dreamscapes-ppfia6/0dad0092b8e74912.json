@@ -1,0 +1,238 @@
+{
+  "version": 2,
+  "id": "dreamscapes-ppfia6",
+  "hash": "0dad0092b8e74912",
+  "name": "Dreamscapes",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "surreal",
+    "whimsical",
+    "dreamy",
+    "fantasy",
+    "art"
+  ],
+  "skins": [
+    {
+      "file": "sky-whale.webp",
+      "name": "Sky Whale",
+      "tags": [
+        "whale",
+        "clouds",
+        "sky"
+      ],
+      "sha256": "2144e04e5beac9c328ae60921a4a481bde13a556ec28e039467032f97595e0ec",
+      "bytes": 576724,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "teacup-lighthouse.webp",
+      "name": "Teacup Lighthouse",
+      "tags": [
+        "lighthouse",
+        "tea",
+        "storm"
+      ],
+      "sha256": "30193a01ec8731e11c96a0fd08bc6360e0cb3a3dcb8f4aeee6b65dc7a8ae8943",
+      "bytes": 1039036,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "treehouse-library.webp",
+      "name": "Treehouse Library",
+      "tags": [
+        "books",
+        "library",
+        "treehouse"
+      ],
+      "sha256": "fd1e3cb17fb29c54f23d1eda55d74203301f386bcb0329ee18863a9e2da980ea",
+      "bytes": 1135744,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "firefly-jar.webp",
+      "name": "Firefly Jar",
+      "tags": [
+        "fireflies",
+        "forest",
+        "night"
+      ],
+      "sha256": "edb1763549339b966697151c137d53bf1d2c56a39a824382c7276e8c71ef6527",
+      "bytes": 1130468,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "lightbulb-goldfish.webp",
+      "name": "Lightbulb Goldfish",
+      "tags": [
+        "goldfish",
+        "lightbulb",
+        "ideas"
+      ],
+      "sha256": "7af93c0e053a8feab5a0ab343eb460deb8a4f6cab6898a6a112c8c781dd1cbfb",
+      "bytes": 358258,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "galaxy-latte.webp",
+      "name": "Galaxy Latte",
+      "tags": [
+        "coffee",
+        "galaxy",
+        "swirl"
+      ],
+      "sha256": "e227873a42896a905cd6971cc165507b8c4833da27a66657fd7586e919528556",
+      "bytes": 878980,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "lemon-umbrella.webp",
+      "name": "Lemon Umbrella",
+      "tags": [
+        "rain",
+        "city",
+        "lemon"
+      ],
+      "sha256": "2d30b0b2dead3f65bde5eaa6187b702673d1345e22475c8d681bc77cd6658278",
+      "bytes": 587872,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "teapot-garden.webp",
+      "name": "Teapot Garden",
+      "tags": [
+        "tea",
+        "garden",
+        "bonsai"
+      ],
+      "sha256": "1731fba4cbb0fd83dd176b4b3a2a68ac51875b98300099cc895f5b1176185b67",
+      "bytes": 1087280,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "lantern-bear.webp",
+      "name": "Lantern Bear",
+      "tags": [
+        "bear",
+        "lantern",
+        "winter"
+      ],
+      "sha256": "3ef8884b2b4a734f4d7b404e13fbe188ae483d83baa69b1da00564b449f8e196",
+      "bytes": 698094,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "whale-lighthouse.webp",
+      "name": "Whale Lighthouse",
+      "tags": [
+        "whale",
+        "lighthouse",
+        "sea"
+      ],
+      "sha256": "3de95fa8e109d3384bb264a7686c61121d4675360878cf41cb35be0b0f444800",
+      "bytes": 1106618,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "neon-koi.webp",
+      "name": "Neon Koi",
+      "tags": [
+        "koi",
+        "fish",
+        "neon"
+      ],
+      "sha256": "2c0bf2013a01fffd32d31cff3ae4c8c78ff88852be9b7fd272c778ae308fb569",
+      "bytes": 935242,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "book-city.webp",
+      "name": "Book City",
+      "tags": [
+        "books",
+        "city",
+        "reading"
+      ],
+      "sha256": "201948f26616d8bb302ca58690014fbee08de3e3cef67fe327a5559aea08bbb3",
+      "bytes": 997254,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "bottled-mountain.webp",
+      "name": "Bottled Mountain",
+      "tags": [
+        "mountain",
+        "bottle",
+        "nature"
+      ],
+      "sha256": "616cc9ea467d50fe352e349de25653e74563185092b06c1a6f400f7088ccb250",
+      "bytes": 318838,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "ocean-in-a-bottle.webp",
+      "name": "Ocean in a Bottle",
+      "tags": [
+        "ocean",
+        "bottle",
+        "waves"
+      ],
+      "sha256": "f4eccb6474f2f362ff8f1ad83a417a57b186bc5fce91dda941f7aa2d15864420",
+      "bytes": 353832,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "origami-cranes.webp",
+      "name": "Origami Cranes",
+      "tags": [
+        "origami",
+        "paper",
+        "birds"
+      ],
+      "sha256": "a5aebde5849cf05eb792a2e5502ae4e3569d37258ce36237f4e76f9bd928eb4d",
+      "bytes": 896938,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "leaf-fox.webp",
+      "name": "Leaf Fox",
+      "tags": [
+        "fox",
+        "autumn",
+        "leaves"
+      ],
+      "sha256": "5c2b000b449ca0b66bf5e3aec36b0596b4105d30c8f54a12ba23144b9bb2a131",
+      "bytes": 673232,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "paper-boat.webp",
+      "name": "Paper Boat",
+      "tags": [
+        "paper",
+        "boat",
+        "reflection"
+      ],
+      "sha256": "89615a5c995fded439c90da7b3abb967a8a5c2e63e97083221cb9f7e2c16d52c",
+      "bytes": 859672,
+      "w": 1024,
+      "h": 1024
+    }
+  ]
+}

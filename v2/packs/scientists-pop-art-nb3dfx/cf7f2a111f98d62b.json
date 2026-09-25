@@ -1,0 +1,563 @@
+{
+  "version": 2,
+  "id": "scientists-pop-art-nb3dfx",
+  "hash": "cf7f2a111f98d62b",
+  "name": "Scientists - Pop Art",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "pop art",
+    "scientists",
+    "science",
+    "portraits",
+    "comic"
+  ],
+  "skins": [
+    {
+      "file": "archimedes.webp",
+      "name": "Archimedes",
+      "tags": [
+        "mathematics",
+        "ancient greece",
+        "eureka"
+      ],
+      "sha256": "44cdeaa54a08527b4e891702965d798af65f90a86f9bf859511886c0f4e631f9",
+      "bytes": 1318432,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "nicolaus-copernicus.webp",
+      "name": "Nicolaus Copernicus",
+      "tags": [
+        "astronomy",
+        "heliocentrism",
+        "renaissance"
+      ],
+      "sha256": "a6b994fa575f47416a9a5080b9ba4cf315a00b4e8966a3c2acfcffb2e3da23b8",
+      "bytes": 1299342,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "galileo-galilei.webp",
+      "name": "Galileo Galilei",
+      "tags": [
+        "astronomy",
+        "telescope",
+        "physics"
+      ],
+      "sha256": "1847664d1fe974c08e51fd180f1f33afcfe25cfd9e5b27f9b4f5379ced8f2451",
+      "bytes": 1283982,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "johannes-kepler.webp",
+      "name": "Johannes Kepler",
+      "tags": [
+        "astronomy",
+        "planetary orbits",
+        "mathematics"
+      ],
+      "sha256": "73063557324b99be43c544ec8c70fde9952a48a8b7a53c65f429fd8c40456102",
+      "bytes": 1323992,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "isaac-newton.webp",
+      "name": "Isaac Newton",
+      "tags": [
+        "physics",
+        "gravity",
+        "mathematics"
+      ],
+      "sha256": "3e33adbbb4a99986f9f59d9ba8428c088137b20bda3d8ba2255c5b27b4d9ae15",
+      "bytes": 1174618,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "michael-faraday.webp",
+      "name": "Michael Faraday",
+      "tags": [
+        "electricity",
+        "magnetism",
+        "chemistry"
+      ],
+      "sha256": "557f2454e4174cf764aa37b1aa90139e3248081a19009efe264f5ddf0a88b669",
+      "bytes": 1213584,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "charles-darwin.webp",
+      "name": "Charles Darwin",
+      "tags": [
+        "evolution",
+        "biology",
+        "natural selection"
+      ],
+      "sha256": "0ae09f1a47e168fac8f90e8f7a136c637e4b79ea85b73baee1408fc7f0ac874f",
+      "bytes": 1216762,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "ada-lovelace.webp",
+      "name": "Ada Lovelace",
+      "tags": [
+        "programming",
+        "mathematics",
+        "computing"
+      ],
+      "sha256": "e736ec7ec42f9e7f9a9a05448996fe29412ec7aaa62bf2d768918f502a9ba0d2",
+      "bytes": 1330324,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "gregor-mendel.webp",
+      "name": "Gregor Mendel",
+      "tags": [
+        "genetics",
+        "biology",
+        "peas"
+      ],
+      "sha256": "1830b24a31d16593a60c8b71dfcb8716cef93b2812a84ae7c1a02c0e645dba5d",
+      "bytes": 1253070,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "louis-pasteur.webp",
+      "name": "Louis Pasteur",
+      "tags": [
+        "microbiology",
+        "vaccines",
+        "medicine"
+      ],
+      "sha256": "67b3c368d004de4e03b064f1fd855a6e831b95351753dc2ffcfacad9699c3a2e",
+      "bytes": 1205280,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "james-clerk-maxwell.webp",
+      "name": "James Clerk Maxwell",
+      "tags": [
+        "electromagnetism",
+        "physics",
+        "equations"
+      ],
+      "sha256": "3427ebb11742c9b47f4c8b908dd16d12787790f5e256475f4e8b70d40bf31096",
+      "bytes": 1328480,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "dmitri-mendeleev.webp",
+      "name": "Dmitri Mendeleev",
+      "tags": [
+        "periodic table",
+        "chemistry",
+        "elements"
+      ],
+      "sha256": "cd0b85ba1e95dad4c4ea2cd4ec3948c509af4f8f9a5b3e38e92933954cc7eab9",
+      "bytes": 1289462,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "thomas-edison.webp",
+      "name": "Thomas Edison",
+      "tags": [
+        "inventor",
+        "lightbulb",
+        "electricity"
+      ],
+      "sha256": "8ef836764ff56dd27f87f487476ec38a4c66943be7e6d31b08f55139d8974f14",
+      "bytes": 1269970,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "nikola-tesla.webp",
+      "name": "Nikola Tesla",
+      "tags": [
+        "electricity",
+        "inventor",
+        "alternating current"
+      ],
+      "sha256": "5144319bc4a45a2d8534bc1d137b5089797efb9f63caae805b11a57373589df6",
+      "bytes": 1201060,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "max-planck.webp",
+      "name": "Max Planck",
+      "tags": [
+        "quantum",
+        "physics",
+        "constants"
+      ],
+      "sha256": "1b5d4c94e79ef65c899f3c6c0e92d2a49cb44a95d5ac1f04816c3771716a803c",
+      "bytes": 1261374,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "marie-curie.webp",
+      "name": "Marie Curie",
+      "tags": [
+        "radioactivity",
+        "chemistry",
+        "physics"
+      ],
+      "sha256": "3bc7e9ad99ba41dbf576d434f23d70487aeb617253b623aebffa6a9f033cd711",
+      "bytes": 1274314,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "lise-meitner.webp",
+      "name": "Lise Meitner",
+      "tags": [
+        "nuclear fission",
+        "physics",
+        "radioactivity"
+      ],
+      "sha256": "8fa2910678b5c1ef1798276e16ba957275fa1a5797904b386e589037696954cf",
+      "bytes": 1191372,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "alexander-fleming.webp",
+      "name": "Alexander Fleming",
+      "tags": [
+        "penicillin",
+        "medicine",
+        "antibiotics"
+      ],
+      "sha256": "179d970b5ab55bb36f25b2f8de8c823202bede950fe158fc7c2f02e092926e78",
+      "bytes": 1211814,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "emmy-noether.webp",
+      "name": "Emmy Noether",
+      "tags": [
+        "mathematics",
+        "algebra",
+        "symmetry"
+      ],
+      "sha256": "b9edb8f3e5fa9ae514b26637dcc0e30190cdcc39511e9a23dd10445cd8dcec86",
+      "bytes": 1379458,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "niels-bohr.webp",
+      "name": "Niels Bohr",
+      "tags": [
+        "atoms",
+        "quantum",
+        "physics"
+      ],
+      "sha256": "421110e3eeb31e069dd49f07a3dcd1ceadfa12d1f3abb99bc1e589530ec03242",
+      "bytes": 1323854,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "erwin-schrodinger.webp",
+      "name": "Erwin Schrödinger",
+      "tags": [
+        "quantum",
+        "physics",
+        "wave equation"
+      ],
+      "sha256": "dd3bce0bd872224a07d15daf7ce8c6def6c4e362ca4f1aa3672f6891b6b98b0a",
+      "bytes": 1346448,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "srinivasa-ramanujan.webp",
+      "name": "Srinivasa Ramanujan",
+      "tags": [
+        "mathematics",
+        "numbers",
+        "india"
+      ],
+      "sha256": "03a83bb7bf614a07de4bca95eb424a650480efa7690c282b4548068002a6175d",
+      "bytes": 1230008,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "edwin-hubble.webp",
+      "name": "Edwin Hubble",
+      "tags": [
+        "astronomy",
+        "galaxies",
+        "expanding universe"
+      ],
+      "sha256": "b6e3123ad45e2ce4faa842ae3385012558d7eadf4d015d5bf887f158bea68618",
+      "bytes": 1293454,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "georges-lemaitre.webp",
+      "name": "Georges Lemaître",
+      "tags": [
+        "big bang",
+        "cosmology",
+        "physics"
+      ],
+      "sha256": "9781f4ab3d8d75724b65dbdf2dd6a7cc5c19d38a8490e0b22aa6788a1f548ff5",
+      "bytes": 1198682,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "wolfgang-pauli.webp",
+      "name": "Wolfgang Pauli",
+      "tags": [
+        "quantum",
+        "physics",
+        "exclusion principle"
+      ],
+      "sha256": "250be7c97d56babc92c6d137ed4c5439459912506d8fcd781dfb55064785ec5c",
+      "bytes": 1220758,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "linus-pauling.webp",
+      "name": "Linus Pauling",
+      "tags": [
+        "chemistry",
+        "chemical bonds",
+        "nobel prize"
+      ],
+      "sha256": "a2ecd1a40d8b41ae282914d00489281f758eb776f704af2de8bf1a426db3bb19",
+      "bytes": 1335048,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "enrico-fermi.webp",
+      "name": "Enrico Fermi",
+      "tags": [
+        "nuclear",
+        "physics",
+        "reactor"
+      ],
+      "sha256": "46484c010f9b83208f589653644281026c69788e735f78d50233d06a2bd8efc8",
+      "bytes": 1323144,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "werner-heisenberg.webp",
+      "name": "Werner Heisenberg",
+      "tags": [
+        "quantum",
+        "uncertainty",
+        "physics"
+      ],
+      "sha256": "03bcc3a3ec79598694369cbdcf2df10384b01a4549cdaccfff1765b691ef3079",
+      "bytes": 1284902,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "barbara-mcclintock.webp",
+      "name": "Barbara McClintock",
+      "tags": [
+        "genetics",
+        "maize",
+        "biology"
+      ],
+      "sha256": "da60e5adff962718d0afff5001146f25d20a6235a0baeed1f6944d60ef82b253",
+      "bytes": 1199518,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "paul-dirac.webp",
+      "name": "Paul Dirac",
+      "tags": [
+        "quantum",
+        "antimatter",
+        "physics"
+      ],
+      "sha256": "c58d8e43b54e4db3185d2c11f414e0691342c7ef8195778255655f979637d799",
+      "bytes": 1249326,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "robert-oppenheimer.webp",
+      "name": "Robert Oppenheimer",
+      "tags": [
+        "nuclear",
+        "physics",
+        "manhattan project"
+      ],
+      "sha256": "e790bac41b5313ccb8daf79a70763c5985aed5cf60ac28ac1258d674a2e1c61c",
+      "bytes": 1285708,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "grace-hopper.webp",
+      "name": "Grace Hopper",
+      "tags": [
+        "programming",
+        "computing",
+        "compilers"
+      ],
+      "sha256": "ed5fabb62833e7cf5f238ae5729cc72dbe7ddcc1c47dba89c43e1504180edeb8",
+      "bytes": 1197316,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "chien-shiung-wu.webp",
+      "name": "Chien-Shiung Wu",
+      "tags": [
+        "physics",
+        "nuclear",
+        "experiments"
+      ],
+      "sha256": "95ba75459d339495c6579db3c30a9d7120833ea7f187df42b4cfab90244ab8fc",
+      "bytes": 1212056,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "alan-turing.webp",
+      "name": "Alan Turing",
+      "tags": [
+        "computing",
+        "codebreaking",
+        "ai"
+      ],
+      "sha256": "61712aaa50257a23907102e5c0f2daffb4ca50436ea656b1148815fb7574a17e",
+      "bytes": 1317824,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "richard-feynman.webp",
+      "name": "Richard Feynman",
+      "tags": [
+        "quantum",
+        "physics",
+        "diagrams"
+      ],
+      "sha256": "3eaa6aae18326ac8c867e6fbc60b758e1ecda1928aa17e68c2ae80f836f6bc86",
+      "bytes": 1275854,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "katherine-johnson.webp",
+      "name": "Katherine Johnson",
+      "tags": [
+        "mathematics",
+        "nasa",
+        "spaceflight"
+      ],
+      "sha256": "c2c322f0ed9a4e814747c49241ad5e69085f1f2f851aaa39cd2852efb5ebd9f7",
+      "bytes": 1311574,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "rosalind-franklin.webp",
+      "name": "Rosalind Franklin",
+      "tags": [
+        "dna",
+        "x-ray",
+        "chemistry"
+      ],
+      "sha256": "3cee289026b3fca5aef61763d4b4f223bee1d9e195d3fb649053e040ab22010c",
+      "bytes": 1251148,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "vera-rubin.webp",
+      "name": "Vera Rubin",
+      "tags": [
+        "astronomy",
+        "dark matter",
+        "galaxies"
+      ],
+      "sha256": "e1a199ede63e4207edff28c0b02879b1730bfc99f84d4710013c85425fde4a36",
+      "bytes": 1297778,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "vera-rubin-2.webp",
+      "name": "Vera Rubin 2",
+      "tags": [
+        "astronomy",
+        "dark matter",
+        "galaxies"
+      ],
+      "sha256": "b7ae8c32abdcd6cdcefa57edd642957dafdb3ca62eb5e7ac6e648e54a185f2a1",
+      "bytes": 1210344,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "jane-goodall.webp",
+      "name": "Jane Goodall",
+      "tags": [
+        "primatology",
+        "chimpanzees",
+        "conservation"
+      ],
+      "sha256": "c20672245f35e9857d5cae741020d54927c7210f065ee1d2ca8f4fd3b1c6ee50",
+      "bytes": 1280726,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "carl-sagan.webp",
+      "name": "Carl Sagan",
+      "tags": [
+        "astronomy",
+        "cosmos",
+        "science communication"
+      ],
+      "sha256": "220c67852e4632e0f79eb20f90740b6064faa0434820252d8432c6a1ed3a67f4",
+      "bytes": 1272614,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "stephen-hawking.webp",
+      "name": "Stephen Hawking",
+      "tags": [
+        "black holes",
+        "cosmology",
+        "physics"
+      ],
+      "sha256": "4df15b1011f1c6d5f59fc773e1ff954cc9fbe17648ce3dfd3fa4c81a10042e84",
+      "bytes": 1317152,
+      "w": 1024,
+      "h": 1024
+    }
+  ]
+}

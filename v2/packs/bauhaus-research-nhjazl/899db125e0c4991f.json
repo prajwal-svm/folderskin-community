@@ -1,0 +1,184 @@
+{
+  "version": 2,
+  "id": "bauhaus-research-nhjazl",
+  "hash": "899db125e0c4991f",
+  "name": "Bauhaus Research",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "research",
+    "science",
+    "academia",
+    "bauhaus",
+    "geometric"
+  ],
+  "skins": [
+    {
+      "file": "hypothesis.webp",
+      "name": "Hypothesis",
+      "tags": [
+        "hypothesis",
+        "ideas",
+        "questions"
+      ],
+      "sha256": "fc410c488bbd47bab8c1d36bff7ee7fcb5ff326028a24c42f81cffa5bf315f18",
+      "bytes": 183196,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "experiment.webp",
+      "name": "Experiment",
+      "tags": [
+        "experiment",
+        "beakers",
+        "lab"
+      ],
+      "sha256": "21b3881cdc8fe8a21d81a1bacc5b8839169f0b5326a3b568fa568564732e6561",
+      "bytes": 228956,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "microscope.webp",
+      "name": "Microscope",
+      "tags": [
+        "microscope",
+        "lab"
+      ],
+      "sha256": "bfad4efbf9180aee97e5d4b01229858c553324889ad96dc83327ad0771cd773a",
+      "bytes": 129398,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "lab-notebook.webp",
+      "name": "Lab Notebook",
+      "tags": [
+        "notebook",
+        "data",
+        "notes"
+      ],
+      "sha256": "92c5112a5286911d5074000c2662a976c0d0c80573899b6ae8da3bf59954e0ae",
+      "bytes": 334322,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "data-analysis.webp",
+      "name": "Data Analysis",
+      "tags": [
+        "data",
+        "charts",
+        "analysis"
+      ],
+      "sha256": "bd250d24b8243bdcea4ea209c6aa685b9b69340619ce6ade6f488f40fc4857b3",
+      "bytes": 190566,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "survey.webp",
+      "name": "Survey",
+      "tags": [
+        "survey",
+        "checklist",
+        "questions"
+      ],
+      "sha256": "936a8f74d9698b972b55d4cf84e4ceef779ac932abdc26b6ace0e7dc2e0aea8b",
+      "bytes": 180252,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "interviews.webp",
+      "name": "Interviews",
+      "tags": [
+        "interviews",
+        "recorder",
+        "fieldwork"
+      ],
+      "sha256": "ab713095974a6644fc8ba6a157d222c4688b098bfbfdddd465ee83628d258806",
+      "bytes": 248850,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "citations.webp",
+      "name": "Citations",
+      "tags": [
+        "citations",
+        "references",
+        "network"
+      ],
+      "sha256": "e8f6b8ec56d3d0409772cfb521c5239c9eeaea577b897fc59d4bf26cc49046b8",
+      "bytes": 822630,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "peer-review.webp",
+      "name": "Peer Review",
+      "tags": [
+        "review",
+        "papers",
+        "critique"
+      ],
+      "sha256": "8e3c9dc3d2bf6e2989407048d7e86cd66c1ff7223a757645a93d37eba34c02dd",
+      "bytes": 288972,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "reproducibility.webp",
+      "name": "Reproducibility",
+      "tags": [
+        "reproducibility",
+        "experiments"
+      ],
+      "sha256": "0f03789bdbb431e86149dcf5025645b31259b3a9a16926560e1452a58e34a62c",
+      "bytes": 268054,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "ethics.webp",
+      "name": "Ethics",
+      "tags": [
+        "ethics",
+        "care",
+        "integrity"
+      ],
+      "sha256": "63945e67469fe1a9d2c6385089fac08d1ce7ac3f0a2f593ba2e4aaf4ac15de9f",
+      "bytes": 189582,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "eureka.webp",
+      "name": "Eureka",
+      "tags": [
+        "eureka",
+        "discovery",
+        "idea"
+      ],
+      "sha256": "0ef9cdeaf03ea6c2fa35a1cdb8232944ea1ac6991c6778f6be634f873867a97e",
+      "bytes": 346302,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "field-station.webp",
+      "name": "Field Station",
+      "tags": [
+        "antarctica",
+        "fieldwork",
+        "station"
+      ],
+      "sha256": "3fdaa0a22f012afdb3ee4ab06243e5b4a7b14a8d3eec40aa7625786fe7f5b446",
+      "bytes": 333984,
+      "w": 1024,
+      "h": 1024
+    }
+  ]
+}

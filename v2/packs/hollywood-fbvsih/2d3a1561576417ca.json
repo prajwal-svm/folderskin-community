@@ -1,0 +1,147 @@
+{
+  "version": 2,
+  "id": "hollywood-fbvsih",
+  "hash": "2d3a1561576417ca",
+  "name": "Hollywood",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "hollywood",
+    "movies",
+    "film",
+    "vintage",
+    "celebrities"
+  ],
+  "skins": [
+    {
+      "file": "hollywood-sign.webp",
+      "name": "Hollywood Sign",
+      "tags": [
+        "los angeles",
+        "sign",
+        "landmark"
+      ],
+      "sha256": "2be4ec560466ad0bc84638f2238dc641b8e18d5f0e9e5550258ee87dbf0e33bc",
+      "bytes": 711704,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "oscars.webp",
+      "name": "Oscars",
+      "tags": [
+        "awards",
+        "oscar",
+        "ceremony"
+      ],
+      "sha256": "68ca05b815e6409bd1ab429b11345de2055c208b569920ef9dbfd3680914df45",
+      "bytes": 467702,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "marilyn.webp",
+      "name": "Marilyn",
+      "tags": [
+        "marilyn monroe",
+        "icon",
+        "1950s"
+      ],
+      "sha256": "ad04cdfeee5fabad0ea61377101b21dcac611cddbad7ea4c89fb45fd59be73dd",
+      "bytes": 714656,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "audrey.webp",
+      "name": "Audrey",
+      "tags": [
+        "audrey hepburn",
+        "breakfast at tiffanys",
+        "icon"
+      ],
+      "sha256": "b2d69539792f435c853b49ed30cf7c2df62b0d3e34ac04ac4ab470976f08152f",
+      "bytes": 612114,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "chaplin.webp",
+      "name": "Chaplin",
+      "tags": [
+        "charlie chaplin",
+        "silent film",
+        "comedy"
+      ],
+      "sha256": "40b765d063c63041322a955ec7fed00b2a084ba67035dbac14133bc98bff658d",
+      "bytes": 747356,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "casablanca.webp",
+      "name": "Casablanca",
+      "tags": [
+        "casablanca",
+        "classic film",
+        "romance"
+      ],
+      "sha256": "3464023f765497895e68ae5aa1ca24f69e3635fb6bccec801a3d606bc913be05",
+      "bytes": 432268,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "rebel.webp",
+      "name": "Rebel",
+      "tags": [
+        "james dean",
+        "rebel",
+        "cars"
+      ],
+      "sha256": "2148e9c4f58ead056dde6c6a89741bba837f97af93ea6656477c46637185551b",
+      "bytes": 710166,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "chinese-theatre.webp",
+      "name": "Chinese Theatre",
+      "tags": [
+        "graumans",
+        "theatre",
+        "premiere"
+      ],
+      "sha256": "793a92a08939a7df6554b2cc0515879ec4c5eaf9626e9214a873c190f15e2b31",
+      "bytes": 802502,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "oz.webp",
+      "name": "Oz",
+      "tags": [
+        "wizard of oz",
+        "yellow brick road",
+        "fantasy"
+      ],
+      "sha256": "f67f5641c376f90816050d787569391f75df61bbb6633954317b8a637501bd82",
+      "bytes": 840100,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "king-kong.webp",
+      "name": "King Kong",
+      "tags": [
+        "king kong",
+        "empire state",
+        "monster"
+      ],
+      "sha256": "736eed7b7583ddca4fe0e2101888d9879e26deb4282a6995dce8540bb21e32fe",
+      "bytes": 791028,
+      "w": 1024,
+      "h": 1024
+    }
+  ]
+}

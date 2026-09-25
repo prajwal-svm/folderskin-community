@@ -1,0 +1,249 @@
+{
+  "version": 2,
+  "id": "engineering-blueprints-qbrhpk",
+  "hash": "4c4a7f6e3c806916",
+  "name": "Engineering Blueprints",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "engineering",
+    "mechanical",
+    "blueprint",
+    "machines",
+    "drafting"
+  ],
+  "skins": [
+    {
+      "file": "gears.webp",
+      "name": "Gears",
+      "tags": [
+        "gears",
+        "mechanism"
+      ],
+      "sha256": "45ea5eb8f34a323d793203d53bece86153a869016e877f33583cc50e983eb007",
+      "bytes": 820532,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "engine.webp",
+      "name": "Engine",
+      "tags": [
+        "engine",
+        "motor",
+        "cylinders"
+      ],
+      "sha256": "f5d524d0fffae659da929517fca77d73de4a80ba415d4fa638e700c88ef6bc0b",
+      "bytes": 924330,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "pistons.webp",
+      "name": "Pistons",
+      "tags": [
+        "pistons",
+        "engine",
+        "cylinders"
+      ],
+      "sha256": "0a9e3873536df19f97217961bdc91fb3f18a9ea44aff0e4c4ddf679a30d77ec4",
+      "bytes": 802922,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "crankshaft.webp",
+      "name": "Crankshaft",
+      "tags": [
+        "crankshaft",
+        "engine",
+        "parts"
+      ],
+      "sha256": "4113b748ce13c4e63d2a93b5e614dcb4f0bb864fd5d4d8d029f69adba604aa7e",
+      "bytes": 408478,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "gearbox.webp",
+      "name": "Gearbox",
+      "tags": [
+        "gearbox",
+        "transmission",
+        "gears"
+      ],
+      "sha256": "87948bba80f16b0b3f260938b3ed0d4f69a6c5095b4922d06e1556c19d99db17",
+      "bytes": 675812,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "turbine.webp",
+      "name": "Turbine",
+      "tags": [
+        "turbine",
+        "power",
+        "blades"
+      ],
+      "sha256": "4ea5301d5a3580bc0838c57cb4e5cff7d063787c8d44f89fea548bcb097dd13e",
+      "bytes": 607852,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "jet-engine.webp",
+      "name": "Jet Engine",
+      "tags": [
+        "jet",
+        "aviation",
+        "turbine"
+      ],
+      "sha256": "8b1c03057c8c8150b29ddb7bc651d801dd74390c96728c2f1a6a945b9229b013",
+      "bytes": 598836,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "wind-turbine.webp",
+      "name": "Wind Turbine",
+      "tags": [
+        "wind",
+        "renewable",
+        "energy"
+      ],
+      "sha256": "732112aa3286426fe446e8dba0581ba6f9aadcd773e288d22451a0fd91a0ae88",
+      "bytes": 386486,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "ball-bearings.webp",
+      "name": "Ball Bearings",
+      "tags": [
+        "bearings",
+        "rotation",
+        "parts"
+      ],
+      "sha256": "eb0c64d3eeb4dad15d6f0960faea8babad0193e03191005806c469bccd096d1f",
+      "bytes": 545918,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "springs.webp",
+      "name": "Springs",
+      "tags": [
+        "springs",
+        "parts",
+        "mechanics"
+      ],
+      "sha256": "16dd3300ba8a94364f8d66d25fe4985d26f5c066e66e43c4d4bfd5e3edc47b89",
+      "bytes": 767274,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "pulleys.webp",
+      "name": "Pulleys",
+      "tags": [
+        "pulleys",
+        "belts",
+        "mechanics"
+      ],
+      "sha256": "fd9e4b673523b6bb2206362b246077beb9acc8609c6adeab66be610a07ab5a37",
+      "bytes": 559914,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "clockwork.webp",
+      "name": "Clockwork",
+      "tags": [
+        "clockwork",
+        "gears",
+        "time"
+      ],
+      "sha256": "980947415b1b804d37177f02e991572b4ad0547b6d0f97bfb5fbc2f42a17694f",
+      "bytes": 1073900,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "robot-arm.webp",
+      "name": "Robot Arm",
+      "tags": [
+        "robotics",
+        "automation",
+        "arm"
+      ],
+      "sha256": "e1791be00f828b58da1b7f72ab86b20cbfdae11c6b3e88d24b1ccf5bb43e1c35",
+      "bytes": 520798,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "3d-printer.webp",
+      "name": "3D Printer",
+      "tags": [
+        "3d printing",
+        "maker",
+        "prototype"
+      ],
+      "sha256": "c6b2a1a065c5445a8f1d80db385b68fac06d07e47192fc71f2056fcb5e8b4139",
+      "bytes": 474008,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "lathe.webp",
+      "name": "Lathe",
+      "tags": [
+        "lathe",
+        "machining",
+        "workshop"
+      ],
+      "sha256": "1c24d6462eb599b341e1f39ca1b3fe72faf4fcc5089960f07108bd2211ec519c",
+      "bytes": 442454,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "welding.webp",
+      "name": "Welding",
+      "tags": [
+        "welding",
+        "sparks",
+        "metal"
+      ],
+      "sha256": "8ca786c2626d040d84a450556a203964c04bc2d1c5e1f1e65d7ff397ce486ff2",
+      "bytes": 448844,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "drafting-table.webp",
+      "name": "Drafting Table",
+      "tags": [
+        "cad",
+        "design"
+      ],
+      "sha256": "4e9c6180a3002c78620400ac6d1c03d400a7a301089d9bc76b251e38151d3ef7",
+      "bytes": 324106,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "truss-bridge.webp",
+      "name": "Truss Bridge",
+      "tags": [
+        "bridge",
+        "structures",
+        "civil"
+      ],
+      "sha256": "f86473faa6d18adc358fddad6b70dcd03ad2155d3ccda72f464420e9382ed780",
+      "bytes": 665882,
+      "w": 1024,
+      "h": 1024
+    }
+  ]
+}

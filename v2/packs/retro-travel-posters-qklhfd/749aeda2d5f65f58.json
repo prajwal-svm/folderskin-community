@@ -1,0 +1,147 @@
+{
+  "version": 2,
+  "id": "retro-travel-posters-qklhfd",
+  "hash": "749aeda2d5f65f58",
+  "name": "Retro Travel Posters",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "travel",
+    "posters",
+    "vintage",
+    "cities",
+    "retro"
+  ],
+  "skins": [
+    {
+      "file": "lisboa.webp",
+      "name": "Lisboa",
+      "tags": [
+        "lisbon",
+        "portugal",
+        "tram"
+      ],
+      "sha256": "b300595c5f03b4ca1295bfd78cc43e4a573e69eb67ffa11087e51746717f8045",
+      "bytes": 1030738,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "kyoto.webp",
+      "name": "Kyoto",
+      "tags": [
+        "kyoto",
+        "japan",
+        "temple"
+      ],
+      "sha256": "3a146efa4aa17efa23707b630b343cbd474f6b4dab000ba899f1828617bd3ffa",
+      "bytes": 1121752,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "marrakech.webp",
+      "name": "Marrakech",
+      "tags": [
+        "marrakech",
+        "morocco",
+        "market"
+      ],
+      "sha256": "1d96fd3a3b2fe5f57ab9a937e345c14c4d98692a579d40801db10faf6de43c5f",
+      "bytes": 1011874,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "havana.webp",
+      "name": "Havana",
+      "tags": [
+        "havana",
+        "cuba",
+        "classic cars"
+      ],
+      "sha256": "e82a88f12e366b4d7082765e3a54c28e957760a0b6bde9e652a2e615f3eb44ed",
+      "bytes": 884036,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "iceland.webp",
+      "name": "Iceland",
+      "tags": [
+        "iceland",
+        "nordic",
+        "landscape"
+      ],
+      "sha256": "5924686091752f2c2fb3689fead021b20b76cfbd46134885c1e56496bda2b8a4",
+      "bytes": 431838,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "amalfi.webp",
+      "name": "Amalfi",
+      "tags": [
+        "amalfi",
+        "italy",
+        "coast"
+      ],
+      "sha256": "49cb070364af7e5ad559bb6e9acb4c4d878b3705403227ba9d0ea2d931f8d5c1",
+      "bytes": 888380,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "kerala.webp",
+      "name": "Kerala",
+      "tags": [
+        "kerala",
+        "india",
+        "backwaters"
+      ],
+      "sha256": "da3f83b8655048551b4f7186cc52733ac200cf38a55c60e96d1a18c5f60c8150",
+      "bytes": 890694,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "zermatt.webp",
+      "name": "Zermatt",
+      "tags": [
+        "zermatt",
+        "switzerland",
+        "matterhorn"
+      ],
+      "sha256": "61ef8761d643d38403ba9030fbccd8ace653fe662c04545e69184bb8e1918d50",
+      "bytes": 917932,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "new-york.webp",
+      "name": "New York",
+      "tags": [
+        "new york",
+        "usa",
+        "skyline"
+      ],
+      "sha256": "5f6b8d0bb5c7df397a13c8aed92dd79d9da79d391354139668b53fb0fb8d3e91",
+      "bytes": 691156,
+      "w": 1024,
+      "h": 1024
+    },
+    {
+      "file": "rio.webp",
+      "name": "Rio",
+      "tags": [
+        "rio de janeiro",
+        "brazil",
+        "beach"
+      ],
+      "sha256": "3a403e9e7f32641bd193c38896adc00669987f9bf75106ce60466eaf613de3be",
+      "bytes": 722736,
+      "w": 1024,
+      "h": 1024
+    }
+  ]
+}
