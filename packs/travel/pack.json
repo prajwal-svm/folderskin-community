@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "name": "Travel",
+  "author": "kbhavake29",
+  "license": "MIT",
+  "tags": [
+    "tourism",
+    "travel",
+    "places"
+  ],
+  "skins": [
+    {
+      "file": "genrate-different-countries.png",
+      "name": "Genrate different countries"
+    }
+  ]
+}
