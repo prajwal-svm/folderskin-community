@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "name": "Physics Posters",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "physics",
+    "science",
+    "posters",
+    "mid-century",
+    "school"
+  ],
+  "skins": [
+    {
+      "file": "gravity.webp",
+      "name": "Gravity",
+      "tags": [
+        "gravity",
+        "newton",
+        "apple"
+      ]
+    },
+    {
+      "file": "thermodynamics.webp",
+      "name": "Thermodynamics",
+      "tags": [
+        "heat",
+        "engine",
+        "energy"
+      ]
+    },
+    {
+      "file": "entropy.webp",
+      "name": "Entropy",
+      "tags": [
+        "entropy",
+        "ice",
+        "heat"
+      ]
+    },
+    {
+      "file": "electromagnetism.webp",
+      "name": "Electromagnetism",
+      "tags": [
+        "magnet",
+        "fields",
+        "electricity"
+      ]
+    },
+    {
+      "file": "optics.webp",
+      "name": "Optics",
+      "tags": [
+        "optics",
+        "prism",
+        "light"
+      ]
+    },
+    {
+      "file": "rainbow.webp",
+      "name": "Rainbow",
+      "tags": [
+        "light",
+        "rainbow",
+        "spectrum"
+      ]
+    },
+    {
+      "file": "lasers.webp",
+      "name": "Lasers",
+      "tags": [
+        "lasers",
+        "light",
+        "mirrors"
+      ]
+    },
+    {
+      "file": "waves.webp",
+      "name": "Waves",
+      "tags": [
+        "waves",
+        "ripples",
+        "frequency"
+      ]
+    },
+    {
+      "file": "sound.webp",
+      "name": "Sound",
+      "tags": [
+        "sound",
+        "tuning fork",
+        "waves"
+      ]
+    },
+    {
+      "file": "fluid-dynamics.webp",
+      "name": "Fluid Dynamics",
+      "tags": [
+        "fluids",
+        "flow",
+        "vortex"
+      ]
+    },
+    {
+      "file": "buoyancy.webp",
+      "name": "Buoyancy",
+      "tags": [
+        "buoyancy",
+        "ship",
+        "water"
+      ]
+    },
+    {
+      "file": "quantum.webp",
+      "name": "Quantum",
+      "tags": [
+        "quantum",
+        "atoms",
+        "particles"
+      ]
+    },
+    {
+      "file": "nuclear.webp",
+      "name": "Nuclear",
+      "tags": [
+        "nuclear",
+        "fission",
+        "energy"
+      ]
+    },
+    {
+      "file": "particle-tracks.webp",
+      "name": "Particle Tracks",
+      "tags": [
+        "particles",
+        "collider",
+        "tracks"
+      ]
+    },
+    {
+      "file": "crystals.webp",
+      "name": "Crystals",
+      "tags": [
+        "crystals",
+        "lattice",
+        "solids"
+      ]
+    },
+    {
+      "file": "relativity.webp",
+      "name": "Relativity",
+      "tags": [
+        "relativity",
+        "spacetime",
+        "einstein"
+      ]
+    },
+    {
+      "file": "black-hole.webp",
+      "name": "Black Hole",
+      "tags": [
+        "black hole",
+        "space",
+        "gravity"
+      ]
+    }
+  ]
+}

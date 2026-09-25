@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "name": "Biology Field Journal",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "biology",
+    "nature",
+    "science",
+    "watercolour",
+    "life"
+  ],
+  "skins": [
+    {
+      "file": "tree-of-life.webp",
+      "name": "Tree of Life",
+      "tags": [
+        "evolution",
+        "tree",
+        "species"
+      ]
+    },
+    {
+      "file": "animal-cell.webp",
+      "name": "Animal Cell",
+      "tags": [
+        "animal cell",
+        "cells",
+        "nucleus"
+      ]
+    },
+    {
+      "file": "plant-cell.webp",
+      "name": "Plant Cell",
+      "tags": [
+        "plant cell",
+        "cells",
+        "botany"
+      ]
+    },
+    {
+      "file": "mitochondria.webp",
+      "name": "Mitochondria",
+      "tags": [
+        "mitochondria",
+        "cells",
+        "energy"
+      ]
+    },
+    {
+      "file": "microbes.webp",
+      "name": "Microbes",
+      "tags": [
+        "microbes",
+        "bacteria",
+        "microscope"
+      ]
+    },
+    {
+      "file": "virus.webp",
+      "name": "Virus",
+      "tags": [
+        "virus",
+        "microbiology",
+        "particle"
+      ]
+    },
+    {
+      "file": "photosynthesis.webp",
+      "name": "Photosynthesis",
+      "tags": [
+        "photosynthesis",
+        "leaf",
+        "plants"
+      ]
+    },
+    {
+      "file": "seedlings.webp",
+      "name": "Seedlings",
+      "tags": [
+        "seeds",
+        "germination",
+        "growth"
+      ]
+    },
+    {
+      "file": "fungal-network.webp",
+      "name": "Fungal Network",
+      "tags": [
+        "fungi",
+        "mushrooms",
+        "roots"
+      ]
+    },
+    {
+      "file": "metamorphosis.webp",
+      "name": "Metamorphosis",
+      "tags": [
+        "butterfly",
+        "caterpillar",
+        "life cycle"
+      ]
+    },
+    {
+      "file": "meadow-insects.webp",
+      "name": "Meadow Insects",
+      "tags": [
+        "insects",
+        "bees",
+        "meadow"
+      ]
+    },
+    {
+      "file": "bird-migration.webp",
+      "name": "Bird Migration",
+      "tags": [
+        "birds",
+        "migration",
+        "flight"
+      ]
+    },
+    {
+      "file": "ecosystem.webp",
+      "name": "Ecosystem",
+      "tags": [
+        "ecosystem",
+        "wetland",
+        "habitat"
+      ]
+    },
+    {
+      "file": "coral-reef.webp",
+      "name": "Coral Reef",
+      "tags": [
+        "coral",
+        "reef",
+        "ocean"
+      ]
+    },
+    {
+      "file": "tide-pool.webp",
+      "name": "Tide Pool",
+      "tags": [
+        "tide pool",
+        "marine",
+        "starfish"
+      ]
+    },
+    {
+      "file": "fossils.webp",
+      "name": "Fossils",
+      "tags": [
+        "fossils",
+        "ammonite",
+        "trilobite"
+      ]
+    },
+    {
+      "file": "neurons.webp",
+      "name": "Neurons",
+      "tags": [
+        "neurons",
+        "brain",
+        "nerves"
+      ]
+    },
+    {
+      "file": "human-heart.webp",
+      "name": "Human Heart",
+      "tags": [
+        "heart",
+        "anatomy",
+        "medicine"
+      ]
+    }
+  ]
+}
