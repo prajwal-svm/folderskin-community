@@ -1829,6 +1829,20 @@
       "official": true
     },
     {
+      "id": "travel",
+      "name": "Travel",
+      "author": "kbhavake29",
+      "license": "MIT",
+      "tags": [
+        "tourism",
+        "travel",
+        "places"
+      ],
+      "count": 1,
+      "hash": "97625de26fab27bf",
+      "added": 1790303632
+    },
+    {
       "id": "us-national-parks",
       "name": "US National Parks",
       "author": "prajwal-svm",
