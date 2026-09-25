@@ -3,15 +3,85 @@
   "name": "Colours",
   "author": "prajwal-svm",
   "license": "CC0-1.0",
-  "tags": ["colour"],
+  "tags": [
+    "colour",
+    "color",
+    "solid",
+    "minimal",
+    "basics"
+  ],
   "skins": [
-    { "file": "red.png", "name": "Red" },
-    { "file": "orange.png", "name": "Orange" },
-    { "file": "yellow.png", "name": "Yellow" },
-    { "file": "green.png", "name": "Green" },
-    { "file": "teal.png", "name": "Teal" },
-    { "file": "blue.png", "name": "Blue" },
-    { "file": "purple.png", "name": "Purple" },
-    { "file": "graphite.png", "name": "Graphite" }
+    {
+      "file": "red.png",
+      "name": "Red",
+      "tags": [
+        "red",
+        "bold",
+        "warm"
+      ]
+    },
+    {
+      "file": "orange.png",
+      "name": "Orange",
+      "tags": [
+        "orange",
+        "warm",
+        "vivid"
+      ]
+    },
+    {
+      "file": "yellow.png",
+      "name": "Yellow",
+      "tags": [
+        "yellow",
+        "bright",
+        "sunny"
+      ]
+    },
+    {
+      "file": "green.png",
+      "name": "Green",
+      "tags": [
+        "green",
+        "fresh",
+        "nature"
+      ]
+    },
+    {
+      "file": "teal.png",
+      "name": "Teal",
+      "tags": [
+        "teal",
+        "cool",
+        "calm"
+      ]
+    },
+    {
+      "file": "blue.png",
+      "name": "Blue",
+      "tags": [
+        "blue",
+        "calm",
+        "cool"
+      ]
+    },
+    {
+      "file": "purple.png",
+      "name": "Purple",
+      "tags": [
+        "purple",
+        "rich",
+        "royal"
+      ]
+    },
+    {
+      "file": "graphite.png",
+      "name": "Graphite",
+      "tags": [
+        "grey",
+        "dark",
+        "neutral"
+      ]
+    }
   ]
 }

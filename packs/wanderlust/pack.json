@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "name": "Wanderlust",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "travel",
+    "adventure",
+    "scenic",
+    "nature",
+    "holidays"
+  ],
+  "skins": [
+    {
+      "file": "island.webp",
+      "name": "Island",
+      "tags": [
+        "beach",
+        "island",
+        "sailing"
+      ]
+    },
+    {
+      "file": "alps.webp",
+      "name": "Alps",
+      "tags": [
+        "mountains",
+        "snow",
+        "ski"
+      ]
+    },
+    {
+      "file": "desert.webp",
+      "name": "Desert",
+      "tags": [
+        "desert",
+        "dunes",
+        "camels"
+      ]
+    },
+    {
+      "file": "jungle.webp",
+      "name": "Jungle",
+      "tags": [
+        "jungle",
+        "waterfall",
+        "rainforest"
+      ]
+    },
+    {
+      "file": "aurora.webp",
+      "name": "Aurora",
+      "tags": [
+        "northern lights",
+        "snow",
+        "night"
+      ]
+    },
+    {
+      "file": "safari.webp",
+      "name": "Safari",
+      "tags": [
+        "safari",
+        "africa",
+        "giraffes"
+      ]
+    },
+    {
+      "file": "voyage.webp",
+      "name": "Voyage",
+      "tags": [
+        "ocean liner",
+        "sea",
+        "cruise"
+      ]
+    },
+    {
+      "file": "road-trip.webp",
+      "name": "Road Trip",
+      "tags": [
+        "road trip",
+        "coast",
+        "car"
+      ]
+    },
+    {
+      "file": "camping.webp",
+      "name": "Camping",
+      "tags": [
+        "camping",
+        "tent",
+        "stars"
+      ]
+    }
+  ]
+}

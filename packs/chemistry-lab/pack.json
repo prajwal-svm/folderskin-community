@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "name": "Chemistry Lab",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "chemistry",
+    "science",
+    "lab",
+    "3d",
+    "school"
+  ],
+  "skins": [
+    {
+      "file": "lab-glassware.webp",
+      "name": "Lab Glassware",
+      "tags": [
+        "glassware",
+        "flasks"
+      ]
+    },
+    {
+      "file": "molecules.webp",
+      "name": "Molecules",
+      "tags": [
+        "molecules",
+        "atoms",
+        "bonds"
+      ]
+    },
+    {
+      "file": "water-molecule.webp",
+      "name": "Water Molecule",
+      "tags": [
+        "water",
+        "h2o",
+        "molecule"
+      ]
+    },
+    {
+      "file": "benzene-ring.webp",
+      "name": "Benzene Ring",
+      "tags": [
+        "benzene",
+        "organic",
+        "molecule"
+      ]
+    },
+    {
+      "file": "buckyball.webp",
+      "name": "Buckyball",
+      "tags": [
+        "nanotech",
+        "carbon",
+        "buckyball"
+      ]
+    },
+    {
+      "file": "fizzing-reaction.webp",
+      "name": "Fizzing Reaction",
+      "tags": [
+        "reaction",
+        "bubbles",
+        "fizz"
+      ]
+    },
+    {
+      "file": "precipitate.webp",
+      "name": "Precipitate",
+      "tags": [
+        "precipitate",
+        "reaction",
+        "beaker"
+      ]
+    },
+    {
+      "file": "catalyst.webp",
+      "name": "Catalyst",
+      "tags": [
+        "catalyst",
+        "reaction",
+        "lattice"
+      ]
+    },
+    {
+      "file": "growing-crystals.webp",
+      "name": "Growing Crystals",
+      "tags": [
+        "crystals",
+        "growth"
+      ]
+    },
+    {
+      "file": "salt-crystals.webp",
+      "name": "Salt Crystals",
+      "tags": [
+        "salt",
+        "crystals",
+        "magnifier"
+      ]
+    },
+    {
+      "file": "flame-tests.webp",
+      "name": "Flame Tests",
+      "tags": [
+        "flames",
+        "bunsen burner",
+        "colours"
+      ]
+    },
+    {
+      "file": "fireworks.webp",
+      "name": "Fireworks",
+      "tags": [
+        "fireworks",
+        "flames",
+        "colours"
+      ]
+    },
+    {
+      "file": "distillation.webp",
+      "name": "Distillation",
+      "tags": [
+        "distillation",
+        "condenser",
+        "flask"
+      ]
+    },
+    {
+      "file": "chromatography.webp",
+      "name": "Chromatography",
+      "tags": [
+        "chromatography",
+        "separation",
+        "paper"
+      ]
+    },
+    {
+      "file": "electrolysis.webp",
+      "name": "Electrolysis",
+      "tags": [
+        "electrolysis",
+        "electrodes",
+        "bubbles"
+      ]
+    },
+    {
+      "file": "ph-indicators.webp",
+      "name": "pH Indicators",
+      "tags": [
+        "ph",
+        "acids",
+        "test tubes"
+      ]
+    },
+    {
+      "file": "acids-and-bases.webp",
+      "name": "Acids and Bases",
+      "tags": [
+        "acids",
+        "bases",
+        "flasks"
+      ]
+    },
+    {
+      "file": "gas-balloons.webp",
+      "name": "Gas Balloons",
+      "tags": [
+        "gases",
+        "balloons",
+        "helium"
+      ]
+    },
+    {
+      "file": "alchemists-bench.webp",
+      "name": "Alchemist's Bench",
+      "tags": [
+        "alchemy",
+        "vintage",
+        "potions"
+      ]
+    }
+  ]
+}

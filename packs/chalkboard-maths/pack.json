@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "name": "Chalkboard Maths",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "maths",
+    "math",
+    "chalkboard",
+    "school",
+    "science"
+  ],
+  "skins": [
+    {
+      "file": "algebra.webp",
+      "name": "Algebra",
+      "tags": [
+        "algebra",
+        "equations",
+        "balance"
+      ]
+    },
+    {
+      "file": "geometry.webp",
+      "name": "Geometry",
+      "tags": [
+        "geometry",
+        "compass",
+        "shapes"
+      ]
+    },
+    {
+      "file": "calculus.webp",
+      "name": "Calculus",
+      "tags": [
+        "calculus",
+        "integrals",
+        "curves"
+      ]
+    },
+    {
+      "file": "trigonometry.webp",
+      "name": "Trigonometry",
+      "tags": [
+        "trigonometry",
+        "sine",
+        "circle"
+      ]
+    },
+    {
+      "file": "statistics.webp",
+      "name": "Statistics",
+      "tags": [
+        "statistics",
+        "charts",
+        "data"
+      ]
+    },
+    {
+      "file": "probability.webp",
+      "name": "Probability",
+      "tags": [
+        "probability",
+        "dice",
+        "bell curve"
+      ]
+    },
+    {
+      "file": "linear-algebra.webp",
+      "name": "Linear Algebra",
+      "tags": [
+        "matrices",
+        "vectors",
+        "algebra"
+      ]
+    },
+    {
+      "file": "differential-equations.webp",
+      "name": "Differential Equations",
+      "tags": [
+        "equations",
+        "flow",
+        "calculus"
+      ]
+    },
+    {
+      "file": "complex-numbers.webp",
+      "name": "Complex Numbers",
+      "tags": [
+        "complex numbers",
+        "vectors",
+        "plane"
+      ]
+    },
+    {
+      "file": "number-theory.webp",
+      "name": "Number Theory",
+      "tags": [
+        "numbers",
+        "primes",
+        "patterns"
+      ]
+    },
+    {
+      "file": "set-theory.webp",
+      "name": "Set Theory",
+      "tags": [
+        "sets",
+        "venn diagram",
+        "logic"
+      ]
+    },
+    {
+      "file": "graph-theory.webp",
+      "name": "Graph Theory",
+      "tags": [
+        "graphs",
+        "networks",
+        "nodes"
+      ]
+    },
+    {
+      "file": "logic.webp",
+      "name": "Logic",
+      "tags": [
+        "logic",
+        "truth tables",
+        "reasoning"
+      ]
+    },
+    {
+      "file": "topology.webp",
+      "name": "Topology",
+      "tags": [
+        "topology",
+        "mobius strip",
+        "shapes"
+      ]
+    },
+    {
+      "file": "fractals.webp",
+      "name": "Fractals",
+      "tags": [
+        "fractals",
+        "patterns",
+        "geometry"
+      ]
+    },
+    {
+      "file": "tessellations.webp",
+      "name": "Tessellations",
+      "tags": [
+        "tessellation",
+        "patterns",
+        "tiles"
+      ]
+    },
+    {
+      "file": "golden-spiral.webp",
+      "name": "Golden Spiral",
+      "tags": [
+        "golden ratio",
+        "spiral",
+        "fibonacci"
+      ]
+    },
+    {
+      "file": "pi.webp",
+      "name": "Pi",
+      "tags": [
+        "pi",
+        "circle",
+        "constants"
+      ]
+    },
+    {
+      "file": "infinity.webp",
+      "name": "Infinity",
+      "tags": [
+        "infinity",
+        "symbol",
+        "limits"
+      ]
+    }
+  ]
+}

@@ -5,176 +5,389 @@
   "license": "CC0-1.0",
   "tags": [
     "pop art",
-    "scientists"
+    "scientists",
+    "science",
+    "portraits",
+    "comic"
   ],
   "skins": [
     {
       "file": "archimedes.webp",
-      "name": "Archimedes"
+      "name": "Archimedes",
+      "tags": [
+        "mathematics",
+        "ancient greece",
+        "eureka"
+      ]
     },
     {
       "file": "nicolaus-copernicus.webp",
-      "name": "Nicolaus Copernicus"
+      "name": "Nicolaus Copernicus",
+      "tags": [
+        "astronomy",
+        "heliocentrism",
+        "renaissance"
+      ]
     },
     {
       "file": "galileo-galilei.webp",
-      "name": "Galileo Galilei"
+      "name": "Galileo Galilei",
+      "tags": [
+        "astronomy",
+        "telescope",
+        "physics"
+      ]
     },
     {
       "file": "johannes-kepler.webp",
-      "name": "Johannes Kepler"
+      "name": "Johannes Kepler",
+      "tags": [
+        "astronomy",
+        "planetary orbits",
+        "mathematics"
+      ]
     },
     {
       "file": "isaac-newton.webp",
-      "name": "Isaac Newton"
+      "name": "Isaac Newton",
+      "tags": [
+        "physics",
+        "gravity",
+        "mathematics"
+      ]
     },
     {
       "file": "michael-faraday.webp",
-      "name": "Michael Faraday"
+      "name": "Michael Faraday",
+      "tags": [
+        "electricity",
+        "magnetism",
+        "chemistry"
+      ]
     },
     {
       "file": "charles-darwin.webp",
-      "name": "Charles Darwin"
+      "name": "Charles Darwin",
+      "tags": [
+        "evolution",
+        "biology",
+        "natural selection"
+      ]
     },
     {
       "file": "ada-lovelace.webp",
-      "name": "Ada Lovelace"
+      "name": "Ada Lovelace",
+      "tags": [
+        "programming",
+        "mathematics",
+        "computing"
+      ]
     },
     {
       "file": "gregor-mendel.webp",
-      "name": "Gregor Mendel"
+      "name": "Gregor Mendel",
+      "tags": [
+        "genetics",
+        "biology",
+        "peas"
+      ]
     },
     {
       "file": "louis-pasteur.webp",
-      "name": "Louis Pasteur"
+      "name": "Louis Pasteur",
+      "tags": [
+        "microbiology",
+        "vaccines",
+        "medicine"
+      ]
     },
     {
       "file": "james-clerk-maxwell.webp",
-      "name": "James Clerk Maxwell"
+      "name": "James Clerk Maxwell",
+      "tags": [
+        "electromagnetism",
+        "physics",
+        "equations"
+      ]
     },
     {
       "file": "dmitri-mendeleev.webp",
-      "name": "Dmitri Mendeleev"
+      "name": "Dmitri Mendeleev",
+      "tags": [
+        "periodic table",
+        "chemistry",
+        "elements"
+      ]
     },
     {
       "file": "thomas-edison.webp",
-      "name": "Thomas Edison"
+      "name": "Thomas Edison",
+      "tags": [
+        "inventor",
+        "lightbulb",
+        "electricity"
+      ]
     },
     {
       "file": "nikola-tesla.webp",
-      "name": "Nikola Tesla"
+      "name": "Nikola Tesla",
+      "tags": [
+        "electricity",
+        "inventor",
+        "alternating current"
+      ]
     },
     {
       "file": "max-planck.webp",
-      "name": "Max Planck"
+      "name": "Max Planck",
+      "tags": [
+        "quantum",
+        "physics",
+        "constants"
+      ]
     },
     {
       "file": "marie-curie.webp",
-      "name": "Marie Curie"
+      "name": "Marie Curie",
+      "tags": [
+        "radioactivity",
+        "chemistry",
+        "physics"
+      ]
     },
     {
       "file": "lise-meitner.webp",
-      "name": "Lise Meitner"
+      "name": "Lise Meitner",
+      "tags": [
+        "nuclear fission",
+        "physics",
+        "radioactivity"
+      ]
     },
     {
       "file": "alexander-fleming.webp",
-      "name": "Alexander Fleming"
+      "name": "Alexander Fleming",
+      "tags": [
+        "penicillin",
+        "medicine",
+        "antibiotics"
+      ]
     },
     {
       "file": "emmy-noether.webp",
-      "name": "Emmy Noether"
+      "name": "Emmy Noether",
+      "tags": [
+        "mathematics",
+        "algebra",
+        "symmetry"
+      ]
     },
     {
       "file": "niels-bohr.webp",
-      "name": "Niels Bohr"
+      "name": "Niels Bohr",
+      "tags": [
+        "atoms",
+        "quantum",
+        "physics"
+      ]
     },
     {
       "file": "erwin-schrodinger.webp",
-      "name": "Erwin Schrödinger"
+      "name": "Erwin Schrödinger",
+      "tags": [
+        "quantum",
+        "physics",
+        "wave equation"
+      ]
     },
     {
       "file": "srinivasa-ramanujan.webp",
-      "name": "Srinivasa Ramanujan"
+      "name": "Srinivasa Ramanujan",
+      "tags": [
+        "mathematics",
+        "numbers",
+        "india"
+      ]
     },
     {
       "file": "edwin-hubble.webp",
-      "name": "Edwin Hubble"
+      "name": "Edwin Hubble",
+      "tags": [
+        "astronomy",
+        "galaxies",
+        "expanding universe"
+      ]
     },
     {
       "file": "georges-lemaitre.webp",
-      "name": "Georges Lemaître"
+      "name": "Georges Lemaître",
+      "tags": [
+        "big bang",
+        "cosmology",
+        "physics"
+      ]
     },
     {
       "file": "wolfgang-pauli.webp",
-      "name": "Wolfgang Pauli"
+      "name": "Wolfgang Pauli",
+      "tags": [
+        "quantum",
+        "physics",
+        "exclusion principle"
+      ]
     },
     {
       "file": "linus-pauling.webp",
-      "name": "Linus Pauling"
+      "name": "Linus Pauling",
+      "tags": [
+        "chemistry",
+        "chemical bonds",
+        "nobel prize"
+      ]
     },
     {
       "file": "enrico-fermi.webp",
-      "name": "Enrico Fermi"
+      "name": "Enrico Fermi",
+      "tags": [
+        "nuclear",
+        "physics",
+        "reactor"
+      ]
     },
     {
       "file": "werner-heisenberg.webp",
-      "name": "Werner Heisenberg"
+      "name": "Werner Heisenberg",
+      "tags": [
+        "quantum",
+        "uncertainty",
+        "physics"
+      ]
     },
     {
       "file": "barbara-mcclintock.webp",
-      "name": "Barbara McClintock"
+      "name": "Barbara McClintock",
+      "tags": [
+        "genetics",
+        "maize",
+        "biology"
+      ]
     },
     {
       "file": "paul-dirac.webp",
-      "name": "Paul Dirac"
+      "name": "Paul Dirac",
+      "tags": [
+        "quantum",
+        "antimatter",
+        "physics"
+      ]
     },
     {
       "file": "robert-oppenheimer.webp",
-      "name": "Robert Oppenheimer"
+      "name": "Robert Oppenheimer",
+      "tags": [
+        "nuclear",
+        "physics",
+        "manhattan project"
+      ]
     },
     {
       "file": "grace-hopper.webp",
-      "name": "Grace Hopper"
+      "name": "Grace Hopper",
+      "tags": [
+        "programming",
+        "computing",
+        "compilers"
+      ]
     },
     {
       "file": "chien-shiung-wu.webp",
-      "name": "Chien-Shiung Wu"
+      "name": "Chien-Shiung Wu",
+      "tags": [
+        "physics",
+        "nuclear",
+        "experiments"
+      ]
     },
     {
       "file": "alan-turing.webp",
-      "name": "Alan Turing"
+      "name": "Alan Turing",
+      "tags": [
+        "computing",
+        "codebreaking",
+        "ai"
+      ]
     },
     {
       "file": "richard-feynman.webp",
-      "name": "Richard Feynman"
+      "name": "Richard Feynman",
+      "tags": [
+        "quantum",
+        "physics",
+        "diagrams"
+      ]
     },
     {
       "file": "katherine-johnson.webp",
-      "name": "Katherine Johnson"
+      "name": "Katherine Johnson",
+      "tags": [
+        "mathematics",
+        "nasa",
+        "spaceflight"
+      ]
     },
     {
       "file": "rosalind-franklin.webp",
-      "name": "Rosalind Franklin"
+      "name": "Rosalind Franklin",
+      "tags": [
+        "dna",
+        "x-ray",
+        "chemistry"
+      ]
     },
     {
       "file": "vera-rubin.webp",
-      "name": "Vera Rubin"
+      "name": "Vera Rubin",
+      "tags": [
+        "astronomy",
+        "dark matter",
+        "galaxies"
+      ]
     },
     {
       "file": "vera-rubin-2.webp",
-      "name": "Vera Rubin 2"
+      "name": "Vera Rubin 2",
+      "tags": [
+        "astronomy",
+        "dark matter",
+        "galaxies"
+      ]
     },
     {
       "file": "jane-goodall.webp",
-      "name": "Jane Goodall"
+      "name": "Jane Goodall",
+      "tags": [
+        "primatology",
+        "chimpanzees",
+        "conservation"
+      ]
     },
     {
       "file": "carl-sagan.webp",
-      "name": "Carl Sagan"
+      "name": "Carl Sagan",
+      "tags": [
+        "astronomy",
+        "cosmos",
+        "science communication"
+      ]
     },
     {
       "file": "stephen-hawking.webp",
-      "name": "Stephen Hawking"
+      "name": "Stephen Hawking",
+      "tags": [
+        "black holes",
+        "cosmology",
+        "physics"
+      ]
     }
   ]
 }

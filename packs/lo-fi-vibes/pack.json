@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "name": "Lo-fi Vibes",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "lofi",
+    "cozy",
+    "chill",
+    "mood",
+    "aesthetic"
+  ],
+  "skins": [
+    {
+      "file": "rainy-window.webp",
+      "name": "Rainy Window",
+      "tags": [
+        "rain",
+        "city",
+        "night"
+      ]
+    },
+    {
+      "file": "late-study.webp",
+      "name": "Late Study",
+      "tags": [
+        "study",
+        "cat",
+        "lamp"
+      ]
+    },
+    {
+      "file": "arcade.webp",
+      "name": "Arcade",
+      "tags": [
+        "arcade",
+        "games",
+        "neon"
+      ]
+    },
+    {
+      "file": "record-shop.webp",
+      "name": "Record Shop",
+      "tags": [
+        "vinyl",
+        "records",
+        "music"
+      ]
+    },
+    {
+      "file": "picnic.webp",
+      "name": "Picnic",
+      "tags": [
+        "picnic",
+        "meadow",
+        "summer"
+      ]
+    }
+  ]
+}

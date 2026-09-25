@@ -6,48 +6,99 @@
   "tags": [
     "science",
     "space",
-    "history"
+    "history",
+    "discovery",
+    "retro"
   ],
   "skins": [
     {
       "file": "apollo.webp",
-      "name": "Apollo"
+      "name": "Apollo",
+      "tags": [
+        "apollo",
+        "moon landing",
+        "astronaut"
+      ]
     },
     {
       "file": "seed-vault.webp",
-      "name": "Seed Vault"
+      "name": "Seed Vault",
+      "tags": [
+        "seed vault",
+        "plants",
+        "future"
+      ]
     },
     {
       "file": "neural.webp",
-      "name": "Neural"
+      "name": "Neural",
+      "tags": [
+        "neurons",
+        "brain",
+        "network"
+      ]
     },
     {
       "file": "cosmos.webp",
-      "name": "Cosmos"
+      "name": "Cosmos",
+      "tags": [
+        "cosmos",
+        "galaxy",
+        "universe"
+      ]
     },
     {
       "file": "botany.webp",
-      "name": "Botany"
+      "name": "Botany",
+      "tags": [
+        "botany",
+        "plants",
+        "greenhouse"
+      ]
     },
     {
       "file": "space.webp",
-      "name": "Space"
+      "name": "Space",
+      "tags": [
+        "rocket",
+        "stars",
+        "exploration"
+      ]
     },
     {
       "file": "atomic-age.webp",
-      "name": "Atomic Age"
+      "name": "Atomic Age",
+      "tags": [
+        "atomic",
+        "1950s"
+      ]
     },
     {
       "file": "level-up.webp",
-      "name": "Level Up"
+      "name": "Level Up",
+      "tags": [
+        "games",
+        "arcade",
+        "level up"
+      ]
     },
     {
       "file": "electric.webp",
-      "name": "Electric"
+      "name": "Electric",
+      "tags": [
+        "electricity",
+        "lightning",
+        "power"
+      ]
     },
     {
       "file": "observatory.webp",
-      "name": "Observatory"
+      "name": "Observatory",
+      "tags": [
+        "observatory",
+        "telescope",
+        "stars"
+      ]
     }
   ]
 }

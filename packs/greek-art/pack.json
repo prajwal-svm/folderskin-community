@@ -6,68 +6,136 @@
   "tags": [
     "greek art",
     "statues",
-    "marble"
+    "marble",
+    "mythology",
+    "ancient"
   ],
   "skins": [
     {
       "file": "open-arms.webp",
-      "name": "Open Arms"
+      "name": "Open Arms",
+      "tags": [
+        "sculpture",
+        "figure"
+      ]
     },
     {
       "file": "upward-gaze.webp",
-      "name": "Upward Gaze"
+      "name": "Upward Gaze",
+      "tags": [
+        "sculpture",
+        "portrait"
+      ]
     },
     {
       "file": "parthenon.webp",
-      "name": "Parthenon"
+      "name": "Parthenon",
+      "tags": [
+        "parthenon",
+        "athens",
+        "temple"
+      ]
     },
     {
       "file": "poseidon.webp",
-      "name": "Poseidon"
+      "name": "Poseidon",
+      "tags": [
+        "poseidon",
+        "god",
+        "sea"
+      ]
     },
     {
       "file": "glitch.webp",
-      "name": "Glitch"
+      "name": "Glitch",
+      "tags": [
+        "glitch",
+        "digital",
+        "modern"
+      ]
     },
     {
       "file": "shattered.webp",
-      "name": "Shattered"
+      "name": "Shattered",
+      "tags": [
+        "broken",
+        "fragments",
+        "modern"
+      ]
     },
     {
       "file": "winged-guardian.webp",
-      "name": "Winged Guardian"
+      "name": "Winged Guardian",
+      "tags": [
+        "wings",
+        "guardian"
+      ]
     },
     {
       "file": "the-muse.webp",
-      "name": "The Muse"
+      "name": "The Muse",
+      "tags": [
+        "muse",
+        "inspiration"
+      ]
     },
     {
       "file": "the-philosopher.webp",
-      "name": "The Philosopher"
+      "name": "The Philosopher",
+      "tags": [
+        "philosopher",
+        "bust",
+        "wisdom"
+      ]
     },
     {
       "file": "deep-in-thought.webp",
-      "name": "Deep in Thought"
+      "name": "Deep in Thought",
+      "tags": [
+        "thinking",
+        "sculpture"
+      ]
     },
     {
       "file": "among-the-ruins.webp",
-      "name": "Among the Ruins"
+      "name": "Among the Ruins",
+      "tags": [
+        "ruins",
+        "columns"
+      ]
     },
     {
       "file": "fallen-head.webp",
-      "name": "Fallen Head"
+      "name": "Fallen Head",
+      "tags": [
+        "head",
+        "ruins"
+      ]
     },
     {
       "file": "marble-youth.webp",
-      "name": "Marble Youth"
+      "name": "Marble Youth",
+      "tags": [
+        "youth",
+        "sculpture"
+      ]
     },
     {
       "file": "temple-at-sunset.webp",
-      "name": "Temple at Sunset"
+      "name": "Temple at Sunset",
+      "tags": [
+        "temple",
+        "sunset"
+      ]
     },
     {
       "file": "poseidon-in-the-clouds.webp",
-      "name": "Poseidon in the Clouds"
+      "name": "Poseidon in the Clouds",
+      "tags": [
+        "poseidon",
+        "clouds",
+        "god"
+      ]
     }
   ]
 }

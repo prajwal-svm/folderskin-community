@@ -7,168 +7,362 @@
     "everyday",
     "work",
     "home",
-    "photos"
+    "photos",
+    "organising"
   ],
   "skins": [
     {
       "file": "desktop.webp",
-      "name": "Desktop"
+      "name": "Desktop",
+      "tags": [
+        "desktop",
+        "workspace",
+        "computer"
+      ]
     },
     {
       "file": "documents.webp",
-      "name": "Documents"
+      "name": "Documents",
+      "tags": [
+        "documents",
+        "paperwork",
+        "files"
+      ]
     },
     {
       "file": "downloads.webp",
-      "name": "Downloads"
+      "name": "Downloads",
+      "tags": [
+        "downloads",
+        "files",
+        "internet"
+      ]
     },
     {
       "file": "pictures.webp",
-      "name": "Pictures"
+      "name": "Pictures",
+      "tags": [
+        "pictures",
+        "gallery"
+      ]
     },
     {
       "file": "music.webp",
-      "name": "Music"
+      "name": "Music",
+      "tags": [
+        "music",
+        "songs",
+        "audio"
+      ]
     },
     {
       "file": "movies.webp",
-      "name": "Movies"
+      "name": "Movies",
+      "tags": [
+        "movies",
+        "films",
+        "video"
+      ]
     },
     {
       "file": "screenshots.webp",
-      "name": "Screenshots"
+      "name": "Screenshots",
+      "tags": [
+        "screenshots",
+        "captures",
+        "screen"
+      ]
     },
     {
       "file": "projects.webp",
-      "name": "Projects"
+      "name": "Projects",
+      "tags": [
+        "projects",
+        "plans"
+      ]
     },
     {
       "file": "work.webp",
-      "name": "Work"
+      "name": "Work",
+      "tags": [
+        "office",
+        "job"
+      ]
     },
     {
       "file": "personal.webp",
-      "name": "Personal"
+      "name": "Personal",
+      "tags": [
+        "personal",
+        "private"
+      ]
     },
     {
       "file": "school.webp",
-      "name": "School"
+      "name": "School",
+      "tags": [
+        "school",
+        "study",
+        "class"
+      ]
     },
     {
       "file": "archive.webp",
-      "name": "Archive"
+      "name": "Archive",
+      "tags": [
+        "archive",
+        "old files",
+        "storage"
+      ]
     },
     {
       "file": "backups.webp",
-      "name": "Backups"
+      "name": "Backups",
+      "tags": [
+        "backups",
+        "storage",
+        "safety"
+      ]
     },
     {
       "file": "code.webp",
-      "name": "Code"
+      "name": "Code",
+      "tags": [
+        "code",
+        "programming",
+        "developer"
+      ]
     },
     {
       "file": "design.webp",
-      "name": "Design"
+      "name": "Design",
+      "tags": [
+        "design",
+        "creative",
+        "graphics"
+      ]
     },
     {
       "file": "clients.webp",
-      "name": "Clients"
+      "name": "Clients",
+      "tags": [
+        "clients",
+        "customers",
+        "business"
+      ]
     },
     {
       "file": "meetings.webp",
-      "name": "Meetings"
+      "name": "Meetings",
+      "tags": [
+        "meetings",
+        "calendar",
+        "notes"
+      ]
     },
     {
       "file": "notes.webp",
-      "name": "Notes"
+      "name": "Notes",
+      "tags": [
+        "notes",
+        "writing",
+        "ideas"
+      ]
     },
     {
       "file": "ideas.webp",
-      "name": "Ideas"
+      "name": "Ideas",
+      "tags": [
+        "ideas",
+        "brainstorm",
+        "inspiration"
+      ]
     },
     {
       "file": "invoices.webp",
-      "name": "Invoices"
+      "name": "Invoices",
+      "tags": [
+        "invoices",
+        "billing",
+        "finance"
+      ]
     },
     {
       "file": "reports.webp",
-      "name": "Reports"
+      "name": "Reports",
+      "tags": [
+        "reports",
+        "analysis",
+        "documents"
+      ]
     },
     {
       "file": "presentations.webp",
-      "name": "Presentations"
+      "name": "Presentations",
+      "tags": [
+        "presentations",
+        "slides",
+        "talks"
+      ]
     },
     {
       "file": "spreadsheets.webp",
-      "name": "Spreadsheets"
+      "name": "Spreadsheets",
+      "tags": [
+        "spreadsheets",
+        "data",
+        "finance"
+      ]
     },
     {
       "file": "receipts.webp",
-      "name": "Receipts"
+      "name": "Receipts",
+      "tags": [
+        "receipts",
+        "expenses",
+        "finance"
+      ]
     },
     {
       "file": "travel.webp",
-      "name": "Travel"
+      "name": "Travel",
+      "tags": [
+        "travel",
+        "trips",
+        "holidays"
+      ]
     },
     {
       "file": "health.webp",
-      "name": "Health"
+      "name": "Health",
+      "tags": [
+        "health",
+        "fitness",
+        "medical"
+      ]
     },
     {
       "file": "family.webp",
-      "name": "Family"
+      "name": "Family",
+      "tags": [
+        "family",
+        "memories"
+      ]
     },
     {
       "file": "pets.webp",
-      "name": "Pets"
+      "name": "Pets",
+      "tags": [
+        "pets",
+        "dogs",
+        "cats"
+      ]
     },
     {
       "file": "car.webp",
-      "name": "Car"
+      "name": "Car",
+      "tags": [
+        "car",
+        "vehicle",
+        "driving"
+      ]
     },
     {
       "file": "home.webp",
-      "name": "Home"
+      "name": "Home",
+      "tags": [
+        "house",
+        "living"
+      ]
     },
     {
       "file": "games.webp",
-      "name": "Games"
+      "name": "Games",
+      "tags": [
+        "games",
+        "gaming",
+        "play"
+      ]
     },
     {
       "file": "podcasts.webp",
-      "name": "Podcasts"
+      "name": "Podcasts",
+      "tags": [
+        "podcasts",
+        "audio",
+        "shows"
+      ]
     },
     {
       "file": "videos.webp",
-      "name": "Videos"
+      "name": "Videos",
+      "tags": [
+        "videos",
+        "clips",
+        "recording"
+      ]
     },
     {
       "file": "camera-roll.webp",
-      "name": "Camera Roll"
+      "name": "Camera Roll",
+      "tags": [
+        "camera roll",
+        "phone"
+      ]
     },
     {
       "file": "wallpapers.webp",
-      "name": "Wallpapers"
+      "name": "Wallpapers",
+      "tags": [
+        "wallpapers",
+        "backgrounds",
+        "images"
+      ]
     },
     {
       "file": "inspiration.webp",
-      "name": "Inspiration"
+      "name": "Inspiration",
+      "tags": [
+        "inspiration",
+        "mood board",
+        "ideas"
+      ]
     },
     {
       "file": "shared.webp",
-      "name": "Shared"
+      "name": "Shared",
+      "tags": [
+        "shared",
+        "team",
+        "collaboration"
+      ]
     },
     {
       "file": "inbox.webp",
-      "name": "Inbox"
+      "name": "Inbox",
+      "tags": [
+        "inbox",
+        "incoming",
+        "to sort"
+      ]
     },
     {
       "file": "favourites.webp",
-      "name": "Favourites"
+      "name": "Favourites",
+      "tags": [
+        "favourites",
+        "favorites",
+        "starred"
+      ]
     },
     {
       "file": "old-stuff.webp",
-      "name": "Old Stuff"
+      "name": "Old Stuff",
+      "tags": [
+        "old stuff",
+        "archive",
+        "vintage"
+      ]
     }
   ]
 }

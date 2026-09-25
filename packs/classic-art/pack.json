@@ -4,72 +4,156 @@
   "author": "prajwal-svm",
   "license": "CC0-1.0",
   "tags": [
-    "classic art"
+    "classic art",
+    "paintings",
+    "museum",
+    "masterpieces",
+    "art history"
   ],
   "skins": [
     {
       "file": "mona-lisa.webp",
-      "name": "Mona Lisa"
+      "name": "Mona Lisa",
+      "tags": [
+        "da vinci",
+        "portrait",
+        "renaissance"
+      ]
     },
     {
       "file": "view-of-toledo.webp",
-      "name": "View of Toledo"
+      "name": "View of Toledo",
+      "tags": [
+        "el greco",
+        "landscape",
+        "spain"
+      ]
     },
     {
       "file": "girl-with-a-pearl-earring.webp",
-      "name": "Girl with a Pearl Earring"
+      "name": "Girl with a Pearl Earring",
+      "tags": [
+        "vermeer",
+        "portrait",
+        "dutch"
+      ]
     },
     {
       "file": "the-astronomer.webp",
-      "name": "The Astronomer"
+      "name": "The Astronomer",
+      "tags": [
+        "vermeer",
+        "science",
+        "dutch"
+      ]
     },
     {
       "file": "oath-of-the-horatii.webp",
-      "name": "Oath of the Horatii"
+      "name": "Oath of the Horatii",
+      "tags": [
+        "jacques-louis david",
+        "neoclassical",
+        "history"
+      ]
     },
     {
       "file": "napoleon-crossing-the-alps.webp",
-      "name": "Napoleon Crossing the Alps"
+      "name": "Napoleon Crossing the Alps",
+      "tags": [
+        "jacques-louis david",
+        "napoleon",
+        "horse"
+      ]
     },
     {
       "file": "wanderer-above-the-sea-of-fog.webp",
-      "name": "Wanderer above the Sea of Fog"
+      "name": "Wanderer above the Sea of Fog",
+      "tags": [
+        "caspar david friedrich",
+        "romanticism",
+        "mountains"
+      ]
     },
     {
       "file": "the-ninth-wave.webp",
-      "name": "The Ninth Wave"
+      "name": "The Ninth Wave",
+      "tags": [
+        "aivazovsky",
+        "sea",
+        "storm"
+      ]
     },
     {
       "file": "boulevard-des-capucines.webp",
-      "name": "Boulevard des Capucines"
+      "name": "Boulevard des Capucines",
+      "tags": [
+        "monet",
+        "impressionism",
+        "paris"
+      ]
     },
     {
       "file": "breezing-up.webp",
-      "name": "Breezing Up"
+      "name": "Breezing Up",
+      "tags": [
+        "winslow homer",
+        "sailing",
+        "sea"
+      ]
     },
     {
       "file": "paris-street-rainy-day.webp",
-      "name": "Paris Street; Rainy Day"
+      "name": "Paris Street; Rainy Day",
+      "tags": [
+        "caillebotte",
+        "paris",
+        "rain"
+      ]
     },
     {
       "file": "luncheon-of-the-boating-party.webp",
-      "name": "Luncheon of the Boating Party"
+      "name": "Luncheon of the Boating Party",
+      "tags": [
+        "renoir",
+        "impressionism",
+        "party"
+      ]
     },
     {
       "file": "the-lady-of-shalott.webp",
-      "name": "The Lady of Shalott"
+      "name": "The Lady of Shalott",
+      "tags": [
+        "waterhouse",
+        "pre-raphaelite",
+        "poetry"
+      ]
     },
     {
       "file": "the-starry-night.webp",
-      "name": "The Starry Night"
+      "name": "The Starry Night",
+      "tags": [
+        "van gogh",
+        "night sky",
+        "post-impressionism"
+      ]
     },
     {
       "file": "mont-sainte-victoire.webp",
-      "name": "Mont Sainte-Victoire"
+      "name": "Mont Sainte-Victoire",
+      "tags": [
+        "cezanne",
+        "mountain",
+        "landscape"
+      ]
     },
     {
       "file": "composition-viii.webp",
-      "name": "Composition VIII"
+      "name": "Composition VIII",
+      "tags": [
+        "kandinsky",
+        "abstract",
+        "geometric"
+      ]
     }
   ]
 }

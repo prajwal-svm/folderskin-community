@@ -7,48 +7,99 @@
     "travel",
     "posters",
     "vintage",
-    "cities"
+    "cities",
+    "retro"
   ],
   "skins": [
     {
       "file": "lisboa.webp",
-      "name": "Lisboa"
+      "name": "Lisboa",
+      "tags": [
+        "lisbon",
+        "portugal",
+        "tram"
+      ]
     },
     {
       "file": "kyoto.webp",
-      "name": "Kyoto"
+      "name": "Kyoto",
+      "tags": [
+        "kyoto",
+        "japan",
+        "temple"
+      ]
     },
     {
       "file": "marrakech.webp",
-      "name": "Marrakech"
+      "name": "Marrakech",
+      "tags": [
+        "marrakech",
+        "morocco",
+        "market"
+      ]
     },
     {
       "file": "havana.webp",
-      "name": "Havana"
+      "name": "Havana",
+      "tags": [
+        "havana",
+        "cuba",
+        "classic cars"
+      ]
     },
     {
       "file": "iceland.webp",
-      "name": "Iceland"
+      "name": "Iceland",
+      "tags": [
+        "iceland",
+        "nordic",
+        "landscape"
+      ]
     },
     {
       "file": "amalfi.webp",
-      "name": "Amalfi"
+      "name": "Amalfi",
+      "tags": [
+        "amalfi",
+        "italy",
+        "coast"
+      ]
     },
     {
       "file": "kerala.webp",
-      "name": "Kerala"
+      "name": "Kerala",
+      "tags": [
+        "kerala",
+        "india",
+        "backwaters"
+      ]
     },
     {
       "file": "zermatt.webp",
-      "name": "Zermatt"
+      "name": "Zermatt",
+      "tags": [
+        "zermatt",
+        "switzerland",
+        "matterhorn"
+      ]
     },
     {
       "file": "new-york.webp",
-      "name": "New York"
+      "name": "New York",
+      "tags": [
+        "new york",
+        "usa",
+        "skyline"
+      ]
     },
     {
       "file": "rio.webp",
-      "name": "Rio"
+      "name": "Rio",
+      "tags": [
+        "rio de janeiro",
+        "brazil",
+        "beach"
+      ]
     }
   ]
 }

@@ -6,48 +6,99 @@
   "tags": [
     "music",
     "records",
-    "vintage"
+    "vintage",
+    "audio",
+    "instruments"
   ],
   "skins": [
     {
       "file": "mixtape.webp",
-      "name": "Mixtape"
+      "name": "Mixtape",
+      "tags": [
+        "mixtape",
+        "cassette",
+        "80s"
+      ]
     },
     {
       "file": "jazz.webp",
-      "name": "Jazz"
+      "name": "Jazz",
+      "tags": [
+        "jazz",
+        "saxophone",
+        "club"
+      ]
     },
     {
       "file": "vinyl.webp",
-      "name": "Vinyl"
+      "name": "Vinyl",
+      "tags": [
+        "vinyl",
+        "turntable"
+      ]
     },
     {
       "file": "radio.webp",
-      "name": "Radio"
+      "name": "Radio",
+      "tags": [
+        "radio",
+        "broadcast",
+        "retro"
+      ]
     },
     {
       "file": "drums.webp",
-      "name": "Drums"
+      "name": "Drums",
+      "tags": [
+        "drums",
+        "rhythm",
+        "band"
+      ]
     },
     {
       "file": "opera.webp",
-      "name": "Opera"
+      "name": "Opera",
+      "tags": [
+        "opera",
+        "classical",
+        "stage"
+      ]
     },
     {
       "file": "piano.webp",
-      "name": "Piano"
+      "name": "Piano",
+      "tags": [
+        "piano",
+        "classical",
+        "keys"
+      ]
     },
     {
       "file": "synth.webp",
-      "name": "Synth"
+      "name": "Synth",
+      "tags": [
+        "synthesizer",
+        "electronic",
+        "80s"
+      ]
     },
     {
       "file": "songs.webp",
-      "name": "Songs"
+      "name": "Songs",
+      "tags": [
+        "songs",
+        "songwriting",
+        "lyrics"
+      ]
     },
     {
       "file": "swing.webp",
-      "name": "Swing"
+      "name": "Swing",
+      "tags": [
+        "swing",
+        "big band",
+        "crooner"
+      ]
     }
   ]
 }

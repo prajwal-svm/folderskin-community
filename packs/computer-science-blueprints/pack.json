@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "name": "Computer Science Blueprints",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "computer science",
+    "programming",
+    "code",
+    "tech",
+    "blueprint"
+  ],
+  "skins": [
+    {
+      "file": "algorithms.webp",
+      "name": "Algorithms",
+      "tags": [
+        "algorithms",
+        "flowchart",
+        "logic"
+      ]
+    },
+    {
+      "file": "compiler.webp",
+      "name": "Compiler",
+      "tags": [
+        "compiler",
+        "gears"
+      ]
+    },
+    {
+      "file": "operating-system.webp",
+      "name": "Operating System",
+      "tags": [
+        "os",
+        "control room",
+        "system"
+      ]
+    },
+    {
+      "file": "cpu.webp",
+      "name": "CPU",
+      "tags": [
+        "cpu",
+        "processor",
+        "chip"
+      ]
+    },
+    {
+      "file": "memory.webp",
+      "name": "Memory",
+      "tags": [
+        "ram",
+        "memory",
+        "chips"
+      ]
+    },
+    {
+      "file": "databases.webp",
+      "name": "Databases",
+      "tags": [
+        "database",
+        "storage",
+        "data"
+      ]
+    },
+    {
+      "file": "networking.webp",
+      "name": "Networking",
+      "tags": [
+        "network",
+        "packets",
+        "routing"
+      ]
+    },
+    {
+      "file": "the-internet.webp",
+      "name": "The Internet",
+      "tags": [
+        "internet",
+        "network",
+        "web"
+      ]
+    },
+    {
+      "file": "the-cloud.webp",
+      "name": "The Cloud",
+      "tags": [
+        "cloud",
+        "servers",
+        "hosting"
+      ]
+    },
+    {
+      "file": "cryptography.webp",
+      "name": "Cryptography",
+      "tags": [
+        "cryptography",
+        "lock",
+        "key"
+      ]
+    },
+    {
+      "file": "cybersecurity.webp",
+      "name": "Cybersecurity",
+      "tags": [
+        "security",
+        "shield",
+        "protection"
+      ]
+    },
+    {
+      "file": "debugging.webp",
+      "name": "Debugging",
+      "tags": [
+        "debugging",
+        "bugs",
+        "testing"
+      ]
+    },
+    {
+      "file": "version-control.webp",
+      "name": "Version Control",
+      "tags": [
+        "git",
+        "branches",
+        "versions"
+      ]
+    },
+    {
+      "file": "open-source.webp",
+      "name": "Open Source",
+      "tags": [
+        "open source",
+        "community",
+        "collaboration"
+      ]
+    },
+    {
+      "file": "recursion.webp",
+      "name": "Recursion",
+      "tags": [
+        "recursion",
+        "folders",
+        "nested"
+      ]
+    },
+    {
+      "file": "computer-graphics.webp",
+      "name": "Computer Graphics",
+      "tags": [
+        "graphics",
+        "3d",
+        "teapot"
+      ]
+    }
+  ]
+}

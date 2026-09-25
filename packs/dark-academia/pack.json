@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "name": "Dark Academia",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "academia",
+    "university",
+    "books",
+    "vintage",
+    "oil painting"
+  ],
+  "skins": [
+    {
+      "file": "library-stacks.webp",
+      "name": "Library Stacks",
+      "tags": [
+        "library",
+        "shelves"
+      ]
+    },
+    {
+      "file": "lecture-hall.webp",
+      "name": "Lecture Hall",
+      "tags": [
+        "lectures",
+        "hall"
+      ]
+    },
+    {
+      "file": "seminar.webp",
+      "name": "Seminar",
+      "tags": [
+        "seminar",
+        "discussion",
+        "table"
+      ]
+    },
+    {
+      "file": "chalkboard.webp",
+      "name": "Chalkboard",
+      "tags": [
+        "chalkboard",
+        "ideas",
+        "lectures"
+      ]
+    },
+    {
+      "file": "professors-office.webp",
+      "name": "Professor's Office",
+      "tags": [
+        "office",
+        "professor"
+      ]
+    },
+    {
+      "file": "midnight-study.webp",
+      "name": "Midnight Study",
+      "tags": [
+        "phd",
+        "late night",
+        "desk"
+      ]
+    },
+    {
+      "file": "peer-review.webp",
+      "name": "Peer Review",
+      "tags": [
+        "review",
+        "papers",
+        "desk"
+      ]
+    },
+    {
+      "file": "research-lab.webp",
+      "name": "Research Lab",
+      "tags": [
+        "lab",
+        "research",
+        "experiments"
+      ]
+    },
+    {
+      "file": "poster-session.webp",
+      "name": "Poster Session",
+      "tags": [
+        "conference",
+        "posters",
+        "research"
+      ]
+    },
+    {
+      "file": "thesis-defence.webp",
+      "name": "Thesis Defence",
+      "tags": [
+        "thesis",
+        "phd",
+        "defence"
+      ]
+    },
+    {
+      "file": "rare-books.webp",
+      "name": "Rare Books",
+      "tags": [
+        "archive",
+        "rare books",
+        "library"
+      ]
+    },
+    {
+      "file": "field-dig.webp",
+      "name": "Field Dig",
+      "tags": [
+        "archaeology",
+        "dig",
+        "fieldwork"
+      ]
+    },
+    {
+      "file": "study-abroad.webp",
+      "name": "Study Abroad",
+      "tags": [
+        "study abroad",
+        "travel",
+        "luggage"
+      ]
+    },
+    {
+      "file": "scholarship.webp",
+      "name": "Scholarship",
+      "tags": [
+        "scholarship",
+        "letter",
+        "seal"
+      ]
+    },
+    {
+      "file": "academic-gowns.webp",
+      "name": "Academic Gowns",
+      "tags": [
+        "gowns",
+        "graduation",
+        "ceremony"
+      ]
+    },
+    {
+      "file": "graduation.webp",
+      "name": "Graduation",
+      "tags": [
+        "graduation",
+        "gowns",
+        "campus"
+      ]
+    },
+    {
+      "file": "campus-quad.webp",
+      "name": "Campus Quad",
+      "tags": [
+        "campus",
+        "college",
+        "quad"
+      ]
+    },
+    {
+      "file": "ivory-tower.webp",
+      "name": "Ivory Tower",
+      "tags": [
+        "tower",
+        "gothic"
+      ]
+    },
+    {
+      "file": "alumni-reunion.webp",
+      "name": "Alumni Reunion",
+      "tags": [
+        "alumni",
+        "reunion",
+        "hall"
+      ]
+    }
+  ]
+}

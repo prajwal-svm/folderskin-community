@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "name": "Data Structures in Bricks",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "programming",
+    "algorithms",
+    "data structures",
+    "computer science",
+    "bricks"
+  ],
+  "skins": [
+    {
+      "file": "array.webp",
+      "name": "Array",
+      "tags": [
+        "array",
+        "index",
+        "blocks"
+      ]
+    },
+    {
+      "file": "linked-list.webp",
+      "name": "Linked List",
+      "tags": [
+        "linked list",
+        "chain",
+        "nodes"
+      ]
+    },
+    {
+      "file": "stack.webp",
+      "name": "Stack",
+      "tags": [
+        "stack",
+        "lifo",
+        "plates"
+      ]
+    },
+    {
+      "file": "queue.webp",
+      "name": "Queue",
+      "tags": [
+        "queue",
+        "fifo",
+        "cars"
+      ]
+    },
+    {
+      "file": "priority-queue.webp",
+      "name": "Priority Queue",
+      "tags": [
+        "priority queue",
+        "ambulance",
+        "queue"
+      ]
+    },
+    {
+      "file": "hash-map.webp",
+      "name": "Hash Map",
+      "tags": [
+        "hash map",
+        "keys",
+        "lookup"
+      ]
+    },
+    {
+      "file": "binary-tree.webp",
+      "name": "Binary Tree",
+      "tags": [
+        "tree",
+        "binary",
+        "nodes"
+      ]
+    },
+    {
+      "file": "heap.webp",
+      "name": "Heap",
+      "tags": [
+        "heap",
+        "priority",
+        "pyramid"
+      ]
+    },
+    {
+      "file": "trie.webp",
+      "name": "Trie",
+      "tags": [
+        "trie",
+        "prefix",
+        "tree"
+      ]
+    },
+    {
+      "file": "graph.webp",
+      "name": "Graph",
+      "tags": [
+        "graph",
+        "nodes",
+        "city"
+      ]
+    },
+    {
+      "file": "union-find.webp",
+      "name": "Union-Find",
+      "tags": [
+        "union find",
+        "sets",
+        "connected"
+      ]
+    },
+    {
+      "file": "sorting.webp",
+      "name": "Sorting",
+      "tags": [
+        "sorting",
+        "order",
+        "bars"
+      ]
+    },
+    {
+      "file": "binary-search.webp",
+      "name": "Binary Search",
+      "tags": [
+        "binary search",
+        "book",
+        "halving"
+      ]
+    },
+    {
+      "file": "breadth-first-search.webp",
+      "name": "Breadth-First Search",
+      "tags": [
+        "bfs",
+        "search",
+        "ripples"
+      ]
+    },
+    {
+      "file": "depth-first-search.webp",
+      "name": "Depth-First Search",
+      "tags": [
+        "dfs",
+        "search",
+        "maze"
+      ]
+    },
+    {
+      "file": "backtracking.webp",
+      "name": "Backtracking",
+      "tags": [
+        "backtracking",
+        "maze",
+        "paths"
+      ]
+    },
+    {
+      "file": "greedy.webp",
+      "name": "Greedy",
+      "tags": [
+        "greedy",
+        "coins",
+        "claw"
+      ]
+    },
+    {
+      "file": "dynamic-programming.webp",
+      "name": "Dynamic Programming",
+      "tags": [
+        "dynamic programming",
+        "subproblems",
+        "pyramid"
+      ]
+    },
+    {
+      "file": "recursion.webp",
+      "name": "Recursion",
+      "tags": [
+        "recursion",
+        "nested",
+        "self similar"
+      ]
+    },
+    {
+      "file": "big-o.webp",
+      "name": "Big O",
+      "tags": [
+        "big o",
+        "complexity",
+        "growth"
+      ]
+    }
+  ]
+}

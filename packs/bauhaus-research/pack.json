@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "name": "Bauhaus Research",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "research",
+    "science",
+    "academia",
+    "bauhaus",
+    "geometric"
+  ],
+  "skins": [
+    {
+      "file": "hypothesis.webp",
+      "name": "Hypothesis",
+      "tags": [
+        "hypothesis",
+        "ideas",
+        "questions"
+      ]
+    },
+    {
+      "file": "experiment.webp",
+      "name": "Experiment",
+      "tags": [
+        "experiment",
+        "beakers",
+        "lab"
+      ]
+    },
+    {
+      "file": "microscope.webp",
+      "name": "Microscope",
+      "tags": [
+        "microscope",
+        "lab"
+      ]
+    },
+    {
+      "file": "lab-notebook.webp",
+      "name": "Lab Notebook",
+      "tags": [
+        "notebook",
+        "data",
+        "notes"
+      ]
+    },
+    {
+      "file": "data-analysis.webp",
+      "name": "Data Analysis",
+      "tags": [
+        "data",
+        "charts",
+        "analysis"
+      ]
+    },
+    {
+      "file": "survey.webp",
+      "name": "Survey",
+      "tags": [
+        "survey",
+        "checklist",
+        "questions"
+      ]
+    },
+    {
+      "file": "interviews.webp",
+      "name": "Interviews",
+      "tags": [
+        "interviews",
+        "recorder",
+        "fieldwork"
+      ]
+    },
+    {
+      "file": "citations.webp",
+      "name": "Citations",
+      "tags": [
+        "citations",
+        "references",
+        "network"
+      ]
+    },
+    {
+      "file": "peer-review.webp",
+      "name": "Peer Review",
+      "tags": [
+        "review",
+        "papers",
+        "critique"
+      ]
+    },
+    {
+      "file": "reproducibility.webp",
+      "name": "Reproducibility",
+      "tags": [
+        "reproducibility",
+        "experiments"
+      ]
+    },
+    {
+      "file": "ethics.webp",
+      "name": "Ethics",
+      "tags": [
+        "ethics",
+        "care",
+        "integrity"
+      ]
+    },
+    {
+      "file": "eureka.webp",
+      "name": "Eureka",
+      "tags": [
+        "eureka",
+        "discovery",
+        "idea"
+      ]
+    },
+    {
+      "file": "field-station.webp",
+      "name": "Field Station",
+      "tags": [
+        "antarctica",
+        "fieldwork",
+        "station"
+      ]
+    }
+  ]
+}

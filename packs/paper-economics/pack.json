@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "name": "Paper Economics",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "economics",
+    "money",
+    "finance",
+    "paper craft",
+    "business"
+  ],
+  "skins": [
+    {
+      "file": "bull-and-bear.webp",
+      "name": "Bull and Bear",
+      "tags": [
+        "markets",
+        "stocks",
+        "investing"
+      ]
+    },
+    {
+      "file": "bank-vault.webp",
+      "name": "Bank Vault",
+      "tags": [
+        "vault",
+        "bank",
+        "savings"
+      ]
+    },
+    {
+      "file": "coins.webp",
+      "name": "Coins",
+      "tags": [
+        "coins",
+        "history"
+      ]
+    },
+    {
+      "file": "compound-interest.webp",
+      "name": "Compound Interest",
+      "tags": [
+        "interest",
+        "savings",
+        "growth"
+      ]
+    },
+    {
+      "file": "growth.webp",
+      "name": "Growth",
+      "tags": [
+        "growth",
+        "chart",
+        "profit"
+      ]
+    },
+    {
+      "file": "inflation.webp",
+      "name": "Inflation",
+      "tags": [
+        "inflation",
+        "prices",
+        "balloon"
+      ]
+    },
+    {
+      "file": "market-stall.webp",
+      "name": "Market Stall",
+      "tags": [
+        "market",
+        "produce",
+        "shopping"
+      ]
+    },
+    {
+      "file": "trade.webp",
+      "name": "Trade",
+      "tags": [
+        "shipping",
+        "containers",
+        "trade"
+      ]
+    },
+    {
+      "file": "globalisation.webp",
+      "name": "Globalisation",
+      "tags": [
+        "globe",
+        "trade",
+        "connections"
+      ]
+    },
+    {
+      "file": "scales-of-trade.webp",
+      "name": "Scales of Trade",
+      "tags": [
+        "balance",
+        "trade",
+        "weights"
+      ]
+    },
+    {
+      "file": "auction.webp",
+      "name": "Auction",
+      "tags": [
+        "auction",
+        "gavel",
+        "bidding"
+      ]
+    },
+    {
+      "file": "factory.webp",
+      "name": "Factory",
+      "tags": [
+        "factory",
+        "industry",
+        "production"
+      ]
+    },
+    {
+      "file": "startup.webp",
+      "name": "Startup",
+      "tags": [
+        "startup",
+        "garage",
+        "ideas"
+      ]
+    },
+    {
+      "file": "taxes.webp",
+      "name": "Taxes",
+      "tags": [
+        "taxes",
+        "roads",
+        "public spending"
+      ]
+    },
+    {
+      "file": "scarcity.webp",
+      "name": "Scarcity",
+      "tags": [
+        "scarcity",
+        "apple",
+        "demand"
+      ]
+    },
+    {
+      "file": "invisible-hand.webp",
+      "name": "Invisible Hand",
+      "tags": [
+        "markets",
+        "adam smith",
+        "hand"
+      ]
+    },
+    {
+      "file": "business-cycles.webp",
+      "name": "Business Cycles",
+      "tags": [
+        "cycles",
+        "waves",
+        "economy"
+      ]
+    }
+  ]
+}

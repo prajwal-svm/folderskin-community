@@ -6,40 +6,79 @@
   "tags": [
     "money",
     "work",
-    "finance"
+    "finance",
+    "office",
+    "savings"
   ],
   "skins": [
     {
       "file": "investments.webp",
-      "name": "Investments"
+      "name": "Investments",
+      "tags": [
+        "investing",
+        "stocks",
+        "markets"
+      ]
     },
     {
       "file": "work.webp",
-      "name": "Work"
+      "name": "Work",
+      "tags": [
+        "job",
+        "laptop"
+      ]
     },
     {
       "file": "savings.webp",
-      "name": "Savings"
+      "name": "Savings",
+      "tags": [
+        "piggy bank",
+        "budget"
+      ]
     },
     {
       "file": "deadline.webp",
-      "name": "Deadline"
+      "name": "Deadline",
+      "tags": [
+        "deadline",
+        "stress",
+        "typewriter"
+      ]
     },
     {
       "file": "plans.webp",
-      "name": "Plans"
+      "name": "Plans",
+      "tags": [
+        "plans",
+        "strategy",
+        "goals"
+      ]
     },
     {
       "file": "nest-egg.webp",
-      "name": "Nest Egg"
+      "name": "Nest Egg",
+      "tags": [
+        "retirement",
+        "nest egg"
+      ]
     },
     {
       "file": "out-of-office.webp",
-      "name": "Out of Office"
+      "name": "Out of Office",
+      "tags": [
+        "vacation",
+        "out of office",
+        "holiday"
+      ]
     },
     {
       "file": "vault.webp",
-      "name": "Vault"
+      "name": "Vault",
+      "tags": [
+        "vault",
+        "safe",
+        "secure"
+      ]
     }
   ]
 }

@@ -1,0 +1,411 @@
+{
+  "version": 1,
+  "name": "US National Parks",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "national parks",
+    "usa",
+    "nature",
+    "hiking",
+    "posters"
+  ],
+  "skins": [
+    {
+      "file": "grand-canyon.webp",
+      "name": "Grand Canyon",
+      "tags": [
+        "arizona",
+        "canyon",
+        "river"
+      ]
+    },
+    {
+      "file": "yosemite.webp",
+      "name": "Yosemite",
+      "tags": [
+        "california",
+        "half dome",
+        "granite"
+      ]
+    },
+    {
+      "file": "zion.webp",
+      "name": "Zion",
+      "tags": [
+        "utah",
+        "canyon",
+        "river"
+      ]
+    },
+    {
+      "file": "glacier.webp",
+      "name": "Glacier",
+      "tags": [
+        "montana",
+        "lake",
+        "mountains"
+      ]
+    },
+    {
+      "file": "acadia.webp",
+      "name": "Acadia",
+      "tags": [
+        "maine",
+        "lighthouse",
+        "coast"
+      ]
+    },
+    {
+      "file": "everglades.webp",
+      "name": "Everglades",
+      "tags": [
+        "florida",
+        "wetlands",
+        "egret"
+      ]
+    },
+    {
+      "file": "grand-teton.webp",
+      "name": "Grand Teton",
+      "tags": [
+        "wyoming",
+        "mountains",
+        "river"
+      ]
+    },
+    {
+      "file": "rocky-mountain.webp",
+      "name": "Rocky Mountain",
+      "tags": [
+        "colorado",
+        "mountains",
+        "trail"
+      ]
+    },
+    {
+      "file": "olympic.webp",
+      "name": "Olympic",
+      "tags": [
+        "washington",
+        "rainforest",
+        "moss"
+      ]
+    },
+    {
+      "file": "mount-rainier.webp",
+      "name": "Mount Rainier",
+      "tags": [
+        "washington",
+        "volcano",
+        "wildflowers"
+      ]
+    },
+    {
+      "file": "sequoia.webp",
+      "name": "Sequoia",
+      "tags": [
+        "california",
+        "giant trees",
+        "forest"
+      ]
+    },
+    {
+      "file": "kings-canyon.webp",
+      "name": "Kings Canyon",
+      "tags": [
+        "california",
+        "canyon",
+        "river"
+      ]
+    },
+    {
+      "file": "joshua-tree.webp",
+      "name": "Joshua Tree",
+      "tags": [
+        "california",
+        "desert",
+        "boulders"
+      ]
+    },
+    {
+      "file": "bryce-canyon.webp",
+      "name": "Bryce Canyon",
+      "tags": [
+        "utah",
+        "hoodoos",
+        "canyon"
+      ]
+    },
+    {
+      "file": "capitol-reef.webp",
+      "name": "Capitol Reef",
+      "tags": [
+        "utah",
+        "cliffs",
+        "orchards"
+      ]
+    },
+    {
+      "file": "canyonlands.webp",
+      "name": "Canyonlands",
+      "tags": [
+        "utah",
+        "canyon",
+        "desert"
+      ]
+    },
+    {
+      "file": "hawaii-volcanoes.webp",
+      "name": "Hawaii Volcanoes",
+      "tags": [
+        "hawaii",
+        "lava",
+        "volcano"
+      ]
+    },
+    {
+      "file": "haleakala.webp",
+      "name": "Haleakala",
+      "tags": [
+        "hawaii",
+        "crater",
+        "clouds"
+      ]
+    },
+    {
+      "file": "great-smoky-mountains.webp",
+      "name": "Great Smoky Mountains",
+      "tags": [
+        "tennessee",
+        "mountains",
+        "cabin"
+      ]
+    },
+    {
+      "file": "wind-cave.webp",
+      "name": "Wind Cave",
+      "tags": [
+        "south dakota",
+        "bison",
+        "prairie"
+      ]
+    },
+    {
+      "file": "theodore-roosevelt.webp",
+      "name": "Theodore Roosevelt",
+      "tags": [
+        "north dakota",
+        "badlands",
+        "horses"
+      ]
+    },
+    {
+      "file": "voyageurs.webp",
+      "name": "Voyageurs",
+      "tags": [
+        "minnesota",
+        "lakes",
+        "canoe"
+      ]
+    },
+    {
+      "file": "isle-royale.webp",
+      "name": "Isle Royale",
+      "tags": [
+        "michigan",
+        "moose",
+        "island"
+      ]
+    },
+    {
+      "file": "indiana-dunes.webp",
+      "name": "Indiana Dunes",
+      "tags": [
+        "indiana",
+        "dunes",
+        "lake"
+      ]
+    },
+    {
+      "file": "cuyahoga-valley.webp",
+      "name": "Cuyahoga Valley",
+      "tags": [
+        "ohio",
+        "waterfall",
+        "train"
+      ]
+    },
+    {
+      "file": "hot-springs.webp",
+      "name": "Hot Springs",
+      "tags": [
+        "arkansas",
+        "bathhouse",
+        "springs"
+      ]
+    },
+    {
+      "file": "petrified-forest.webp",
+      "name": "Petrified Forest",
+      "tags": [
+        "arizona",
+        "petrified wood",
+        "desert"
+      ]
+    },
+    {
+      "file": "great-sand-dunes.webp",
+      "name": "Great Sand Dunes",
+      "tags": [
+        "colorado",
+        "dunes",
+        "mountains"
+      ]
+    },
+    {
+      "file": "mesa-verde.webp",
+      "name": "Mesa Verde",
+      "tags": [
+        "colorado",
+        "cliff dwellings",
+        "ancient"
+      ]
+    },
+    {
+      "file": "black-canyon.webp",
+      "name": "Black Canyon",
+      "tags": [
+        "colorado",
+        "canyon",
+        "cliffs"
+      ]
+    },
+    {
+      "file": "lassen-volcanic.webp",
+      "name": "Lassen Volcanic",
+      "tags": [
+        "california",
+        "volcano",
+        "hot springs"
+      ]
+    },
+    {
+      "file": "katmai.webp",
+      "name": "Katmai",
+      "tags": [
+        "alaska",
+        "bears",
+        "salmon"
+      ]
+    },
+    {
+      "file": "channel-islands.webp",
+      "name": "Channel Islands",
+      "tags": [
+        "california",
+        "island",
+        "fox"
+      ]
+    },
+    {
+      "file": "north-cascades.webp",
+      "name": "North Cascades",
+      "tags": [
+        "washington",
+        "mountains",
+        "lake"
+      ]
+    },
+    {
+      "file": "glacier-bay.webp",
+      "name": "Glacier Bay",
+      "tags": [
+        "alaska",
+        "glacier",
+        "ice"
+      ]
+    },
+    {
+      "file": "kenai-fjords.webp",
+      "name": "Kenai Fjords",
+      "tags": [
+        "alaska",
+        "whale",
+        "fjord"
+      ]
+    },
+    {
+      "file": "arches.webp",
+      "name": "Arches",
+      "tags": [
+        "utah",
+        "arch",
+        "desert"
+      ]
+    },
+    {
+      "file": "denali.webp",
+      "name": "Denali",
+      "tags": [
+        "alaska",
+        "mountain",
+        "snow"
+      ]
+    },
+    {
+      "file": "mammoth-cave.webp",
+      "name": "Mammoth Cave",
+      "tags": [
+        "kentucky",
+        "cave",
+        "lantern"
+      ]
+    },
+    {
+      "file": "carlsbad-caverns.webp",
+      "name": "Carlsbad Caverns",
+      "tags": [
+        "new mexico",
+        "cave",
+        "stalactites"
+      ]
+    },
+    {
+      "file": "big-bend.webp",
+      "name": "Big Bend",
+      "tags": [
+        "texas",
+        "canyon",
+        "river"
+      ]
+    },
+    {
+      "file": "badlands.webp",
+      "name": "Badlands",
+      "tags": [
+        "south dakota",
+        "bison",
+        "buttes"
+      ]
+    },
+    {
+      "file": "redwood.webp",
+      "name": "Redwood",
+      "tags": [
+        "california",
+        "redwoods",
+        "forest"
+      ]
+    },
+    {
+      "file": "shenandoah.webp",
+      "name": "Shenandoah",
+      "tags": [
+        "virginia",
+        "autumn",
+        "scenic drive"
+      ]
+    }
+  ]
+}

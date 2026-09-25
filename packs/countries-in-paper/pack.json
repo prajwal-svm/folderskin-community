@@ -1,0 +1,447 @@
+{
+  "version": 1,
+  "name": "Countries in Paper",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "countries",
+    "travel",
+    "landmarks",
+    "paper craft",
+    "world"
+  ],
+  "skins": [
+    {
+      "file": "united-kingdom.webp",
+      "name": "United Kingdom",
+      "tags": [
+        "london",
+        "big ben",
+        "europe"
+      ]
+    },
+    {
+      "file": "france.webp",
+      "name": "France",
+      "tags": [
+        "paris",
+        "eiffel tower",
+        "europe"
+      ]
+    },
+    {
+      "file": "germany.webp",
+      "name": "Germany",
+      "tags": [
+        "berlin",
+        "brandenburg gate",
+        "europe"
+      ]
+    },
+    {
+      "file": "italy.webp",
+      "name": "Italy",
+      "tags": [
+        "rome",
+        "colosseum",
+        "europe"
+      ]
+    },
+    {
+      "file": "spain.webp",
+      "name": "Spain",
+      "tags": [
+        "barcelona",
+        "sagrada familia",
+        "europe"
+      ]
+    },
+    {
+      "file": "portugal.webp",
+      "name": "Portugal",
+      "tags": [
+        "lisbon",
+        "tram",
+        "europe"
+      ]
+    },
+    {
+      "file": "greece.webp",
+      "name": "Greece",
+      "tags": [
+        "santorini",
+        "islands",
+        "europe"
+      ]
+    },
+    {
+      "file": "netherlands.webp",
+      "name": "Netherlands",
+      "tags": [
+        "windmill",
+        "tulips",
+        "europe"
+      ]
+    },
+    {
+      "file": "switzerland.webp",
+      "name": "Switzerland",
+      "tags": [
+        "alps",
+        "chalet",
+        "europe"
+      ]
+    },
+    {
+      "file": "austria.webp",
+      "name": "Austria",
+      "tags": [
+        "alps",
+        "hallstatt",
+        "europe"
+      ]
+    },
+    {
+      "file": "czechia.webp",
+      "name": "Czechia",
+      "tags": [
+        "prague",
+        "castle",
+        "europe"
+      ]
+    },
+    {
+      "file": "poland.webp",
+      "name": "Poland",
+      "tags": [
+        "krakow",
+        "old town",
+        "europe"
+      ]
+    },
+    {
+      "file": "ireland.webp",
+      "name": "Ireland",
+      "tags": [
+        "cliffs of moher",
+        "coast",
+        "europe"
+      ]
+    },
+    {
+      "file": "iceland.webp",
+      "name": "Iceland",
+      "tags": [
+        "waterfall",
+        "nordic",
+        "europe"
+      ]
+    },
+    {
+      "file": "norway.webp",
+      "name": "Norway",
+      "tags": [
+        "fjords",
+        "nordic",
+        "europe"
+      ]
+    },
+    {
+      "file": "sweden.webp",
+      "name": "Sweden",
+      "tags": [
+        "stockholm",
+        "nordic",
+        "europe"
+      ]
+    },
+    {
+      "file": "finland.webp",
+      "name": "Finland",
+      "tags": [
+        "lakes",
+        "birch",
+        "nordic"
+      ]
+    },
+    {
+      "file": "russia.webp",
+      "name": "Russia",
+      "tags": [
+        "moscow",
+        "st basils",
+        "europe"
+      ]
+    },
+    {
+      "file": "turkey.webp",
+      "name": "Turkey",
+      "tags": [
+        "istanbul",
+        "hagia sophia",
+        "asia"
+      ]
+    },
+    {
+      "file": "egypt.webp",
+      "name": "Egypt",
+      "tags": [
+        "pyramids",
+        "sphinx",
+        "africa"
+      ]
+    },
+    {
+      "file": "morocco.webp",
+      "name": "Morocco",
+      "tags": [
+        "chefchaouen",
+        "blue city",
+        "africa"
+      ]
+    },
+    {
+      "file": "kenya.webp",
+      "name": "Kenya",
+      "tags": [
+        "safari",
+        "giraffe",
+        "africa"
+      ]
+    },
+    {
+      "file": "tanzania.webp",
+      "name": "Tanzania",
+      "tags": [
+        "kilimanjaro",
+        "savanna",
+        "africa"
+      ]
+    },
+    {
+      "file": "ethiopia.webp",
+      "name": "Ethiopia",
+      "tags": [
+        "lalibela",
+        "highlands",
+        "africa"
+      ]
+    },
+    {
+      "file": "nigeria.webp",
+      "name": "Nigeria",
+      "tags": [
+        "zuma rock",
+        "savanna",
+        "africa"
+      ]
+    },
+    {
+      "file": "south-africa.webp",
+      "name": "South Africa",
+      "tags": [
+        "cape town",
+        "table mountain",
+        "africa"
+      ]
+    },
+    {
+      "file": "united-arab-emirates.webp",
+      "name": "United Arab Emirates",
+      "tags": [
+        "dubai",
+        "skyscrapers",
+        "middle east"
+      ]
+    },
+    {
+      "file": "india.webp",
+      "name": "India",
+      "tags": [
+        "taj mahal",
+        "agra",
+        "asia"
+      ]
+    },
+    {
+      "file": "nepal.webp",
+      "name": "Nepal",
+      "tags": [
+        "himalaya",
+        "prayer flags",
+        "asia"
+      ]
+    },
+    {
+      "file": "sri-lanka.webp",
+      "name": "Sri Lanka",
+      "tags": [
+        "sigiriya",
+        "jungle",
+        "asia"
+      ]
+    },
+    {
+      "file": "china.webp",
+      "name": "China",
+      "tags": [
+        "great wall",
+        "pagoda",
+        "asia"
+      ]
+    },
+    {
+      "file": "japan.webp",
+      "name": "Japan",
+      "tags": [
+        "mount fuji",
+        "torii",
+        "asia"
+      ]
+    },
+    {
+      "file": "south-korea.webp",
+      "name": "South Korea",
+      "tags": [
+        "seoul",
+        "palace",
+        "asia"
+      ]
+    },
+    {
+      "file": "thailand.webp",
+      "name": "Thailand",
+      "tags": [
+        "bangkok",
+        "temple",
+        "asia"
+      ]
+    },
+    {
+      "file": "vietnam.webp",
+      "name": "Vietnam",
+      "tags": [
+        "ha long bay",
+        "junk boat",
+        "asia"
+      ]
+    },
+    {
+      "file": "philippines.webp",
+      "name": "Philippines",
+      "tags": [
+        "beach",
+        "islands",
+        "asia"
+      ]
+    },
+    {
+      "file": "australia.webp",
+      "name": "Australia",
+      "tags": [
+        "sydney",
+        "opera house",
+        "oceania"
+      ]
+    },
+    {
+      "file": "new-zealand.webp",
+      "name": "New Zealand",
+      "tags": [
+        "fjords",
+        "mountains",
+        "oceania"
+      ]
+    },
+    {
+      "file": "united-states.webp",
+      "name": "United States",
+      "tags": [
+        "grand canyon",
+        "usa",
+        "north america"
+      ]
+    },
+    {
+      "file": "canada.webp",
+      "name": "Canada",
+      "tags": [
+        "maple leaf",
+        "lakes",
+        "north america"
+      ]
+    },
+    {
+      "file": "mexico.webp",
+      "name": "Mexico",
+      "tags": [
+        "pyramid",
+        "maya",
+        "north america"
+      ]
+    },
+    {
+      "file": "cuba.webp",
+      "name": "Cuba",
+      "tags": [
+        "havana",
+        "classic car",
+        "caribbean"
+      ]
+    },
+    {
+      "file": "jamaica.webp",
+      "name": "Jamaica",
+      "tags": [
+        "beach",
+        "tropical",
+        "caribbean"
+      ]
+    },
+    {
+      "file": "colombia.webp",
+      "name": "Colombia",
+      "tags": [
+        "cartagena",
+        "colonial",
+        "south america"
+      ]
+    },
+    {
+      "file": "brazil.webp",
+      "name": "Brazil",
+      "tags": [
+        "rio",
+        "christ the redeemer",
+        "south america"
+      ]
+    },
+    {
+      "file": "peru.webp",
+      "name": "Peru",
+      "tags": [
+        "machu picchu",
+        "andes",
+        "south america"
+      ]
+    },
+    {
+      "file": "chile.webp",
+      "name": "Chile",
+      "tags": [
+        "easter island",
+        "moai",
+        "south america"
+      ]
+    },
+    {
+      "file": "argentina.webp",
+      "name": "Argentina",
+      "tags": [
+        "buenos aires",
+        "la boca",
+        "south america"
+      ]
+    }
+  ]
+}

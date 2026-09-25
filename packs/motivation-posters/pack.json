@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "name": "Motivation Posters",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "motivation",
+    "posters",
+    "goals",
+    "retro",
+    "bold"
+  ],
+  "skins": [
+    {
+      "file": "summit.webp",
+      "name": "Summit",
+      "tags": [
+        "mountain",
+        "peak"
+      ]
+    },
+    {
+      "file": "launch.webp",
+      "name": "Launch",
+      "tags": [
+        "rocket",
+        "start",
+        "launch"
+      ]
+    },
+    {
+      "file": "finish-line.webp",
+      "name": "Finish Line",
+      "tags": [
+        "running",
+        "race",
+        "win"
+      ]
+    },
+    {
+      "file": "reach.webp",
+      "name": "Reach",
+      "tags": [
+        "climbing",
+        "ambition",
+        "reach"
+      ]
+    },
+    {
+      "file": "grit.webp",
+      "name": "Grit",
+      "tags": [
+        "growth",
+        "sprout",
+        "resilience"
+      ]
+    },
+    {
+      "file": "guide.webp",
+      "name": "Guide",
+      "tags": [
+        "lighthouse",
+        "direction",
+        "guidance"
+      ]
+    },
+    {
+      "file": "journey.webp",
+      "name": "Journey",
+      "tags": [
+        "road",
+        "path",
+        "journey"
+      ]
+    },
+    {
+      "file": "rise.webp",
+      "name": "Rise",
+      "tags": [
+        "phoenix",
+        "comeback",
+        "rise"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "name": "Engineering Blueprints",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "engineering",
+    "mechanical",
+    "blueprint",
+    "machines",
+    "drafting"
+  ],
+  "skins": [
+    {
+      "file": "gears.webp",
+      "name": "Gears",
+      "tags": [
+        "gears",
+        "mechanism"
+      ]
+    },
+    {
+      "file": "engine.webp",
+      "name": "Engine",
+      "tags": [
+        "engine",
+        "motor",
+        "cylinders"
+      ]
+    },
+    {
+      "file": "pistons.webp",
+      "name": "Pistons",
+      "tags": [
+        "pistons",
+        "engine",
+        "cylinders"
+      ]
+    },
+    {
+      "file": "crankshaft.webp",
+      "name": "Crankshaft",
+      "tags": [
+        "crankshaft",
+        "engine",
+        "parts"
+      ]
+    },
+    {
+      "file": "gearbox.webp",
+      "name": "Gearbox",
+      "tags": [
+        "gearbox",
+        "transmission",
+        "gears"
+      ]
+    },
+    {
+      "file": "turbine.webp",
+      "name": "Turbine",
+      "tags": [
+        "turbine",
+        "power",
+        "blades"
+      ]
+    },
+    {
+      "file": "jet-engine.webp",
+      "name": "Jet Engine",
+      "tags": [
+        "jet",
+        "aviation",
+        "turbine"
+      ]
+    },
+    {
+      "file": "wind-turbine.webp",
+      "name": "Wind Turbine",
+      "tags": [
+        "wind",
+        "renewable",
+        "energy"
+      ]
+    },
+    {
+      "file": "ball-bearings.webp",
+      "name": "Ball Bearings",
+      "tags": [
+        "bearings",
+        "rotation",
+        "parts"
+      ]
+    },
+    {
+      "file": "springs.webp",
+      "name": "Springs",
+      "tags": [
+        "springs",
+        "parts",
+        "mechanics"
+      ]
+    },
+    {
+      "file": "pulleys.webp",
+      "name": "Pulleys",
+      "tags": [
+        "pulleys",
+        "belts",
+        "mechanics"
+      ]
+    },
+    {
+      "file": "clockwork.webp",
+      "name": "Clockwork",
+      "tags": [
+        "clockwork",
+        "gears",
+        "time"
+      ]
+    },
+    {
+      "file": "robot-arm.webp",
+      "name": "Robot Arm",
+      "tags": [
+        "robotics",
+        "automation",
+        "arm"
+      ]
+    },
+    {
+      "file": "3d-printer.webp",
+      "name": "3D Printer",
+      "tags": [
+        "3d printing",
+        "maker",
+        "prototype"
+      ]
+    },
+    {
+      "file": "lathe.webp",
+      "name": "Lathe",
+      "tags": [
+        "lathe",
+        "machining",
+        "workshop"
+      ]
+    },
+    {
+      "file": "welding.webp",
+      "name": "Welding",
+      "tags": [
+        "welding",
+        "sparks",
+        "metal"
+      ]
+    },
+    {
+      "file": "drafting-table.webp",
+      "name": "Drafting Table",
+      "tags": [
+        "cad",
+        "design"
+      ]
+    },
+    {
+      "file": "truss-bridge.webp",
+      "name": "Truss Bridge",
+      "tags": [
+        "bridge",
+        "structures",
+        "civil"
+      ]
+    }
+  ]
+}

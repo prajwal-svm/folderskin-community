@@ -7,48 +7,99 @@
     "hollywood",
     "movies",
     "film",
-    "vintage"
+    "vintage",
+    "celebrities"
   ],
   "skins": [
     {
       "file": "hollywood-sign.webp",
-      "name": "Hollywood Sign"
+      "name": "Hollywood Sign",
+      "tags": [
+        "los angeles",
+        "sign",
+        "landmark"
+      ]
     },
     {
       "file": "oscars.webp",
-      "name": "Oscars"
+      "name": "Oscars",
+      "tags": [
+        "awards",
+        "oscar",
+        "ceremony"
+      ]
     },
     {
       "file": "marilyn.webp",
-      "name": "Marilyn"
+      "name": "Marilyn",
+      "tags": [
+        "marilyn monroe",
+        "icon",
+        "1950s"
+      ]
     },
     {
       "file": "audrey.webp",
-      "name": "Audrey"
+      "name": "Audrey",
+      "tags": [
+        "audrey hepburn",
+        "breakfast at tiffanys",
+        "icon"
+      ]
     },
     {
       "file": "chaplin.webp",
-      "name": "Chaplin"
+      "name": "Chaplin",
+      "tags": [
+        "charlie chaplin",
+        "silent film",
+        "comedy"
+      ]
     },
     {
       "file": "casablanca.webp",
-      "name": "Casablanca"
+      "name": "Casablanca",
+      "tags": [
+        "casablanca",
+        "classic film",
+        "romance"
+      ]
     },
     {
       "file": "rebel.webp",
-      "name": "Rebel"
+      "name": "Rebel",
+      "tags": [
+        "james dean",
+        "rebel",
+        "cars"
+      ]
     },
     {
       "file": "chinese-theatre.webp",
-      "name": "Chinese Theatre"
+      "name": "Chinese Theatre",
+      "tags": [
+        "graumans",
+        "theatre",
+        "premiere"
+      ]
     },
     {
       "file": "oz.webp",
-      "name": "Oz"
+      "name": "Oz",
+      "tags": [
+        "wizard of oz",
+        "yellow brick road",
+        "fantasy"
+      ]
     },
     {
       "file": "king-kong.webp",
-      "name": "King Kong"
+      "name": "King Kong",
+      "tags": [
+        "king kong",
+        "empire state",
+        "monster"
+      ]
     }
   ]
 }

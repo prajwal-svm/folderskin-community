@@ -7,88 +7,188 @@
     "subjects",
     "school",
     "science",
-    "vintage"
+    "vintage",
+    "study"
   ],
   "skins": [
     {
       "file": "mathematics.webp",
-      "name": "Mathematics"
+      "name": "Mathematics",
+      "tags": [
+        "maths",
+        "math",
+        "numbers"
+      ]
     },
     {
       "file": "physics.webp",
-      "name": "Physics"
+      "name": "Physics",
+      "tags": [
+        "physics",
+        "einstein"
+      ]
     },
     {
       "file": "chemistry.webp",
-      "name": "Chemistry"
+      "name": "Chemistry",
+      "tags": [
+        "chemistry",
+        "marie curie",
+        "lab"
+      ]
     },
     {
       "file": "biology.webp",
-      "name": "Biology"
+      "name": "Biology",
+      "tags": [
+        "biology",
+        "life",
+        "nature"
+      ]
     },
     {
       "file": "astronomy.webp",
-      "name": "Astronomy"
+      "name": "Astronomy",
+      "tags": [
+        "astronomy",
+        "stars",
+        "telescope"
+      ]
     },
     {
       "file": "economics.webp",
-      "name": "Economics"
+      "name": "Economics",
+      "tags": [
+        "economics",
+        "wall street",
+        "markets"
+      ]
     },
     {
       "file": "computer-science.webp",
-      "name": "Computer Science"
+      "name": "Computer Science",
+      "tags": [
+        "computer science",
+        "coding",
+        "computers"
+      ]
     },
     {
       "file": "artificial-intelligence.webp",
-      "name": "Artificial Intelligence"
+      "name": "Artificial Intelligence",
+      "tags": [
+        "ai",
+        "robots",
+        "future"
+      ]
     },
     {
       "file": "machine-learning.webp",
-      "name": "Machine Learning"
+      "name": "Machine Learning",
+      "tags": [
+        "machine learning",
+        "data",
+        "models"
+      ]
     },
     {
       "file": "electronics.webp",
-      "name": "Electronics"
+      "name": "Electronics",
+      "tags": [
+        "electronics",
+        "circuits",
+        "hardware"
+      ]
     },
     {
       "file": "engineering.webp",
-      "name": "Engineering"
+      "name": "Engineering",
+      "tags": [
+        "engineering",
+        "machines",
+        "design"
+      ]
     },
     {
       "file": "literature.webp",
-      "name": "Literature"
+      "name": "Literature",
+      "tags": [
+        "literature",
+        "books",
+        "reading"
+      ]
     },
     {
       "file": "history.webp",
-      "name": "History"
+      "name": "History",
+      "tags": [
+        "history",
+        "past",
+        "archives"
+      ]
     },
     {
       "file": "geography.webp",
-      "name": "Geography"
+      "name": "Geography",
+      "tags": [
+        "geography",
+        "maps",
+        "world"
+      ]
     },
     {
       "file": "languages.webp",
-      "name": "Languages"
+      "name": "Languages",
+      "tags": [
+        "languages",
+        "words",
+        "travel"
+      ]
     },
     {
       "file": "art.webp",
-      "name": "Art"
+      "name": "Art",
+      "tags": [
+        "art",
+        "painting",
+        "creative"
+      ]
     },
     {
       "file": "music.webp",
-      "name": "Music"
+      "name": "Music",
+      "tags": [
+        "music",
+        "composers",
+        "classical"
+      ]
     },
     {
       "file": "psychology.webp",
-      "name": "Psychology"
+      "name": "Psychology",
+      "tags": [
+        "psychology",
+        "mind",
+        "behaviour"
+      ]
     },
     {
       "file": "philosophy.webp",
-      "name": "Philosophy"
+      "name": "Philosophy",
+      "tags": [
+        "philosophy",
+        "thinking",
+        "the thinker"
+      ]
     },
     {
       "file": "medicine.webp",
-      "name": "Medicine"
+      "name": "Medicine",
+      "tags": [
+        "medicine",
+        "health",
+        "doctors"
+      ]
     }
   ]
 }

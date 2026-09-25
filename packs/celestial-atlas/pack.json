@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "name": "Celestial Atlas",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "astronomy",
+    "space",
+    "stars",
+    "engraving",
+    "gold"
+  ],
+  "skins": [
+    {
+      "file": "telescope.webp",
+      "name": "Telescope",
+      "tags": [
+        "telescope",
+        "observing"
+      ]
+    },
+    {
+      "file": "observatory.webp",
+      "name": "Observatory",
+      "tags": [
+        "observatory",
+        "dome",
+        "telescope"
+      ]
+    },
+    {
+      "file": "constellations.webp",
+      "name": "Constellations",
+      "tags": [
+        "constellations",
+        "zodiac"
+      ]
+    },
+    {
+      "file": "star-map.webp",
+      "name": "Star Map",
+      "tags": [
+        "star map",
+        "sextant",
+        "navigation"
+      ]
+    },
+    {
+      "file": "moon-phases.webp",
+      "name": "Moon Phases",
+      "tags": [
+        "moon",
+        "phases",
+        "lunar"
+      ]
+    },
+    {
+      "file": "total-eclipse.webp",
+      "name": "Total Eclipse",
+      "tags": [
+        "eclipse",
+        "sun",
+        "moon"
+      ]
+    },
+    {
+      "file": "sunspots.webp",
+      "name": "Sunspots",
+      "tags": [
+        "sun",
+        "sunspots",
+        "solar"
+      ]
+    },
+    {
+      "file": "orrery.webp",
+      "name": "Orrery",
+      "tags": [
+        "orrery",
+        "planets",
+        "solar system"
+      ]
+    },
+    {
+      "file": "exoplanet.webp",
+      "name": "Exoplanet",
+      "tags": [
+        "exoplanet",
+        "planet",
+        "orbit"
+      ]
+    },
+    {
+      "file": "comet.webp",
+      "name": "Comet",
+      "tags": [
+        "comet",
+        "tail",
+        "sky"
+      ]
+    },
+    {
+      "file": "meteor-shower.webp",
+      "name": "Meteor Shower",
+      "tags": [
+        "meteors",
+        "shooting stars",
+        "night"
+      ]
+    },
+    {
+      "file": "aurora.webp",
+      "name": "Aurora",
+      "tags": [
+        "aurora",
+        "northern lights",
+        "sky"
+      ]
+    },
+    {
+      "file": "milky-way.webp",
+      "name": "Milky Way",
+      "tags": [
+        "milky way",
+        "night sky",
+        "hills"
+      ]
+    },
+    {
+      "file": "spiral-galaxy.webp",
+      "name": "Spiral Galaxy",
+      "tags": [
+        "galaxy",
+        "spiral",
+        "cosmos"
+      ]
+    },
+    {
+      "file": "supernova.webp",
+      "name": "Supernova",
+      "tags": [
+        "supernova",
+        "star",
+        "explosion"
+      ]
+    },
+    {
+      "file": "black-hole.webp",
+      "name": "Black Hole",
+      "tags": [
+        "black hole",
+        "gravity",
+        "cosmos"
+      ]
+    },
+    {
+      "file": "radio-telescopes.webp",
+      "name": "Radio Telescopes",
+      "tags": [
+        "radio",
+        "dishes",
+        "signals"
+      ]
+    }
+  ]
+}

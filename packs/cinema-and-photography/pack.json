@@ -7,48 +7,96 @@
     "cinema",
     "photography",
     "film",
-    "vintage"
+    "vintage",
+    "movies"
   ],
   "skins": [
     {
       "file": "drive-in.webp",
-      "name": "Drive-In"
+      "name": "Drive-In",
+      "tags": [
+        "drive-in",
+        "cars",
+        "retro"
+      ]
     },
     {
       "file": "films.webp",
-      "name": "Films"
+      "name": "Films",
+      "tags": [
+        "film reels",
+        "projector"
+      ]
     },
     {
       "file": "noir.webp",
-      "name": "Noir"
+      "name": "Noir",
+      "tags": [
+        "film noir",
+        "detective",
+        "black and white"
+      ]
     },
     {
       "file": "photos.webp",
-      "name": "Photos"
+      "name": "Photos",
+      "tags": [
+        "camera",
+        "photos",
+        "lens"
+      ]
     },
     {
       "file": "memories.webp",
-      "name": "Memories"
+      "name": "Memories",
+      "tags": [
+        "polaroids",
+        "memories",
+        "family"
+      ]
     },
     {
       "file": "cinema.webp",
-      "name": "Cinema"
+      "name": "Cinema",
+      "tags": [
+        "theatre",
+        "screen"
+      ]
     },
     {
       "file": "matinee.webp",
-      "name": "Matinee"
+      "name": "Matinee",
+      "tags": [
+        "matinee",
+        "tickets",
+        "retro"
+      ]
     },
     {
       "file": "movie-night.webp",
-      "name": "Movie Night"
+      "name": "Movie Night",
+      "tags": [
+        "movie night",
+        "popcorn",
+        "home"
+      ]
     },
     {
       "file": "picture-palace.webp",
-      "name": "Picture Palace"
+      "name": "Picture Palace",
+      "tags": [
+        "theatre",
+        "marquee"
+      ]
     },
     {
       "file": "outtakes.webp",
-      "name": "Outtakes"
+      "name": "Outtakes",
+      "tags": [
+        "outtakes",
+        "clapperboard",
+        "bloopers"
+      ]
     }
   ]
 }

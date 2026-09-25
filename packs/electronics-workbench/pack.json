@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "name": "Electronics Workbench",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "electronics",
+    "circuits",
+    "hardware",
+    "engineering",
+    "maker"
+  ],
+  "skins": [
+    {
+      "file": "circuit-board.webp",
+      "name": "Circuit Board",
+      "tags": [
+        "pcb",
+        "circuit board",
+        "traces"
+      ]
+    },
+    {
+      "file": "microcontroller.webp",
+      "name": "Microcontroller",
+      "tags": [
+        "microcontroller",
+        "board"
+      ]
+    },
+    {
+      "file": "soldering.webp",
+      "name": "Soldering",
+      "tags": [
+        "soldering",
+        "pcb",
+        "repair"
+      ]
+    },
+    {
+      "file": "oscilloscope.webp",
+      "name": "Oscilloscope",
+      "tags": [
+        "oscilloscope",
+        "signals",
+        "testing"
+      ]
+    },
+    {
+      "file": "multimeter.webp",
+      "name": "Multimeter",
+      "tags": [
+        "multimeter",
+        "testing",
+        "measurement"
+      ]
+    },
+    {
+      "file": "resistors.webp",
+      "name": "Resistors",
+      "tags": [
+        "resistors",
+        "components"
+      ]
+    },
+    {
+      "file": "capacitors.webp",
+      "name": "Capacitors",
+      "tags": [
+        "capacitors",
+        "components"
+      ]
+    },
+    {
+      "file": "transistor.webp",
+      "name": "Transistor",
+      "tags": [
+        "transistor",
+        "semiconductor",
+        "switch"
+      ]
+    },
+    {
+      "file": "integrated-circuit.webp",
+      "name": "Integrated Circuit",
+      "tags": [
+        "ic",
+        "chip",
+        "semiconductor"
+      ]
+    },
+    {
+      "file": "leds.webp",
+      "name": "LEDs",
+      "tags": [
+        "leds",
+        "lights"
+      ]
+    },
+    {
+      "file": "vacuum-tube.webp",
+      "name": "Vacuum Tube",
+      "tags": [
+        "vacuum tube",
+        "vintage",
+        "audio"
+      ]
+    },
+    {
+      "file": "relay.webp",
+      "name": "Relay",
+      "tags": [
+        "relay",
+        "switch",
+        "coil"
+      ]
+    },
+    {
+      "file": "transformer.webp",
+      "name": "Transformer",
+      "tags": [
+        "transformer",
+        "coils",
+        "power"
+      ]
+    },
+    {
+      "file": "electric-motor.webp",
+      "name": "Electric Motor",
+      "tags": [
+        "motor",
+        "coils",
+        "rotation"
+      ]
+    },
+    {
+      "file": "battery.webp",
+      "name": "Battery",
+      "tags": [
+        "battery",
+        "power",
+        "energy"
+      ]
+    },
+    {
+      "file": "solar-cell.webp",
+      "name": "Solar Cell",
+      "tags": [
+        "solar",
+        "panel",
+        "renewable"
+      ]
+    },
+    {
+      "file": "loudspeaker.webp",
+      "name": "Loudspeaker",
+      "tags": [
+        "speaker",
+        "audio",
+        "sound"
+      ]
+    },
+    {
+      "file": "antenna.webp",
+      "name": "Antenna",
+      "tags": [
+        "antenna",
+        "radio",
+        "signals"
+      ]
+    }
+  ]
+}

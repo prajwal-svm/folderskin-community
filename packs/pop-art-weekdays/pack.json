@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "name": "Pop Art Weekdays",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "pop art",
+    "weekdays",
+    "comic",
+    "planner",
+    "bold"
+  ],
+  "skins": [
+    {
+      "file": "monday.webp",
+      "name": "Monday",
+      "tags": [
+        "monday",
+        "coffee",
+        "week start"
+      ]
+    },
+    {
+      "file": "tuesday.webp",
+      "name": "Tuesday",
+      "tags": [
+        "tuesday",
+        "lightning",
+        "energy"
+      ]
+    },
+    {
+      "file": "wednesday.webp",
+      "name": "Wednesday",
+      "tags": [
+        "wednesday",
+        "camel",
+        "hump day"
+      ]
+    },
+    {
+      "file": "thursday.webp",
+      "name": "Thursday",
+      "tags": [
+        "thursday",
+        "storm",
+        "cloud"
+      ]
+    },
+    {
+      "file": "friday.webp",
+      "name": "Friday",
+      "tags": [
+        "friday",
+        "cocktail",
+        "weekend"
+      ]
+    },
+    {
+      "file": "saturday.webp",
+      "name": "Saturday",
+      "tags": [
+        "saturday",
+        "disco",
+        "party"
+      ]
+    },
+    {
+      "file": "sunday.webp",
+      "name": "Sunday",
+      "tags": [
+        "sunday",
+        "sun",
+        "rest"
+      ]
+    }
+  ]
+}

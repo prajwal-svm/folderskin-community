@@ -1,0 +1,285 @@
+{
+  "version": 1,
+  "name": "Watercolour World",
+  "author": "prajwal-svm",
+  "license": "CC0-1.0",
+  "tags": [
+    "travel",
+    "landmarks",
+    "watercolour",
+    "world",
+    "places"
+  ],
+  "skins": [
+    {
+      "file": "kyoto.webp",
+      "name": "Kyoto",
+      "tags": [
+        "japan",
+        "temple",
+        "autumn"
+      ]
+    },
+    {
+      "file": "santorini.webp",
+      "name": "Santorini",
+      "tags": [
+        "greece",
+        "island",
+        "sea"
+      ]
+    },
+    {
+      "file": "machu-picchu.webp",
+      "name": "Machu Picchu",
+      "tags": [
+        "peru",
+        "ruins",
+        "mountains"
+      ]
+    },
+    {
+      "file": "petra.webp",
+      "name": "Petra",
+      "tags": [
+        "jordan",
+        "ancient",
+        "desert"
+      ]
+    },
+    {
+      "file": "great-wall.webp",
+      "name": "Great Wall",
+      "tags": [
+        "china",
+        "wall",
+        "mountains"
+      ]
+    },
+    {
+      "file": "marrakech.webp",
+      "name": "Marrakech",
+      "tags": [
+        "morocco",
+        "market",
+        "spices"
+      ]
+    },
+    {
+      "file": "venice.webp",
+      "name": "Venice",
+      "tags": [
+        "italy",
+        "canal",
+        "gondola"
+      ]
+    },
+    {
+      "file": "iceland.webp",
+      "name": "Iceland",
+      "tags": [
+        "iceland",
+        "waterfall",
+        "nature"
+      ]
+    },
+    {
+      "file": "cape-town.webp",
+      "name": "Cape Town",
+      "tags": [
+        "south africa",
+        "table mountain",
+        "harbour"
+      ]
+    },
+    {
+      "file": "seoul.webp",
+      "name": "Seoul",
+      "tags": [
+        "korea",
+        "palace",
+        "lanterns"
+      ]
+    },
+    {
+      "file": "amalfi-coast.webp",
+      "name": "Amalfi Coast",
+      "tags": [
+        "italy",
+        "coast",
+        "village"
+      ]
+    },
+    {
+      "file": "bali.webp",
+      "name": "Bali",
+      "tags": [
+        "indonesia",
+        "rice terraces",
+        "tropical"
+      ]
+    },
+    {
+      "file": "istanbul.webp",
+      "name": "Istanbul",
+      "tags": [
+        "turkey",
+        "mosque",
+        "bosphorus"
+      ]
+    },
+    {
+      "file": "angkor-wat.webp",
+      "name": "Angkor Wat",
+      "tags": [
+        "cambodia",
+        "temple",
+        "ruins"
+      ]
+    },
+    {
+      "file": "prague.webp",
+      "name": "Prague",
+      "tags": [
+        "czechia",
+        "bridge",
+        "old town"
+      ]
+    },
+    {
+      "file": "havana.webp",
+      "name": "Havana",
+      "tags": [
+        "cuba",
+        "classic cars",
+        "colonial"
+      ]
+    },
+    {
+      "file": "banff.webp",
+      "name": "Banff",
+      "tags": [
+        "canada",
+        "lake",
+        "mountains"
+      ]
+    },
+    {
+      "file": "cappadocia.webp",
+      "name": "Cappadocia",
+      "tags": [
+        "turkey",
+        "balloons",
+        "valley"
+      ]
+    },
+    {
+      "file": "lisbon.webp",
+      "name": "Lisbon",
+      "tags": [
+        "portugal",
+        "tram",
+        "tiles"
+      ]
+    },
+    {
+      "file": "ha-long-bay.webp",
+      "name": "Ha Long Bay",
+      "tags": [
+        "vietnam",
+        "bay",
+        "junk boats"
+      ]
+    },
+    {
+      "file": "maasai-mara.webp",
+      "name": "Maasai Mara",
+      "tags": [
+        "kenya",
+        "zebras",
+        "savanna"
+      ]
+    },
+    {
+      "file": "milford-sound.webp",
+      "name": "Milford Sound",
+      "tags": [
+        "new zealand",
+        "fjord",
+        "mountains"
+      ]
+    },
+    {
+      "file": "lofoten.webp",
+      "name": "Lofoten",
+      "tags": [
+        "norway",
+        "fishing village",
+        "fjord"
+      ]
+    },
+    {
+      "file": "nile.webp",
+      "name": "Nile",
+      "tags": [
+        "egypt",
+        "river",
+        "sailboats"
+      ]
+    },
+    {
+      "file": "kerala.webp",
+      "name": "Kerala",
+      "tags": [
+        "india",
+        "backwaters",
+        "houseboat"
+      ]
+    },
+    {
+      "file": "chichen-itza.webp",
+      "name": "Chichen Itza",
+      "tags": [
+        "mexico",
+        "pyramid",
+        "maya"
+      ]
+    },
+    {
+      "file": "scotland.webp",
+      "name": "Scotland",
+      "tags": [
+        "scotland",
+        "castle",
+        "loch"
+      ]
+    },
+    {
+      "file": "lauterbrunnen.webp",
+      "name": "Lauterbrunnen",
+      "tags": [
+        "switzerland",
+        "valley",
+        "waterfall"
+      ]
+    },
+    {
+      "file": "iguazu-falls.webp",
+      "name": "Iguazu Falls",
+      "tags": [
+        "argentina",
+        "waterfalls",
+        "jungle"
+      ]
+    },
+    {
+      "file": "zhangjiajie.webp",
+      "name": "Zhangjiajie",
+      "tags": [
+        "china",
+        "pillars",
+        "mountains"
+      ]
+    }
+  ]
+}
