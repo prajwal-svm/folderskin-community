@@ -48,5 +48,7 @@
     "wanderlust",
     "watercolour-world"
   ],
-  "mirrors": []
+  "mirrors": [
+    "https://packs.folderskin.app"
+  ]
 }
