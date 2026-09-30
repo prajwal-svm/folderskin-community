@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "generation": "968011eb0f23877a",
+  "generation": "d7dbeb058796ecf1",
   "packs": 32,
   "skins": 536,
   "catalog": {
-    "url": "catalog/968011eb0f23877a.sqlite.gz",
-    "sha256": "e087045351ae718e904b10d9ac7841dd250187fe1e95342394e6cfea9b8da73e",
-    "bytes": 211166
+    "url": "catalog/d7dbeb058796ecf1.sqlite.gz",
+    "sha256": "3ddae0070b65e2ae87e923455fefc87b92037fadd0acf352e49c0728475cf50a",
+    "bytes": 214156
   },
   "featured": [
     "scientists-pop-art-nb3dfx",
@@ -61,7 +61,7 @@
     "wanderlust": "wanderlust-xt3iav",
     "watercolour-world": "watercolour-world-rt2klu"
   },
-  "collection": 587,
+  "collection": 594,
   "collection_license": "MIT",
-  "collection_manifest": "collection/0c1a5fae54d2af46.json"
+  "collection_manifest": "collection/9cfb6ded8c5e0cf5.json"
 }
