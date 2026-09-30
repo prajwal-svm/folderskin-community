@@ -32,6 +32,10 @@ reads this repository from GitHub, or the same files from its copy at `packs.fol
   pack's id, made from its name and six random characters, such as `classic-art-k7q2mx`. Names
   can repeat, so many packs can be called Classic Art, but every id is different, and an id never
   changes.
+- `collection/` is FolderSkin's official collection: official skins that belong to no pack, with
+  no licence and no limit on how many. `collection.json` lists each picture with its name, tags
+  and the day it was added. The app shows it as the **Official** tab in Community, where each
+  skin is used on its own. Only the maintainer adds to it, with `folderskin-tools collection add`.
 - `moved.json` records the ids packs had before they were given generated ones, each old id with
   the id that pack has now, so links and the packs people added under an old id still find it.
 - `index.json`, `previews/<id>.png` and `v2/` are what the app downloads: the list of packs, a
