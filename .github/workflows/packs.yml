@@ -19,6 +19,7 @@ on:
     branches: [main]
     paths:
       - "packs/**"
+      - "collection/**"
       - "featured.json"
       - "official.json"
       - "moved.json"
