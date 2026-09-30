@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "generation": "872499e86944f0ff",
+  "generation": "968011eb0f23877a",
   "packs": 32,
   "skins": 536,
   "catalog": {
-    "url": "catalog/872499e86944f0ff.sqlite.gz",
-    "sha256": "5d739cc6393c50a56c050b4286e2c0a9fea2fd50cad14d7c0e1602a60d9d8827",
-    "bytes": 93703
+    "url": "catalog/968011eb0f23877a.sqlite.gz",
+    "sha256": "e087045351ae718e904b10d9ac7841dd250187fe1e95342394e6cfea9b8da73e",
+    "bytes": 211166
   },
   "featured": [
     "scientists-pop-art-nb3dfx",
@@ -60,5 +60,8 @@
     "us-national-parks": "us-national-parks-c6setq",
     "wanderlust": "wanderlust-xt3iav",
     "watercolour-world": "watercolour-world-rt2klu"
-  }
+  },
+  "collection": 587,
+  "collection_license": "MIT",
+  "collection_manifest": "collection/0c1a5fae54d2af46.json"
 }
